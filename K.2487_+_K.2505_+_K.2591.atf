@@ -1,0 +1,170 @@
+﻿&P394464 = K.2487 + K.2505 + K.2591 = BMS 2
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#The tablet contains an incomplete šuila to Tašmētu 2 (Q006178), then Ninurta 1 (Q006135), and then another incomplete šuila to Tašmētu 3 (Q006179).
+#Restorations are based on duplicates unless otherwise noted.
+
+@tablet
+
+@obverse
+
+$ beginning of obverse missing
+o1'. [...] x [...]
+#tr.en: [. . .]
+
+o2'. [...] x# ina DINGIR-MEŠ [...]
+#tr.en: [. . .] among the gods [. . . ].
+
+o3'. [...] GAŠAN-MU as-sa₃-har [...]
+#tr.en: [. . .] my lady, I have turned [. . .]
+
+o4'. [...]-ki e-še-ʾ be-lut-ki
+#tr. en: [. . .] your [. . .], I seek your rulership.
+
+o5'. [...]-sin#-ni-ma qi₂-bi-i SIG₅{+tim}
+#tr.en: [. . .] at me and intercede (on my behalf).
+
+o6'. [...]-qa hul-li-qi₂ HUL{+tim}
+#tr.en: [. . .], abolish evil.
+
+o7'. [...] x# ia-a-ti pa-lih-ki
+#tr.en: [. . .] me, the one who fears you.
+
+o8'. [...] x# lu-ša₂-pi da₃-li₂-li₂-ki lud-lul
+#tr.en: that I may proclaim [. . .] (and) I may resound your praises.
+
+$ single ruling
+o9'. [KA]-INIM#-MA ŠU#-IL₂-LA₂ {d}TAŠ-ME-TUM-KAM* DU₃.DU₃.BI NIG₂.NA ŠIM.LI
+#tr.en: It is [the wo]rding of a lifted-hand prayer to Tashmetu. Its ritual: a censer of juniper
+
+o10'. [ana] IGI# {d}taš-me-tum GAR{+an} KAŠ.SAG BAL{+qi₂}-ma ŠID{+tam} an-ni-tam ŠID[{+nu}]
+#tr.en: you place [be]fore Tashmetu. You libate first-rate beer and reci[te] this recitation.
+
+$ single ruling
+o11'. EN₂ ap-lu gaš-ru bu-kur₂ {d}+EN.LIL₂#
+#tr.en: Incantation: Mighty scion, son of Enlil,
+
+o12'. šur-bu-u [git₂]-ma-lu i-lit-ti E₂.ŠAR₂.RA#
+#tr.en: Most supreme, [per]fect one, progeny of Eshara,
+
+o13'. ša pu-luh-tam# [lit]-bu-šu ma-lu-u hur-ba#-[šu₂]
+#tr.en: Who is [clo]thed with fear, filled with terro[r],
+
+o14'. {d}UTU.ULU₃{+lu} [la im]-mah#-ha-ru qa#-bal#-šu₂#
+#tr.en: "Storm of the South," whose onslaught [cannot be] opposed,
+
+o15'. šu-pu-u man-[za-za-šu₂] ina DINGIR-MEŠ GAL-MEŠ
+#tr.en: [Whose (celestial) po]sition is resplendent among the great gods,
+
+o16'. ina E₂.KUR E₂ ta-[ši]-la#-a#-ti# ša₂-qa-a re-ša₂-a-ka
+#tr.en: In Ekur, the house of cele[br]ations, your head is high.
+
+o17'. id-din-ka-ma# {d}+EN.LIL₂ AD-ka
+#tr.en: Enlil, your father, gave you,
+
+o18'. te-rit kul-lat# DINGIR-MEŠ qa-tuk-ka tam-hat
+#tr.en: Executive power over all the gods; it is held in your hand.
+
+o19'. ta-dan di-in te-ne-še-e-ti
+#tr.en: You pass judgment upon the people.
+
+o20'. tuš-te-šir la# šu-šu-ru i-ka-a e-ku-ti
+#tr.en: You secure justice for the misguided, the orphaned boy and girl.
+
+o21'. ta-ṣab-bat ŠU en#-ši# la li-ʾ-a tu-ša₂-aš₂-qa
+#tr.en: You take the hand of the powerless, you raise up the helpless.
+
+o22'. ša₂ a-na a-ra-al-[le]-e# šu-ru-du pa-gar-šu₂ GUR{+ra}
+#tr.en: You return the body (lit. his body) of the one being made to descend into the netherworld.
+
+o23'. ša₂ ar₂-nu i-[šu]-u₂# ta-paṭ-ṭar ar₂-nu
+#tr.en: You forgive the guilt of the one who ha[s inc]urred guilt.
+
+@reverse 
+
+r1. ša₂ DINGIR-šu₂ KI-šu₂ zi-nu-u₂ tu-sal-lam ar₂-hiš
+#tr.en: You restore peace quickly to the one whose (personal) god is angry with him.
+
+r2. {d}nin-urta a-ša₂-red DINGIR-MEŠ qu-ra-du at-ta
+#tr.en: O Ninurta, foremost of the gods, you (are) the hero.
+
+r3. ana-ku NENNI A NENNI ša₂ DINGIR-šu₂ NENNI {d}1(u) 5(diš)-šu₂ NENNI{+tum}
+#tr.en: I, so-and-so, whose god is so-and-so, whose personal goddess is so-and-so,
+
+r4. ar-kus-ka rik#-sa ZI₃.EŠA as₃-ruq-ka
+#tr.en: Have set up a ritual arrangement for you. I have strewn flour for you.
+
+r5. as₃-ruq-ka qut-[rin]-nu i-ri-šu₂ DUG₃.GA
+#tr.en: I have strewn inc[en]se for you, a sweet fragrance. 
+
+r6. BAL-ka du-uš-[šu]-pu# ši-kar aš-na-an
+#tr.en: I have libated swe[et] ale for you, beer made from (lit. of) grain.
+
+r7. KI-ka li-iz#-[ziz]-zu DINGIR-MEŠ šu-ut {d}+EN.LIL₂
+#tr.en: May the gods of the (Path of) Enlil st[an]d with you.
+
+r8. KI-ka li-iz#-[ziz]-zu# DINGIR-MEŠ šu-ut E₂.KUR
+#tr.en: May the gods, those of Ekur, st[an]d with you.
+
+r9. ki-niš nap-lis-an-ni-[ma ši-mi] qa-ba-a-a
+#tr.en: Look upon me with due favor [and hear] my speaking.
+
+r10. un-ni-ni-ia le#-[qi₂-ma mu]-hur# tas-lit
+#tr.en: Acce[pt] my prayer; [rec]eive (my) appeal. 
+
+r11. zik-ri li#-[ṭib] UGU-ka
+#tr.en: May my speech ple[ase] you.
+
+r12. si#-lim KI ia-a-tu#-u₂# pa#-lih-ka
+#tr.en: Be at peace with me, the one who fears you.
+
+r13. [pa]-ni-ka a-ta-mar lu-še-ra# ana-ku
+#tr.en: I have seen your [fa]ce. May I indeed prosper.
+
+r14. [mu]-up-pal-sa-ta ki-niš nap-lis-an-ni
+#tr.en: [You ar]e favorably disposed; look upon me with due favor.
+
+r15. [ar₂?]-ni pu-ṭur šer₂-ti pu-šur#
+#tr.en: Remove my [gui]lt; forgive my offence.
+
+r16. [šu]-ti-iq qil-la-ti-ma hi-ṭi-ti ru-um-[me]
+#tr.en: [Make] my sin pass by; absolve my negli[gence].
+#note: The restoration follows Ebeling 1953: 26.
+
+r17. [DINGIR]-MU u {d}1(u) 5(diš)-MU li-ša₂-qi₂-ru-in-ni-ma liq-bu-u SIG₅{+tim}
+#tr.en: May my (personal) [god] and (personal) goddess respect me; may they intercede (for me),
+
+r18. [nar]-bi#-ka lu-ša₂-pi da₃-li₂-li₂-ka lud-lul
+#tr.en: That I may proclaim your [greatne]ss (and) resound your praises.
+
+$ single ruling
+r19. [KA-INIM]-MA ŠU-IL₂-LA₂ {d}NIN-URTA-KAM*
+#tr.en: It is [the wordin]g of a lifted-hand prayer to Ninurta.
+
+$ single ruling
+r20. [...] kib-ra-a-ti i-lat be-le-e-ti
+#tr.en: [. . .] of the regions; goddess of ladies.
+
+r21. [...] u {d}da-gan ra-bat {d}i-gi₄-gi₄
+#tr.en: [. . .] of Dagan; great one of the Igigi.
+
+r22. [... ṣi]-ih-ti DINGIR-MEŠ ka-nu-ut a-a-ak-ki
+#tr.en: [. . . de]light of the gods; honored one of the sanctuary.
+#note: The restoration follows Ebeling 1953: 26.
+
+r23. [... e₂-sag]-il₂# TUKUL{+ti} E₂.ZI.DA
+#tr.en: [. . . of Esag]il; the support of Ezida.
+
+r24. [...] mu-kin um-mat DINGIR-MEŠ a-pil {d}ša₃-zu
+#tr.en: [. . .] who establishes the vanguard of the gods, the scion of Shazu.
+
+r25. [...] šu-su?-ma? nab-ni-ti
+#tr.en: [. . .] of creation.
+
+r26. [...] ma#?-ha-zi
+#tr.en: [. . .] cultic center(?).
+
+r27. [...] ra
+#tr.en [. . .]
+$ end of reverse missing

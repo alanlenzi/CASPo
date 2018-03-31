@@ -1,0 +1,155 @@
+&P393721 = K.34 = BMS 19
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#project: shuilas
+##note: The tablet contains the partial text of Enlil 1a (Q006066) and the catchline to Ninlil 1 (Q006132). Restorations are made on the basis of the duplicate, PBS 1/1 17 = CBS 1515.
+
+@tablet
+
+@obverse
+
+$ beginning of obverse missing
+1'. [...]-šu? [...]
+
+#tr.en: [. . .] . . . [. . .]
+
+2'. [...]-x-šu# [...]
+
+#tr.en: [. . .] . . . [. . .]
+
+3'. DINGIR ma-am-ma#?-[an ...]
+
+#tr.en: [. . .] . . . [. . .]
+
+4'. EN EN-EN [...]
+
+#tr.en: Lord of lords, [. . .]
+
+5'. a-bu a#-[lid DINGIR-MEŠ] GAL#-MEŠ#
+
+#tr.en: Father, who be[got] the great [gods],
+
+6'. EN NAM-MEŠ GIŠ.HUR-MEŠ
+
+#tr.en: Lord of fates (and divine) plans, 
+
+7'. mu-ma-ʾi-ir AN{+e} u KI#{+ti#} EN KUR-KUR
+
+#tr.en: Commander of the heavens and earth, lord of the lands,
+
+8'. ga#-mir# di-ni ša₂ NU# BAL#{+u₂} qi₂-bit-su
+
+#tr.en: Who renders the verdict, whose command cannot be overturned,
+
+9'. [mu]-šim# NAM-MEŠ [DINGIR-MEŠ] DU₃.A{+ma}
+
+#tr.en: Who determines the fates of all [the gods]:
+
+10'. [ina] HUL# AN.GE₆ {d}3(u) ša₂ ina ITI UD GAR{+na}
+
+#tr.en: On account of the evil of a lunar eclipse, which occurred in month (unspecified and) day (unspecified),
+
+11'. u₃ A₂-MEŠ ISKIM-MEŠ HUL#-MEŠ NU DU₁₀.GA-MEŠ
+
+#tr.en: And evil, unfavorable signs (and) portents,
+
+12'. [ša₂] ina# E₂.GAL-MU u KUR-MU GAL₂{+a}
+
+#tr.en: [Which] occurred in my palace and my land---
+
+13'. [ina qa]-bi-ka-ma u₂-tal-la-da te-ni-še-e-ti
+
+#tr.en: [At] your [spe]aking, humanity was born,
+
+14'. ša₂# LUGAL GIR₃.NITA₂ šu-mi-šu-nu ta-za-kar
+
+#tr.en: Of king (and) governor, you speak their names.
+
+15'. aš#-šum ba-ni-i DINGIR u₃ LUGAL
+
+#tr.en: Because creating divinity and king
+
+16'. ba-šu-u₂ KI{+ka}
+#note: Line is indented.
+
+#tr.en: is within your power (lit. is with you),
+
+17'. u₃# en-šam# tu-šam-ṣu-u₂ mal dan-ni
+
+#tr.en: And (because) you make the weak equal to the strong,
+
+18'. [ina] ma-aʾ-du-ti MUL ša₂-me-mi
+
+#tr.en: Among the multitude of stars of the heavens,
+
+19'. be-li₂ at-kal-ka
+#note: Line is indented.
+
+#tr.en: O my lord, I trust in you!
+
+20'. [ana ta]-mar#-ti-ka ib-ša₂-ku GEŠTU-2(diš){+a-a}
+#note: The restoration is suggested by Ebeling 1953: 21.
+
+#tr.en: At your appearance, I have given you my attention.
+
+@reverse
+
+1. šim#-ti ba-la-ṭi-ia ši-im
+
+#tr.en: Determine a fate of life for me!
+
+2. ba#-ni-i šu-me-ia qi₂-bi
+
+#tr.en: Command a good name!
+
+3. lum#-ni ta-bal-ma SIG₅ šur-ka
+
+#tr.en: Carry away evil; grant me what is good. 
+
+4. šu-kun-ma UGU-MU ba-aš-ta-ka GAL#{+tu#}
+
+#tr.en: Set over me your great protective force.
+
+5. [DINGIR] u LUGAL li-ša₂-qi₂-ru-in-ni
+
+#tr.en: May god and king value me,
+
+6. [EN] u# NUN ša₂ bu-ni-ia li-pu-šu₂#
+
+#tr.en: May lord and prince do what benefits me (lit. do that of my goodness). 
+
+7. [a]-me-ri li-ba-ša₂-an-ni
+
+#tr.en: May my (ill-wishing) onlooker be ashamed on my account.
+
+8. ina# UKKIN lu še-mat qi₂-bi-ti
+
+#tr.en: May my order be heard in the assembly.
+
+9. {d}KAL DU₁₁.GA ŠE.GA u ŠE.GA
+#note: ŠE.GA is used for both šemû and magāru. See the duplicate.
+
+#tr.en: May the protective spirit of ordering, hearing, and accepting
+
+10. u₄-mi-šam lit-tal-lak KI-MU
+#note: Line is indented.
+
+#tr.en: Walk along with me daily.
+
+11. [ina] qi₂#-bit-ka ṣir-ti ša₂ NU KUR₂{ru}
+
+#tr.en: According to your august command that cannot be changed,
+
+12. u₃# an-ni-ka# ki-nim ša₂ NU BAL{u}
+
+#tr.en: And your reliable affirmation that cannot be overturned!
+
+$single ruling
+13. KA-INIM-MA ŠU#-IL₂#-LA₂ {d}EN-LIL₂-LA₂-KAM*
+
+#tr.en: It is the wording of a lifted-hand prayer to Enlil.
+	
+$ single ruling
+14. EN₂ ru-ba-tu₂ GAL{+tu} i-lat ši-ma-a-ti
+
+#tr.en: Incantation: Great princess, goddess of fates.

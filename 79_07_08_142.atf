@@ -1,0 +1,107 @@
+﻿&P451855 = AOAT 34, 080
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: The tablet is 1879-07-08, 0142. It only contains a part of Dilbat 1 and Ashurbanipal colophon d.
+
+@tablet
+
+@obverse
+
+$ beginning of obverse missing
+1'. [...] x [x (x)]
+#tr.en: [. . .] . . . [. . .]
+
+2'. [...] x x [x]
+#tr.en: [. . .] . . . [. . .]
+
+3'. [...]-x-ka
+#tr.en: [. . .] your . . .
+
+4'. [...]-x# ma? ti
+#tr.en: [. . . ] . . .
+
+5'. [...] i#-za-za
+#tr.en: [. . .] stands
+
+6'. [...] pa-nu-u-ia#
+#tr.en: [. . .] my face
+
+7'. [...]-x la NIM{+pa}
+#tr.en: [. . .] was not early(?)
+
+8'. [...] u₂-gal-lil
+#tr.en: [. . .] I have sinned
+
+9'. [a-di ma-ti ... suh-hu]-ru# pa-nu-ki
+#tr.en: [How long will . . .] your face [be turned a]way?
+#note: The restoration is conjectural, based on a similar line in prayers to Ishtar.
+
+10'. [a-di ma-ti ... ze-na]-ti it-ti-ia
+#tr.en: [How long will . . .] you be angry with me?
+#note: The restoration is conjectural, based on a similar line in prayers to Ishtar.
+
+11'. [...] šu-uk#-ni#
+#tr.en: [. . .] establish!
+
+12'. [...] li#-nu-ha ia-a#-ši#
+#tr.en: May [. . .] be at rest for me.
+
+13'. [...] TI#-i un-ni-ni#-ia#
+#tr.en: [. . .] accept my prayer.
+
+14'. [...] x pa-lih [DINGIR{+ut}]-ki
+#tr.en: [. . .] who fears your [divinity].
+
+15'. [...] x# DU₃{+la₂} su#-x#-x#-ki#
+#tr.en: [. . .] all of your . . .
+
+16'. [... ša₂]-pal-ki ak-mis
+#tr.en: [. . . at] your [fe]et I kneel.
+$ end of obverse missing
+
+@reverse
+
+1. [...] x# [... DINGIR]{+ti#}-ki GAL{+ti} aṣ-bat
+#tr.en: [. . .] I seize . . . of your great [divini]ty.
+#note: We expect sissiktu, "hem," somewhere at the beginning of this line.
+
+2. [...] tes₂-li₃-ti IGI-ri
+#tr.en: [. . .] recieve my prayer.
+
+3. [... AMA] AMA-MEŠ lud-lul
+#tr.en: [. . .] Let me praise [the best] mother (lit. mother of mothers).
+
+$ single ruling
+4. [KA-INIM-MA ŠU-IL₂]-LA₂# {mul}DIL-BAT-KAM*
+#tr.en: It is [the wording of a hand-lifting] prayer to Dilbat.
+
+$ single ruling
+5. [... ina pa]-an#-ka# x# x# {giš#?}LI# GAR{an}
+#tr.en: You set up in front of you . . . of juniper.
+#note: We expect NIG₂.NA, "censer," for x x here. But the first of the two missing signs looks perhaps like a LI. See the copy in AOAT 34 80. The line requires collation.
+
+6. [... 3(diš)]-šu₂# ŠID#{+nu#}-ma# tuš#-ken#
+#tr.en: [. . .] you recite [three] times and you bow.
+
+$ single ruling
+7. [...] HI GA KA#
+#tr.en: [. . .] . . .
+
+8. [... {m}AN].ŠAR₂#.DU₃#.A MAN ŠU₂ MAN KUR# AN#.ŠAR₂#{ki}
+#tr.en: [. . . Ash]urbanipal, king of the world, king of the land of Assyria,
+
+9. [... uz-nu ra-pa-aš₂]-ta#? iš#-ru#-ku#-uš# 
+#tr.en: [. . .] they gave to him [wisd]om.
+
+10. [... ṭup]-šar#-ru#-u₂#-ti#
+#tr.en: [. . . of the sc]ribal arts.
+
+11. [... la i]-hu#-uz#-zu#
+#tr.en: [. . .] they had [not le]arned.
+
+12. [...] x# x#
+#note: AOAT 34 80 sees a MEŠ sign at the end of this line.
+
+13. [...] x#
+$ end of reverse missing

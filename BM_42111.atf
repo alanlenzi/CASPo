@@ -1,0 +1,45 @@
+&P480790 = BM 042111
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: The tablet is a fragment, containing part of the text of a shuila-prayer to Išḫara (1). It is only inscribed on one side. Published by Abusch & Schwemer AMD 8/2, 304-308.
+
+@tablet
+
+@surface side a
+
+1. EN₂# {mul}GIR₂.TAB {d}iš-ha#-[ra ...]
+#tr.en: Incantation: O Scorpius, Išha[ra . . .]
+#note: restorations based on duplicates and/or Abusch and Schwemer 2016: 304-308.
+
+2. il-tum reme₂-ni-tum šar-[ra-tum ...]
+#tr.en: Merciful goddess, qu[een . . .] 
+
+3. še-mat ik-ri-bi le-qat# [...]
+#tr.en: Who hears prayers, accepts [. . .]
+
+4. qa#-i-šat ZI{+ti} x [...]
+#tr.en: Who gives life [. . .]
+
+5. [ina] U₄#{+mi} an-ni-i i-ziz-zi#-[im-ma ...]
+#tr.en: [On] this day, sta[nd and . . .]
+
+6. [{d}]i#-šum {d}U.GUR [...]
+#tr.en: Ishum (and) Nergal [. . .]
+
+7. [mu-kil]-lu# at-me-ki mu-šak#-[...]
+#tr.en: [Who ke]ep your word, who . . . [. . .]
+
+8. [i-zi]-za-ma it-ti#-[ša₂ ...]
+#tr.en: [Sta]nd with [her . . .]
+
+9. [li-iz]-zi#-zu-nim DINGIR#-[MEŠ ...]
+#tr.en: May the god[s . . .] stand here [. . .]
+
+10. [{d}IŠ₈.DAR]-MEŠ# GE₆{+ti#} [...]
+#tr.en: The goddesses of the night [. . .]
+
+11. [...]-ku#-nu [...]
+#tr.en: [. . .] your [. . .]
+
+$ end of surface missing

@@ -1,0 +1,46 @@
+&P396085 = AOAT 034, 025 
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: K.5679. The tablet is a fragment, containing part of the text of a shuila-prayer to Išḫara (1). It is inscribed on only one side, and only the left edge of this side preserves text.
+
+@tablet
+
+@surface side a
+
+$beginning of surface missing
+1'. {d}IŠ₈#.TAR₂#-[MEŠ ...]
+#tr.en: The goddesses [. . .]
+#note: Restorations in Išḫara 1 are based on duplicates and/or Abusch and Schwemer 2016: 304-308.
+
+2'. ina qi₂-biti#-[ku-nu ...]
+#tr.en: By [your] command [. . .]
+
+3'. liš-mu-u₂ ik#-[ri-bi ...]
+#tr.en: May they hear [my] pra[yer . . .]
+
+4'. u₃ at-[tu-nu ...]
+#tr.en: And y[ou . . .]
+
+5'. na-piš-[ti ...]
+#tr.en: Life [. . .]
+
+6'. ma-aʾ-[du ...]
+#tr.en: [. . .] are many [. . .]
+
+7'. ma-har-[ku-nu ...]
+#tr.en: Before [you . . .]
+
+8'. di-ni [...]
+#tr.en: My case [. . .]
+
+9'. ša a-[na ...]
+#tr.en: The one who [. . .]
+
+10'. up-ša₂-še#-[e ...]
+#tr.en: Machinations [. . .]
+
+11'. u₃# mim#-[ma ...]
+#tr.en: And . . . [. . .]
+
+$end of surface missing

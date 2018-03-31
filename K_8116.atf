@@ -1,0 +1,105 @@
+&P397497 =  BMS 48
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: The fragment K.8116 indirectly joins to BMS 5 (+) BMS 8, according to Ambos 2013: 198. The tablet contains Madanu 1, Ishtar 1, Zappu 1, and Anu 1.
+
+@tablet
+
+@obverse
+
+1. [... nab]-ni-ti
+#tr.en: [. . . cre]ation
+
+#note: Restorations are based on duplicates.
+
+2. [... kib]-ra#-a-ti
+#tr.en: [. . . the wo]rld
+
+3. [...] en#-ši
+#tr.en: [. . .] the weak
+
+4. [...] šag#-ša₂
+#tr.en: [. . .] the afflicted
+
+5. [... e]-ka#-a-ti
+#tr.en: [. . . im]poverished ones
+
+6. [...] mil#-ku
+#tr.en: [. . .] counsel
+
+7. [... {d}]i₂#-gi₃-gi₃
+#tr.en: [. . .] the Igigi
+
+8. [...] x# ri
+#tr.en: [. . .] . . . 
+
+9. [... kal mim-ma] šum#-šu₂
+#tr.en: [. . . ever]ything
+
+10. [... i-ram]-mu
+#tr.en: [. . .] who [lov]es [. . .]
+
+11. [... {lu₂}]UŠ₂
+#tr.en: [. . . the] dead
+
+12. [... i-ram]-mu#
+#tr.en: [. . .] who [lov]es [. . .]
+
+13. [... {lu₂}]UŠ₂#
+#tr.en: [. . . the] dead
+
+14. [... tes₂-li]-ti#
+#tr.en: [. . .] my [pray]er
+
+$ rest of obverse missing
+
+@reverse
+
+$ beginning of reverse missing
+
+1'. ki [...] x# x# x# x# x# x# x# [...]
+#tr.en: [. . .] . . .
+
+$ single ruling
+
+2'. KA-INIM-MA ŠU-IL₂-LA₂ {mul}MUL-KAM*
+#tr.en: It is the wording of a lifted-hand prayer to Zappu.
+
+$ single ruling
+
+3'. EN₂ EN šur-bu-u ša₂ ina AN{+e} šu-luh-hu-šu₂ KU₃
+#tr.en: Incantation: O greatest lord, whose lustrations (are) pure in the heavens.
+
+4'. 8(diš)-u₂ pir-su E₂ sa-la me-e E₂.GAL {m}AN-ŠAR₂-DU₃-A LUGAL# ŠU₂# LUGAL KUR AN.ŠAR₂{ki}
+#tr.en: Eighth pirsu of (the ritual) Bit Sala' Me. Palace of Ashurbanipal, king of the world, king of the land of Ashur,
+
+5'. ša a-na AN.ŠAR₂ u₃ {d}nin#-lil₂ tak-lu
+#tr.en: who trusts in Ashur and Ninlil,
+
+6'. ša {d}AG {d}taš-me-tu₄ GEŠTU-2(diš) DAGAL-tu₄ iš-ru-ku-uš
+#tr.en: to whom Nabu (and) Tashmetu gave wide understanding,
+
+7'. i-hu-uz-zu IGI-2(diš) na-mir-tu ni-siq ṭup-šar-ru-ti
+#tr.en: (who) has achieved enlightened eyes with regard to the highest level of the scribal art,
+
+8'. ša# ina# LUGAL#-MEŠ# a-lik mah-ri-ia mim-ma šip-ru šu-a-tu₂ la i-hu-uz-zu
+#tr.en: which art none of the kings who came before me had learned,
+
+9'. [ne₂-me-eq {d}AG ti-kip] sa#-an-tak-ki ma-la ba-aš₂-mu
+#tr.en: [the wisdom of Nabu, cuneiform] signs, as many as there are.
+
+10'. [ina ṭup-pa-a-ni aš₂]-ṭur# as-niq ab-re-e-ma
+#tr.en: [I w]rote, collated, and checked (the present text) [on tablets].
+
+11'. [a-na ta-mar-ti u ši-ta-as-si]-ia# qe₂#-reb E₂.GAL-ia u₂-kin
+#tr.en: I deposited (it) in my palace [for m]y reading and studying].
+
+12'. [NIR.GAL₂.ZU NU UR] LUGAL# DINGIR-MEŠ AN#.ŠAR₂
+#tr.en: [The one who trusts in you will not be put to shame], O king of the gods, Ashur.
+
+13'. [man-nu ša TUM₃ u₃ lu-u MU-šu₂ it-ti MU]-ia# i-šaṭ-ṭa-ru
+#tr.en: [Whoever carries (this tablet) off or] writes [his name alongside] my [name],
+
+14'. [AN.ŠAR₂ u₃ {d}nin-lil₂ ag-giš ez-zi-iš lis-ki-pu-šu₂-ma MU-šu₂] NUMUN#-šu₂# ina KUR li-hal-li-qu
+#tr.en: [may Ashur and Ninlil overthrow him in fierce rage. May his name (and)] his seed disappear from the land.

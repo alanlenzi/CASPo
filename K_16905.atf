@@ -1,0 +1,31 @@
+&P402311 = AOAT 034, 009
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: The fragment, K.16905, is only inscribed on one side. It preserves part of Damkina 1. 
+
+@tablet
+
+@surface side a
+
+$ beginning of surface missing
+
+1'. [...] šar#?-[rat ...]
+#tr.en: [. . .] que[en of . . .]
+
+2'. [... {d}e₂]-a qa-rit#-[tu₂ ...]
+#tr.en: [. . . E]a, [. . .] vallia[nt]!
+
+3'. [...] šar-rat DU₃ DINGIR#-[MEŠ ...]
+#tr.en: [. . .] queen of all the god[s . . .]
+
+4'. [... {d}]e₂#-a qa-rit#-[tu₂ ...]
+#tr.en: [. . .] Ea, [. . .] vallia[nt]!
+
+5'. [...] DINGIR-MEŠ [...]
+#tr.en: [. . .] the gods [. . .]
+
+6'. [...] {d#}GIŠ₂+U# [...]
+#tr.en: [. . .] of the Anunnakki [. . .]
+
+$ end of surface missing

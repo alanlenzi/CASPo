@@ -1,0 +1,30 @@
+&P394955 = AOAT 034, 008
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: The fragment (K.3348) only preserves the upper left corner of a tablet. It is inscribed only on one side. It contains a small part of Damkina 1.
+
+@tablet
+
+@surface side a
+
+1. EN₂ {d}dam#-[ki-na ...]
+#tr.en: Incantation: O Dam[kina . . .]
+#note: Restorations are based on duplicates.
+
+2. al-ti {d#}[e₂-a ...]
+#tr.en: Wife of [Ea . . .]
+
+3. {d}ir-ni-na# [...]
+#tr.en: Irnina [. . .]
+
+4. al-ti [...]
+#tr.en: Wife of [. . .]
+
+5. šur-ba#-[ti ...]
+#tr.en: Great[est . . .]
+
+6. NUN#.[ME-at ...]
+#tr.en: Wise [one . . .]
+
+$ end of surface missing

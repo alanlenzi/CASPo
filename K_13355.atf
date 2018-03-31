@@ -1,0 +1,40 @@
+&P400250 = BMS 43
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: K.13355 preserves the end of Zarpanitu 1. 
+
+@tablet
+
+@surface a
+
+$ beginning of surface broken
+
+1'. [...] x# [...]
+#tr.en: [. . .] . . . [. . .]
+#note: The duplicate, AOAT 34 32, shows a KUN sign above the ŠA₃ in the next line. That does not seem possible here, given the traces on the tablet.
+
+2'. [{d}]ŠA₃.ZU HUL₂#-[ki ...]
+#tr.en: May Shazu rejoice over you, [. . .]
+
+3'. [DINGIR]-MEŠ [...]
+#tr.en: [. . . the god]s [. . .]
+
+4'. DINGIR#-MEŠ GAL#-[MEŠ ...]
+#tr.en: [. . .] the great gods [. . .]
+
+5'. DINGIR-MEŠ a-šib e₂#-[sag-il₂-la ...]
+#tr.en: [. . .] the gods who dwell in E[sagila . . .]
+
+6'. {d#}a-num {d}+EN e₂#-[a ...]
+#tr.en: [. . .] Anum, Enlil, (and) E[a . . .]
+
+7'. ana#-ku IR₃-ki nar#-[bi-ki ...]
+#tr.en: I, your servant [. . . your] great[ness, . . .]
+
+$ single ruling
+
+8'. [KA]-INIM#-MA ŠU-[IL₂-LA₂ ...]
+#tr.en: [. . .] the wording of a [lifted]-hand prayer.
+
+$ rest of surface missing

@@ -1,0 +1,79 @@
+&P286072 = BM 122641 = CT 51 211
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: A fragment of Anu 1.
+
+@tablet
+
+@obverse
+
+1. EN₂ EN šur-bu-u₂ ša₂ <ina> AN{+e} šu#-[...]
+
+#tr.en: Incantation: O lord most great, who in the heavens [. . .],
+
+2. {d}a-nu₄ EN šur-bu-u₂ ša₂ [...]
+
+#tr.en: Anu, lord most great, who [. . .],
+
+3. šu-luh-hu-šu₂ [...]
+#note: This line is indented.
+
+#tr.en: His purification rites [. . .],
+
+4. DINGIR AN{+e} EN [...]
+
+#tr.en: God of the heavens, lord [. . .],
+
+5. {d}a-num DINGIR AN{+e} [...]
+
+#tr.en: Anu, god of the heavens, lord [. . .],
+
+6. pa-šir U₄{+me} EN [...]
+
+#tr.en: Who releases the day, lord of [. . .],
+
+7. mu-kal-lim ṣa-ad-di [...]
+
+#tr.en: Who reveals signs [. . .]
+
+8. {d}a-num pa-šir U₄{+me} [...]
+
+#tr.en: Anu, who releases the day, [. . .],
+
+9. mu#-kal-lim ṣa-ad-di x [...]
+
+#tr.en: Who reveals signs [. . .],
+
+10. [pa]-šir#? MAŠ₂.GE₆-MEŠ x [...]
+
+#tr.en: Who resolves dreams [. . .],
+
+11. [...]-ti# par₂-da-[ti]
+
+#tr.en: [. . .] (and) frighteni[ng],
+
+12. [A₂-MEŠ GIŠKIM]-MEŠ# HUL-MEŠ še-et-ti# [...]
+
+#tr.en: Evil [portents, omen]s, sin [. . .]
+
+13. [...] la#? ti ru ṭu [...]
+
+#tr.en: [. . .] . . . [. . .]
+
+14. [...] it-ti-ka# [...]
+
+#tr.en: [. . .] with your incantation [. . .]
+
+15. [...] ša₂ ti [...]
+
+#tr.en: [. . .] . . . [. . .]
+
+16. [...] lum-nu [...]
+
+#tr.en: [. . .] evil [. . .]
+
+17. [...] AN [...]
+
+#tr.en: [. . .] . . . [. . .]
+$ end of obverse missing

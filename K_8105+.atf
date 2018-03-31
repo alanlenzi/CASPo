@@ -1,0 +1,220 @@
+&P397492 = K.8105 + K.11929 + 82-3-23,127 = AOAT 34 7 (BMS 4 = K.8105; BMS 2 E = K.11929)
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#The tablet preserves the end of the incomplete šuila Ea 1b (Q006064) and then another incomplete one, Damkina 1 (Q006061) on the obverse. 
+#After attesting the last lines of šuila Ninurta 1 (Q006135), the reverse concludes with an incomplete šuila, Gula 1b (Q006072).
+#Restorations in Ea 1b selectively follow Ebeling 1953: 28. Restorations of Damkina 1 and Gula 1b, when duplicates are not available, follow Mayer 1976: 441-442 and 455–457, respectively. Restorations in Ninurta 1 are based on duplicates when available and unless otherwise noted. 
+
+@tablet
+
+@obverse
+
+$ beginning of obverse missing
+1'. [...] x [...]
+#tr.en: [. . .]
+
+2'. [...] šu₂ [...]
+#tr.en: [. . .]
+
+3'. NUN# u GIR₃.NITA₂# [...]
+#tr.en: The prince and governor [. . .]
+
+4'. li-piš a-me-ri [...]
+#tr.en: . . . the one who sees me [. . .]
+#note: Ebeling 1953: 28 suggests li-piš stands for līpuš. 
+
+5'. ina KA UN-MEŠ liš-ša₂-kin [ta-nit-ta]
+#tr.en: May [praise] be placed in the mouth of the people.
+
+6'. an#-ni taš-me-e u sa-li-mu [šu]-kun#? ina pi#-[ia]
+#tr.en: [P]ut consent, attention, and peace in [my] mouth.
+
+7'. [{d}]e₂-a ina ŠA₃-bi-ka SIG₅{+ti} ši-[im?]
+#tr.en: O Ea, decree(?) favor for me in your heart.
+#note: Ebeling 1953: 28 wants to read liš-k[un(!)] at the line's end: "May Ea establish favor for me in your heart." Since the prayer addresses Ea, this reading has trouble with the second person pronominal suffix on libbu. I expect an imperative. Perhaps the last word is šīm(a) (= ši-im or ši-ma), "decree" (for me). But the phrase "in your heart" may also speak against this idea. I do not have a parallel for a god decreeing something in his heart.
+
+$ single ruling
+8'. KA#-INIM-MA ŠU-IL₂-LA₂ {d}EN-LIL₂-BAD₃-DA-KAM*
+#tr.en: It is the wording of a lifted-hand prayer to Ea.
+
+$single ruling
+9'. EN₂ {d}dam-ki-na šar-rat DU₃ DINGIR-MEŠ LAL-tu₂#
+#tr.en: Incantation: Damkina, queen of all the gods, most high, 
+
+10'. al-ti {d}e₂-a qa-rit-tu₂ at-ti#
+#tr.en: Wife of Ea, you (are) valliant!
+
+11'. {d}ir-ni-na šar-rat DU₃ DINGIR-MEŠ LAL{+tu₂} : al-ti {d}e₂-a qa-rit-tu₂ at-[ti]
+#tr.en: Irnina, queen of all the gods, most high; wife of Ea, you (are) valliant!
+
+12'. šur-ba-ti ina DINGIR-MEŠ LAL{+u₂} par-ṣu-[ki]
+#tr.en: You are greatest among the gods; [your] cultic rites are most high.
+
+13'. NUN#.ME{+at} {d}GIŠ₂+U mu-da-at {d}i₂-[gi₃-gi₃]
+#tr.en: You are the sage of the Anunnaki, who comprehends the I[gigi],
+
+14'. [be]-let E₂.ENGUR.RA ka-nu-ut e₂ a-[a-ki]
+#tr.en: The [la]dy of the E-engur, the cherished one of the temple sanctuary,
+
+15'. [x]-x#-ti it-pe-še {d}e₂-a a-ši-bat ZU.AB be-let AN u [KI]
+#tr.en: [. . .] of expert Ea, who dwells in the Apsu, lady of heaven and [earth].
+
+16'. [ana-ku NENNI] A NENNI an-hu šu-ud-lu-pu# IR₃#-[ki]
+#tr.en: [I, so-and-so], son of so-and-so, [your] weak (and) exhausted servant, 
+
+17'. [ina HUL AN.GE₆] {d}3(u) ša₂ ina ITI NENNI U₄ [NENNI GAR{+na}]
+#tr.en: [On account of the evil] of a lunar [eclipse], which [occurred] in the month so-and-so (and) day [so-and-so],
+
+18'. [HUL A₂-MEŠ] GISKIM-MEŠ HUL-MEŠ# [NU DU₁₀.GA.MEŠ]
+#tr.en: [On account of the evil of portents] (and) omens, [unpleasant] (and) unfavorable,
+
+19'. [ša₂ ina E₂.GAL-MU u KUR]-MU# GAL₂{+a} GIG dan-nu [...]
+#tr.en: [Which] are present [in my palace and] my [land], a severe illness [. . .]
+
+20'. [...] EME [...]
+#tr.en: [. . .] tongue [. . .]
+
+21'. [...] x# IM [...] x# [...]
+#tr.en: [. . .]
+
+22'. [...] ka#-sa#-a A₂-2(DIŠ)-a-[a]
+#tr.en: [. . .] my arms are bound.
+
+23'. [...] ter-ri ki-šad-ki ša₂ is-bu-su UGU#-[MU]
+#tr.en: [. . .] turn your neck, which is angry with [me].
+
+24'. [... bu]-ul#-liṭ-ṭi IR₃-ki#
+#tr.en: [. . . re]vive your servant.
+
+25'. [...] TI#{+i} un-ni-ni-ia₅#
+#tr.en: [. . .]; accept my prayer.
+
+26'. [...] la# pa-lih DINGIR-šu₂ u {d}IŠ₈.TAR₂-šu₂ ina ŠU-MU li-[mur]
+#tr.en: [. . .]; may the one who does not fear his (personal) god and (personal) goddess lea[rn] from my experience (lit. see by my hand).
+
+27'. [...] a-ta-mar še-ret-[ki]
+#tr.en: [. . .] I have experienced (lit. seen) [your] punishment.
+
+28'. [...] x# : AN{+u₂} HUL₂-ki ZU.AB SU₃-[ki]
+#tr.en: [. . .]; may the heavens rejoice over you (and) the Apsu be glad on account of you.
+
+29'. [DINGIR-MEŠ GAL-MEŠ ša₂ kiš-ša₂-ti lik-ru-bu]-ki# : DINGIR#-MEŠ# GAL#-MEŠ# ŠA₃-ki li-ṭib#-[bu] 
+#tr.en: [May the great gods of the totality bless] you; may the great gods plea[se] your heart.
+$ end of obverse missing
+
+@reverse
+
+$ beginning of reverse missing
+1'. [...] ši#-ma#-a# [...]
+#tr.en: [. . .] hear [. . .]
+
+2'. [...] zik-ri li-ṭib UGU#-[ka]
+#tr.en: [. . .]. May my speech please [you].
+
+3'. [...]-u₂ pa-lih-[ka]
+#tr.en: [. . .] the one who fears [you].
+
+4'. [... a-ta]-mar# lu-še-ra ana-[ku]
+#tr.en: I have seen [. . .]. May I indeed prosper.
+
+5'. [...]-an#-ni : an-ni pu-ṭur šer₂-tim pu-[šur]
+#tr.en: [. . .] me. Remove my guilt; for[give] (my) offence.
+
+6'. [...]-ma# hi-ṭi-ti ru-um-[me]
+#tr.en: [. . .]; absolve my negli[gence].
+#note: The restoration follows Ebeling 1953: 26.
+
+7'. [... li-ša₂-qi₂]-ru-in-ni-ma liq-bu-u SIG₅#[{+tim}]
+#tr.en:  [. . . may they respect] me; may they intercede (for me),
+
+8'. [...] da₃#-li₂-li₂-ka lud-[lul]
+#tr.en: that I may [. . .] (and) reso[und] your praises.
+
+$ single ruling
+9'. [KA-INIM-MA] ŠU-IL₂-LA₂ {d}NIN-URTA-[KAM*]
+#tr.en: [It is the wording of] a lifted-hand prayer to Ninurta.
+
+$ single ruling
+10'. [EN₂ {d}gu]-la# GAŠAN šur-bu-tu₂ a-ši-bat AN-e {d}[DIŠ]
+#tr.en: [Incantation: O Gu]la, most exalted lady, who dwells in the heavens [of Anu],
+
+11'. [il]-tum# reme-ni-tum qa-i-šat TI.[LA]
+#tr.en: Merciful [god]dess, who gives li[fe], 
+
+12'. [ša nap]-lu#-us-sa taš-mu-u₂ qi₂-bit-sa šul#-[mu]
+#tr.en: [Whose gl]ancing (is) acceptance; her utterance pea[ce].
+
+13'. [al]-si-ki GAŠAN i-ziz-zi-ma ši-mi₃-i qa-ba-[a-a]
+#tr.en: [I c]all out to you, O lady. Stand and hear [my] speaking.
+
+14'. [a-na] di#-ni da-ni EŠ.BAR KUD{+si} hi-biltu SILIM[{+mi}]
+#tr.en: Pass (my) verdict; decide (my) case; make right (my) wrongdoing.
+
+15'. [NIGIN]-ki# a-še-ʾ-ki TUG₂.SIG₂-ki aṣ-bat GIM TUG₂.SIG₂ DINGIR-MU u {d}1(u) 5(diš)#-[MU]
+#tr.en: [I turn] to you; I seek you; I lay hold of your hem, like the hem of my (personal) god and [my] (personal) goddess.
+
+16'. [di]-ni# di-ni EŠ.BAR-a-a KUD{+si} a-lak-ti lim-[di]
+#tr.en: Pass my [ver]dict; decide my case; take no[tice] of my way,
+
+17'. [aš]-šum# e-ṭe-ra ga-ma-la šu-zu-ba ti-de#-[e]
+#tr.en: [Bec]ause you kno[w] (how) to save, to spare, and to rescue,
+
+18'. [aš-šum] bul-lu-ṭu šul-lu-mu ba-šu-u₂ it-ti#-[ki]
+#tr.en: [Because] restoring (and) maintaining well-being are within [your] power (lit. with [you]).
+
+19'. [GAŠAN ana] ka#-a-ši at-kal-ki MU{+ki} az₂-[kur]
+#tr.en: [O lady, in] you I indeed trust. I inv[oke] your name.
+
+20'. [ib-ša₂]-a#-ki GEŠTU.2(DIŠ){+a-a} eṭ-ri-nin{+in}-ni-ma DINGIR{+ut}-ki lud-[lul]
+#tr.en: My attention [is on] you. Save me that I may reso[und] your divinity.
+#note: See Mayer, UFBG, 456, n.20(1) for eṭ-ri-nin{+in}-ni-ma. NIN-in is either a gloss or a scribal mistake.
+
+21'. [ILA₂] ŠU-MU muh-ri-ma TI{+i} un-ni-ni#-[i]
+#tr.en: Receive [the lifting of] my hand; accept [my] prayer.
+
+22'. [lu-uš]-pur-ki ana DINGIR-MU ze-ni-i {d}IŠ₈.TAR₂-MU ze-ni#-[ti]
+#tr.en: [Let me s]end you to my angry (personal) god (and) my ang[ry] (personal) goddess,
+
+23'. [ana DINGIR] URU-MU ša₂ šab-su kam-lu ŠA₃-šu₂ it-ti#-[ia]
+#tr.en: [to the god of] my city, who is irrate, whose heart is furious with [me].
+
+24'. [ina] MAŠ₂.GE₆ u bi-ri GAR.GAR{+nam#}-[ma]
+#tr.en: [On account of] a dream and oracle which has been set for me, [and]
+
+25'. [ina] HUL# AN.GE₆ {d}3(u) ša₂ ina ITI NENNI U₄ NENNI GAR[{+na}]
+#tr.en: [On account of] the evil of a lunar eclipse, which occurr[ed] in the month so-and-so (and) day so-and-so,
+
+26'. HUL# A₂-MEŠ GISKIM-MEŠ HUL-MEŠ NU DU₁₀.GA#-[MEŠ]
+#tr.en: (On account of) the evil of portents (and) omens, unpleasant (and) unfavorable,
+
+27'. [ša₂] ina# E₂.GAL-MU u KUR-MU GAL₂[{+a}]
+#tr.en: [Which] are presen[t] in my palace and my land,
+
+28'. pal#-ha-ku ad-ra-ku u šu-ta-du-ra-[ku]
+#tr.en: I am afraid, in fear, and constantly frightened.
+
+29'. ina a-mat qi₂-bi-ti-ki ṣir-ti ša₂ ina E₂.KUR šur#-[bat]
+#tr.en: By the word of your august command which [is the g]reatest in (all of) Ekur,
+
+30'. u an-ni-ki ki-nim ša₂ NU BAL#[{+u]}
+#tr.en: And your firm consent which cannot be changed,
+
+31'. i₃#-li₂ šab-su GUR{+ra} {d}IŠ₈.TAR₂-MU ze-ni-tu₂ [NIGIN{+ra}]
+#tr.en: May my irrate (personal) god return; may my angry (personal) goddess [turn to me].
+
+32'. DINGIR URU-MU {d}AMAR.UTU ša₂ i-gu-ga li#-[nu-ha]
+#tr.en: May Marduk c[alm] the god of my city, who was enraged.
+
+33'. ša₂# i#-zi#-zu# BUR₂#[{+ra}] {d#}gu-la GAŠAN šur-bu-tu₂ AMA# [reme-ni-tum]
+#tr.en: May the one who was infuriated be reconcil[ed to me]. O Gula, most exalted lady, [merciful] mother,
+
+34'. [...] DUMU# reš-te₉-e ša₂ [{d}e₂-a]
+#tr.en: [. . .] the first-born son of[Ea], 
+
+35'. [...] qi₂-bi-i [SIG₅{+ti}]
+#tr.en: [. . .] inter[cede] (for me).
+
+36'. [...] x# x# x# [...]
+#tr.en: [. . .]
+$ end of obverse missing

@@ -1,0 +1,210 @@
+&P394946 = BMS 07
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note:  K.3330 + Sm.394 + 81-2-4,244 (=BMS 7). A single column tablet. A very fragmentary prayer to Nabu (6) (Q006126) precedes the prayer to Belet-ili (1 = Q006059, which is nearly identical to Gula 1a, Q006071), and a prayer to Išhara (1) (Q006074) follows it on the rev. This prayer breaks off before completion.
+
+@tablet
+
+@obverse
+
+$ beginning of obverse missing
+1'. [x-x]-luṭ# lu#-[...]
+#tr.en: [. . .] . . . [. . .]
+
+2'. nar#-bi-ka lu#-[...]
+#tr.en: May I . . . your greatness [. . .]
+
+3'. E₂.SAG.IL₂ HUL₂#-[...]
+#tr.en: May Esagil rejoice [. . .]
+
+4'. E₂.ZI.DA ku-[...]
+#tr.en: May Ezida . . . [. . .]
+
+5'. DINGIR-MEŠ ša₂ AN{+e} u₃# [...]
+#tr.en: The gods of heaven and [. . .]
+
+6'. DINGIR-MEŠ GAL-MEŠ [...]
+#tr.en: The great gods [. . .]
+
+7'. {d}a-nim {d}en-lil₂ [...]
+#tr.en: Anu, Enlil, [. . .]
+
+$single ruling
+8'. KA-INIM-MA ŠU#-[...]
+#tr.en: [. . .] the wording of a shu[ila-prayer].
+
+$single ruling
+9'. EN₂ {d}be-let-i₃-li₂ GAŠAN šur#-[bu-tu ...]
+#tr.en: Incantation: O Belet-ili, most exalted lady [. . .]
+#note: Restorations in Belet-ili 1 are based on duplicates.
+
+10'. al-si-ki GAŠAN-MU i-ziz-zi#-[im-ma ...]
+#tr.en: I call out to you, my lady, stand near[by and . . .]
+
+11'. eš-e-ki NIGIN{+ki} GIM TUG₂.SIG₂# [...]
+#tr.en: I seek you out, I turn to you, as the hem of [. . .]
+
+12'. aš-šum di-ni da-a-ni [...]
+#tr.en: Because judging a case [. . .] 
+
+13'. aš-šum bul-lu-ṭu šul-lu-[mu ...]
+#tr.en: Because restoring (and) maintaining well-b[eing . . .]
+
+14'. aš-šum KAR ŠU KAR [...]
+#tr.en: Because [. . .] to save, to spare, (and) to rescue.
+
+15'. {d}be-let-i₃-li₂ GAŠAN ša₂-qu-[tu ...]
+#tr.en: O Belet-ili, sublime lady, [. . .]
+
+16'. ina ma-aʾ-du-ti MUL ša₂-ma-mi GAŠAN ka#-[...]
+#tr.en: Among the myriad stars of the heavens, O lady, . . . [. . .]
+
+17'. ZI₃.MAD.GA₂ muh-ri-in-ni-ma [...]
+#tr.en: Receive my flour offering, [. . .]
+
+18'. lu-uš-pur-ki ana DINGIR-MU ze-[ni-i ...]
+#tr.en: Let me send you to my ang[ry] (personal) god [. . .]
+
+19'. ana DINGIR URU-MU ša₂ šab-su-ma kam#-[lu ...] 
+#tr.en: To the god of my city who is furious and en[raged . . .]
+
+20'. ina HUL AN#.GI₆# {d}3(u) ša₂# [...]
+#tr.en: On account of the evil of a lunar eclipse, which [. . .]
+
+21'. HUL A₂-[MEŠ ...]
+#tr.en: (And) the evil of portent[s . . .]
+
+22'. ša₂ ina E₂.GAL#-[MU ...]
+#tr.en: Which in [my] palace [. . .]
+
+23'. {d}be-let-i₃-li₂ GAŠAN# x [...]
+#tr.en: O Belet-ili, lady [. . .]
+
+24'. u₃ an-ni-ki [...]
+#tr.en: And your sure approval [. . .]
+
+25'. [DINGIR]-MU šab-su li#-[...]
+#tr.en: May my furious [god . . .]
+
+26'. DINGIR URU-MU ša₂ šab-su#-[ma ...]
+#tr.en: [. . .] the god of my city who is furio[us . . .]
+
+27'. ša₂ i-zi-za li-nu#-[ha ...]
+#tr.en: Who is in a rage, may he rel[ent . . .]
+
+28'. {d}be-let-i₃-li₂ GAŠAN šur#-[bu-tu ...]
+#tr.en: O Belet-ili, most exalt[ed] lady, [. . .]
+
+29'. a-na {d}AMAR.UTU LUGAL DINGIR-MEŠ EN# [...]
+#tr.en: With Marduk, king of the gods, lord, [. . .]
+
+30'. ṣu-lul-ki rap-šu₂ ta-[...]
+#tr.en: [. . .] your wide canopy [. . .]
+
+31'. gi-mil dum-qi₂ u₃# [...]
+#tr.en: A requital of favor and [. . .]
+
+32'. nar-bi-ki lu-ša₂-[pi ...]
+#tr.en: That I may proclaim your greatness [. . .]
+
+$ single ruling
+33'. KA-INIM-MA# [...]
+#tr.en: [. . .] the word of [. . .]
+
+$ single ruling
+
+@reverse
+
+1. EN₂ {mul}GIR₂.TAB [...]
+#tr.en: Incantation: O Scorpius [. . .]
+#note: Restorations in Išhara 1 are based on duplicates and/or Abusch and Schwemer 2016: 304-308, unless otherwise noted.
+
+2. il-tum reme₂-ni-[tum ...]
+#tr.en: Merciful goddess, [. . .] 
+
+3. še-mat ik-ri-bi [...]
+#tr.en: Who hears prayers [. . .]
+
+4. qa-i-šat ZI-tim# [...]
+#tr.en: Who gives life [. . .]
+
+5. ina U₄{+mi} an-ni-i i#-[...]
+#tr.en: On this day, [. . .]
+
+6. {d}i-šum {d#}[...]
+#tr.en: Ishum (and) [. . .]
+
+7. mu-kil-lu at-me-ki [...]
+#tr.en: Who keep your word [. . .]
+
+8. i-zi-za-ma it#-[...]
+#tr.en: Stand . . . [. . .]
+
+9. li-iz-zi#-zu#-[nim ...]
+#tr.en: May they stand [here . . .]
+
+10. {d}IŠ₈.TAR₂-MEŠ [...]
+#tr.en: The goddesses [. . .]
+
+11. ina qi₂-bit-ti-ku#-[nu ...]
+#tr.en: By your command [. . .]
+
+12. liš!(ud)-mu-u₂ ik-ri-bi [...]
+#tr.en: May they hear my prayer [. . .]
+
+13. u₃ at-tu-nu ki-niš IGI.BAR{+nin-ni#}-ma#? [...]
+#tr.en: And you, look at me truly and [. . .] 
+
+14. ma-aʾ-du ar-nu-ia# [...]
+#tr.en: My sins are many [. . .]
+
+15. ma-har-ku-nu ar-ni lip-pa#-ṭir# [...]
+#tr.en: Before you, may my sins be released [. . .]
+
+16. di-ni di-na EŠ.BAR{+a}-[...]
+#tr.en: Judge my case, [. . .] my verdict.
+
+17. ša a-na ia-ši kiš-pi# [...]
+#tr.en: The one who against me witchcraft [. . .]
+
+18. up-ša-še-e HUL{+ti} ša₂ LU₂-MEŠ DU₃#[{+ša₂} ...]
+#tr.en: evil machinations of men performed [. . .]
+
+19. u₃ mim-ma šum-šu₂ ša a-na ma-ka-le-e LU₂# [...]
+#tr.en: And all kinds (of witchcraft) that to human food [. . .]
+
+20. NIG₂.GIG NU DUG₃{+tu₂} DI.BAL.A KA.DAB.BE₂.DA# [...]
+#tr.en: (Who) bad sickness, magic that distorts justice, magic that seizes the mouth, [. . .]
+
+21. ZI.KU₅.RU.DA DU₃{+ša₂} is-hu-ra i#-[...]
+#tr.en: magic that cuts the throat has done, turned, (and) [. . .]
+
+22. ša-ša₂-nam-ma u₂-še-[pi-ša₂]
+#tr.en: Who had another per[form (witchcraft against me)]
+
+23. ina qi₂-biti#-ku#-nu# kit-ti ša₂ NU# [...]
+#tr.en: By your firm command that cannot [. . .]
+
+24. up-ša₂-šu-u-[nu-nu a]-a# TE{+ni} a-a iq-ru-bu-ni a#-[a ...]
+#tr.en: May their machinations not approach me, draw near to me, no[t . . .]
+
+25. ana UGU e-pi#-ši# e-piš-ti li-[...]
+#tr.en: May [. . .] to the sorcerer (and) sorceress.
+
+26. {d}iš-ha-ra AMA reme₂-ni-tum ša UN-MEŠ [...]
+#tr.en: O Išhara, merciful mother of the people [. . .]
+
+27. ina HUL AN.GE₆ {d}3(u) ša₂ ina ITI NENNI U₄ NENNI [...]
+#tr.en: On account of the evil of a lunar eclipse which (happened) in month so-and-so (on) day so-and-so,
+
+28. HUL A₂-MEŠ GISKIM-MEŠ HUL-MEŠ NU DU₁₀.GA-MEŠ ša₂ ina E₂.GAL-MU u [...]
+#tr.en: The evil of signs (and) portents wicked (and) unfavorable which [. . .] in my palace and [. . .],
+
+29. a#-na# šu#-[a]-ti# NIGIN{+ki} al-si-ki KIN#-[KIN{+ki}]
+#tr.en: On account of that, I turn to you, I call to you, I constan[tly seek you.]
+
+30. [...] dum#-qi₂# DU₃#{+ša₂#} [...]
+#tr.en: [. . .] of favor to do [. . .]
+
+$end of reverse missing

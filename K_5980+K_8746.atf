@@ -1,0 +1,145 @@
+﻿&P238568 = BMS 10
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: K.5980 + K.8746 contains Marduk 3, Shamash 1, and Shamash 90. The tablet is in Babylonian script.
+
+@tablet
+
+@obverse
+
+$ beginning of obverse missing
+
+1'. [...]-un#? ru#?-[...]
+#tr.en: [. . .]
+#note: The restoration follows Abusch and Schwemer 2016: 336.
+
+2'. [ri]-kis#? kaš#-ša₂#-pi u₃ kaš#-šap#-tu₂# li#-pa#!(UD)-aṭ#-ṭi#-ir# ina# [...]
+#tr.en: May [. . .] release [the bo]nd of witch and warlock. In [. . .]
+#note: I follow Mayer's reading of the verb at the end of the line (1976: 446). Abusch and Schwemer read: ⸢lip-ta-aṭ-ṭi-ir ina⸣ (2016: 336).
+
+3'. giš#-par₂-ri-šu₂-nu lem-nu-tu₂ li-paṭ-ṭir NUN.<ME> DINGIR.ME {d}AMAR.UTU li#-[...]
+#tr.en: May the sage of the gods, Marduk, release their evil traps. May he [. . .]
+#note: Mayer 1976: 446, 447 suggests [š]u#-bar-ri-šu₂-nu, "ihre Fügungen," for the first word. But this does not seem to fit in terms of sense. Abusch and Schwemer suggest [gi]š?-par₂-ri-šu₂-nu, "their traps" (2016: 336, 339), followed here. Ebeling's suggestion, [k]i-iṣ-ri-šu₂-nu, "their binding" (1953: 67) is possible but what is taken as a GIŠ is probably a BAR (so Abusch and Schwemer 2016: 340); collated.
+
+4'. meš-re-tu-u₂-a UGU-ia li-ṭi-ba AN{+u₂} HUL₂-ka ZU.[AB ...]
+#tr.en: May my members be healthy. May the heavens rejoice for you, [. . .] the Ap[su . . .] 
+
+5'. DINGIR.MEŠ GAL.MEŠ e#!?(giš)-tel-liš li-ša₂-li-lu-ka du-um!-qi₂ [...]
+#tr.en: May the great gods laud you as a lord. Favor [. . .]
+#note: See Mayer 1976: 446 for a collation of the last three signs. My reading follows Abusch and Schwemer 2016: 337.
+
+$ single ruling
+
+6'. KA-INIM-MA ŠU-IL₂-LA₂ {d}AMAR#-UTU#-KAM*# 
+#tr.en: It is the wording of a lifted-hand prayer to Marduk.
+
+$ single ruling
+
+7'. EN₂# šur-bu-u₂ gít-ma-lu a-pil AŠ.AN.AMAR.UTU ZALAG₂ ed-deš#-[šu-u₂ ...]
+#tr.en: Incantation: O most exalted, perfect one, heir of Namraṣit, ever-ren[ewing] light, [. . .]
+
+8'. [{d}]UTU# muš-te-šir LU₂.UŠ₂ u LU₂.TI# x# x# x# x# x# x# x#
+#tr.en: O Shamash, who guides aright (both) the dead and the living, . . .
+#note: The last seven lines require collation in person.
+
+9'. [{d}]UTU# ZALAG₂ AN{+e} u KI[{+tim} ...] x# x# [...]
+#tr.en: O Shamash, the light of heaven and earth, [. . .] . . . [. . .]
+#note: Mayer 1976: 504 reads {d}ZALAG₂ at the beginning of the line. But there is room for the UTU.
+
+10'. [x]-x# {d}AMAR.UTU tuk-lat# [...]
+#tr.en: [. . .] of Marduk, the trust of [. . .]
+
+11'. [UN].MEŠ# DAGAL.MEŠ ṣal-mat# [...]
+#tr.en: The expansive [peo]ple, the black-[. . .]
+
+12'. [...] tap-pa-a tu-[šar-ši ...]
+#tr.en: [. . .] you [cause . . . to acquire] a friend. [. . .]
+#note: King copied tap-pa as ŠAK.
+
+13'. [... ed]-lu#-tu sik-kur [...]
+#tr.en: [. . . lo]cked bolts of [. . .] 
+
+14'. [... ṭup]-pi# ar₂#-mi# la [...]
+#tr.en: [. . .] an enclosed [tab]let, not [. . .]
+
+15'. [...] x# DINGIR.MEŠ EN [...]
+#tr.en: [. . .] of the gods, lord [. . .]
+
+16'. šim#-ti ši-i-mi [...]
+#tr.en: Decree my fate [. . .]
+
+17'. [lid]-mi-qa [...]
+#tr.en: [May . . . b]e favorable [. . .]
+
+18'. MAŠ₂#.GI₆.ME aṭ-ṭu-la [...]
+#tr.en: The dreams that I saw, [. . .]
+
+19'. ša₂ u₄-mi-ia₅ lu-u SIG₅-ti#? [...]
+#tr.en: Of my days, may (they) be favorable [. . .]
+
+20'. ina!(DINGIR) ul-ṣi u₃ ri-ša₂-a-[ti ...]
+#tr.en: In pleasure and celebrati[on . . .]
+
+21'. {d}NIG₂.SI.SA₂ li-iz-ziz ina [...]
+#tr.en: May Divine Justice stand at [. . .]
+
+22'. a-a ip-par-ki MAŠKIM šul₃-mu [...]
+#tr.en: May a divine protector of well-being never leave [. . .]
+
+23'. {d}a-a hir-tu₂ na-ram-ta#-ka# ši#-[lim ...]
+#tr.en:  May Aya, your beloved wife, [. . .] pe[ace.]
+
+24'. AN{+u₂} HUL-ka KI{+tim} li-riš#-ka# [...]
+#tr.en: Let the heavens rejoice over you, let the earth be glad for you. [. . .]
+
+25'. {d}a-num {d}+EN.LIL₂ u {d}e₂-a li-šar#-[bu-u be-lut-ka]
+#tr.en: May Anu, Enlil, and Ea magni[fy your lordship.]
+#note: The restoration follows Mayer 1976: 509.
+
+$ single ruling
+
+26'. KA-INIM-MA ŠU-IL₂-LA₂ {d}UTU-[KAM*]
+#tr.en: [It is] the wording of a lifted-hand prayer to Shamash.
+
+$ single ruling
+
+27'. EN₂# DINGIR nam-ri še-mu-u ka-la-ma x# [...]
+#tr.en: Incantation: O shining deity, who hears everything [. . .]
+
+$ end of obverse missing
+
+@reverse
+
+$ beginning of reverse missing
+
+1'. [...]-x#-ka x# [...] x# [...] x# [...]
+#tr.en: [. . .] . . . [. . .]
+
+2'. a#-di ANŠE# ṣi-mit-ti-ka [...] x šu₂? [...]
+#tr.en: Until the donkey of your team (?) [. . .] . . . [. . .]
+#note: Following Ebeling 1953: 70 for the beginning of the line. The sense is still obscure.
+
+3'. {d}UTU aš-šu₂ UR-ba-nu-u GIG x [...]
+#tr.en: O Shamash, because . . . sick [. . .]
+#note: Following Mayer 1976: 70.
+
+4'. NENNI A NENNI IL₂#{+ši} pag-ri-[šu ...] 
+#tr.en: So-and-so, son of so-and-so, who bears in [his] body [. . .]
+
+5'. lu-u₂ la i-di a-da-an-šu₂ [...]
+#tr.en: Or he does not know its duration [. . .]
+
+6'. ana IGI-ka DU{+ka} ba-la₂-ṭi# [...]
+#tr.en: May he come before you. Life [. . .]
+#note: The reading of the last word follows Mayer 1976: 138.
+
+$ single ruling
+
+7'. KA-INIM-MA GIM? A.MEŠ# [...]
+#tr.en: [. . .] the wording of "Like water"(?) [. . .]
+
+$ single ruling
+
+8'. ki-i KA-x#-[...]
+#tr.en: According to . . . [. . .]

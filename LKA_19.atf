@@ -1,0 +1,72 @@
+﻿&P413923 = LKA 019 
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: The tablet contains a prayer that parallels SB Šuʾilla Prayer to Gula 1b for its first ten lines (o1-10) but the remainder of the prayer is without known parallel (o11-12, r1-7).
+
+@tablet
+
+@obverse
+
+1. EN₂# {d}gu-la be-el#-[tu₂ ...]
+#tr.en: Incantation: O Gula, [. . .] lad[y . . .] 
+#note: Restorations are based on duplicates in lines 1-10, unless otherwise noted.
+
+2. AN{+e} {d}a-nim um-[mu ...]
+#tr.en: The heavens of Anu, mot[her . . .]
+
+3. ša nap-lu-sa taš-mu-u [...]
+#tr.en: Whose glancing (is) acceptance, [. . .]
+
+4. al-si-ki be-el-tu₂ iz-x#-[...]
+#tr.en: I call out to you, O lady. St[and . . .]
+
+5. a#-na di-ni-ia di-a-ni EŠ#.[BAR-MU ...]
+#tr.en: Pass my verdict; [. . . my] ca[se . . .]
+
+6. hi-bil₂-tu₂ šul-lu-mi₃ as-hur#-[ki ...]
+#tr.en: Make right my wrongdoing. I turn [to you . . .]
+
+7. TUG₂.SIG₂-ki aṣ-bat GIM qan!(qam)-<ni?> DINGIR-ia [...]
+#tr.en: I seize your (garment's) hem like the fringe of my (personal) god's (garment), [. . .]
+#note: The GAM sign is odd here and unparalleled in the other witnesses. Perhaps "qam ilīya" is an aural mistake for the similar sounding qanni ilīya, "fringe of my god." In this case, the GAM sign, read as qam, was written for QAN and the NI was either left out mistakenly due to the initial i-sound of ilīya or qan-DINGIR-ia is a Sandhi writing of the phrase.
+
+8. di-i-ni di-i-ni EŠ.BAR-ia pur-si a-lak#?-[ti ...]
+#tr.en: Pass my verdict; decide my case; [. . .] of [my] way,
+#note: EŠ.BAR-a follows Mayer 1976: 456, who is relying on Loretz's collation. The copy in LKA shows EŠ.BAR-ia.
+
+9. aš₂-šu e-ṭe₂-ru ga-ma-lu šu-zu-bu ti-de-e#
+#tr.en: Because you know (how) to save, to spare, (and) to rescue,
+
+10. aš₂-šu₂ bu-lu-ṭu# šul-lu-mu ba-šu₂-u it-ti-ki#
+#tr.en: Because restoring (and) maintaining well-being are within your power (lit. with you).
+
+11. aš₂-šu₂ GIG dan-nu-ma#? i-sa-na-hur?-ra UGU-[ia]
+#tr.en: Because severe illness continually preys (lit. keeps turning back and forth) upon [me],
+#note: Restorations follow Mayer 1976: 456 henceforth, except in the last sign of this line. This MS never uses ia₂.
+
+12. aš₂#-šu₂# ad?-ra?-ku? as#-hur#-ki# a-še-ʾ-ki#
+#tr.en: Because I am afraid, I turn to you, I seek you out.
+
+@reverse
+
+1. [ina u₄-mi an]-ni-i ma-har-ki kam₂-sa-ku
+#tr.en: [On th]is [day] I am bowed before you.
+
+2. [a-na di-i]-ni-ia di-a-ni {d}ba-ba₆ na-ram-ti#
+#tr.en: Pass my [verdic]t, O beloved Baba!
+
+3. {d}[...] as-hur-ki ina qi-bit DINGIR{+ti}-ki#
+#tr.en: O [. . .], I turn to you by order of your great divinity.
+
+4. GAL{+te} GIG dan-nu li-na-si-hi-ma
+#tr.en: May the severe illness be removed,
+
+5. na-mir-tu₂ lu-mur nar-bi-ki# [lu-ša₂-pi]
+#tr.en: Let me see the light; [let me proclaim] your greatness,
+
+6. da₃-li₂-li₂-ki lud-lul [u₃ a-na-ku]
+#tr.en: that even I may sing your praises!
+
+7. a#-ši-pu IR₃{+ki} da₃-li₂-[li₂-ki lud-lul]
+#tr.en: The exorcist, your servant, [let me (also) sing your] praises!

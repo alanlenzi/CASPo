@@ -1,0 +1,89 @@
+﻿&P393796 = K.223 + K.16934 (= Or 59, 486; K.223 = AOAT 34 6 = BMS 2 MS D)
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#The tablet only preserves Ninurta 1 (Q006135). Only the bottom edge of the obverse and the top of the reverse are preserved.
+#All restorations are based on duplicates unless otherwise noted.
+
+@tablet
+
+@obverse
+
+$ beginning of obverse missing
+1'. [tuš-te]-šir# la# šu-šu#-[ra ...]
+#tr.en: [You secure jus]tice for the misgui[ded, . . .].
+
+2'. [ta]-ṣab#-bat ŠU-2(diš) en-ši# [...]
+#tr.en: [You] take the hands of the powerless, [. . .].
+
+3'. [ša₂ a]-na# a-ra-al#-[le-e ...]
+#tr.en: [. . . of the one . . . in]to the netherworld.
+
+4'. [...] pa#-[gar-šu₂ ...]
+#tr.en: [. . . his] bo[dy . . .]
+
+5'. [...] i#-šu#-u₂ ta-pa-ṭar# [...] 
+#tr.en: You forgive [. . .] has [. . .]
+
+6'. ša₂# DINGIR#-šu₂ {d}IŠ₈.TAR₂-šu₂ zi-nu-u tu#-sa#-[lam ...]
+#tr.en: You restore pe[ace . . .] to the one whose (personal) god (and personal) goddess are angry [. . .].
+
+7'. {d}nin-urta a-ša₂-red DINGIR-MEŠ qu-ra-du at-ta#
+#tr.en: O Ninurta, foremost of the gods, you (are) the hero.
+
+8'. ana-ku IR₃-ka {m}AN.ŠAR₂.DU₃.A DUMU DINGIR-šu₂
+#tr.en: I, your servant, Ashurbanipal, son of his god,
+
+9'.  ša₂ DINGIR-šu₂ aš-šur {d}1(u) 5(diš)-šu₂ {d}aš₂-šu-ri-tum#
+#tr.en: whose god is Ashur, whose goddess is Ashuritu,
+
+10'. ar-kus-ka rik-sa ZI₃.EŠA as₃-ruq-ka#
+#tr.en: Have set up a ritual arrangement for you. I have strewn flour for you.
+
+11'. as₃-ruq-ka qut-rin-na i-ri-ša₂ ṭa-a-ba#
+#tr.en: I have strewn incense for you, a sweet fragra[nce].
+
+12'. BAL-ka du-uš-šu-pa ši-kar aš-na-an#
+#tr.en: I have libated sweet ale for you, beer made from (lit. of) grain.
+
+13'. KI-ka li-ziz-zu DINGIR-MEŠ šu-ut {d}+EN.[LIL₂]
+#tr.en: May the gods of the (Path of) En[lil] stand with you.
+
+14'. KI-ka li-ziz-zu DINGIR-MEŠ šu-ut E₂#.[KUR]
+#tr.en: May the gods, those of E[kur], stand with you.
+
+@reverse
+
+1. ina HUL AN.GI₆ {d}3(u) ša₂ ITI U₄ GAR#[{+na}]
+#tr.en: On account of the evil of a lunar eclipse, which occ[urred] in month (and) day,
+
+2. HUL A₂-MEŠ GISKIM-MEŠ HUL-MEŠ NU DUG₃.GA#-[MEŠ]
+#tr.en: (And) the evil of portents (and) omens, unpleasant (and) unfavorable,
+
+3. ša₂ ina E₂.GAL-MU u KUR-MU GAL₂[{+a}]
+#tr.en: Which ar[e] present in my palace and my land,
+
+4. ki-niš IGI.BAR{+ni}-ma ši-mi qa-ba-a-a#
+#tr.en: Look upon me with due favor and hear my speaking.
+
+5. un-ni-ni-ia TI-ma mu-hur tas-lit
+#tr.en: Accept my prayer; receive (my) appeal. 
+
+6. zik-ri li-ku!(ṭib) UGU-ka
+#tr.en: May my speech please you.
+
+7. si-lim KI ia-a-tu-u₂ pa-lih-ka
+#tr.en: Be at peace with me, the one who fears you.
+
+8. pa-ni-ka a-ta-mar lu-še-ra ana-ku
+#tr.en: I have seen your face. May I indeed prosper.
+
+9. [mu]-up#-pal-sa-at ki-niš IGI.BAR{+an-ni}
+#tr.en: You are [favo]rably disposed; look upon me with due favor.
+
+10. [... pu]-ṭur šer₂-tim [pu]-šur#
+#tr.en: [Re]move [. . .]; [for]give (my) offence.
+
+11. [... gil-la]-ti#-ma# hi-[ṭi-ti ...]
+#tr.en: [. . .] my [si]n [. . .]; [. . .] [my] neg[ligence].
+$ end of reverse missing

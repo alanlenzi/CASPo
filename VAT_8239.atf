@@ -1,0 +1,109 @@
+﻿&P369308 = KAR 341
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: A single column tablet that only preserves Gula 1a (Q006071). VAT 8239.
+
+@tablet
+
+@obverse
+
+1. EN₂ {d}gu#-la GAŠAN šur-bu-tum# [...]
+#note: Restorations are based on duplicates. 
+#tr.en: Incantation: O Gula, most exalted lady [. . .]
+
+2. a-ši-bat AN-e KU₃.MEŠ al#-[si-ki ...]
+#tr.en: Who dwells in the pure heavens, I call [out to you . . .]
+
+3. i-ziz-zi-im-ma ši-[me-e ...]
+#tr.en: Stand nearby and lis[ten . . .]
+
+4. eš-e-ki as-hur-ki GIM TUG₂.SIG₂# [...]
+#tr.en: I seek you out, I turn to you, as the hem of [. . .] 
+
+5. TUG₂.SIG₂{+ki} aṣ-bat aš-šum di-na [...]
+#tr.en:  I seize your (garment's) hem. Because judging [. . .]
+
+6. aš-šum bu-ul-lu-ṭu u# [...]
+#tr.en: Because restoring and [. . .]
+
+7. aš-šum e-ṭe-ra u ga-ma-[lu ...]
+#tr.en: Because [. . .] to save and to spa[re . . .] 
+
+8. {d}gu-la GAŠAN ša₂-qu-tum# [...]
+#tr.en: O Gula, sublime lady [. . .]
+
+9. [i]-na# ma-aʾ-du-ti MUL#.[MEŠ ...]
+#tr.en: [A]mong the myriad star[s . . .]
+
+10. GAŠAN-MU ka-a-ši as#-[hur-ki ...]
+#tr.en: O my lady, to you I tu[rn . . .]
+
+11. ZI₃.MAD.GA₂-MU muh-[ri-in-ni-ma ...]
+#tr.en: Rece[ive] my flour offering [. . .] 
+
+12. lu-uš-pur-ki ana DINGIR-MU [...]
+#tr.en: Let me send you to my (personal) god [. . . ] 
+
+13. u₃ {d}IŠ₈.DAR-MU ze-[ni-ti]
+#tr.en: and my an[gry] (personal) goddess,
+
+14. ana DINGIR URU.MU ša₂ šab-[su-ma ...]
+#tr.en: To the god of my city who is fur[ious . . .]
+
+15. ana!(ina) bi-ri u MAŠ₂.GI₆ it#-[ta-na-aš₂-ka-nam-ma]
+#tr.en: On account of oracle(s) and dream(s) that con[tinually hound me],
+
+@reverse
+
+1. pal-ha-ku-ma a-ta-[nam-da-ru]
+#tr.en: I am afraid and cont[inually anxious]. 
+
+2. {d}gu-la GAŠAN šur#-bu#-tum# ina a-[mat ...]
+#tr.en: O Gula, most exalted lady, through the word of [. . .]
+
+3. ša₂ ina e₂-kur šur#-bat
+#note: Ebeling's copy in KAR 341 shows DINGIR BAD for the last two signs (followed by Mayer 1976, 453). But a look at the tablet suggests an abraided ŠUR is more likely.
+#tr.en: Which is supreme in Ekur,
+
+4. DINGIR-MU šab-su li#-[...]
+#tr.en: May my (personal) god [. . .]
+
+5. {d}1(u) 5(diš)-MU ze-ni-tum [...]
+#tr.en: [. . .] my angry (personal) goddess [. . .] 
+
+6. DINGIR URU{+ia} ša₂ šab-su#-[ma ...]
+#tr.en: May the god of my city who is furious [and . . .]
+
+7. ša i-zi-za li-nu-ha [...]
+#tr.en: Who is in a rage, relent [. . .] 
+
+8. {d}gu-la GAŠAN šur-bu-tu₂# [...]
+#tr.en: O Gula, most exalted lady, [. . .]
+
+9. ana {d}AMAR.UTU ša DINGIR-MEŠ [...]
+#tr.en: To Marduk of the gods [. . .]
+
+10. a-bu-ut!(ṣab)-ti ṣab!(ut)-ti qi₂#-[bi-i ...]
+#note: Perhaps the scribe wrote a-bu- then skipped ahead to ṣab-ti and then returned to finish the initial word with -ut-ti. Such a scribal error would be due to the graphic similarity of the UD and ZALAG₂ signs. (Ebeling's copy in KAR 341 is not quite accurate.)
+#tr.en: Intercede, speak [. . .]
+
+11. ṣu₂-lul-ki rap-ša₂ ta-a-a-ra#-[tu-ki ...]
+#tr.en: [. . .] your wide canopy (of protection), [your] forgive[ness . . .]
+
+12. gi-mil dum-qi₂ u [...]
+#tr.en: [. . .] a requital of favor and [. . .]
+
+13. nar-bi-ki lu-ša₂-pi da₃-li₂#-[li₂-ki ...]
+#tr.en: (That) I may proclaim your greatness, [. . . your] prais[es].
+
+$ single ruling
+
+14. KA-INIM-MA ŠU-IL₂-LA₂# [...]
+#tr.en: [. . .] the wording of a lifted-hand prayer [. . .]
+
+$ double ruling
+
+15. ha-an-ṭiš [ZI{+ha}]
+#note: Several mistakes in the last half of text confirm the colophon's message.
+#tr.en: Quickly [excerpted].

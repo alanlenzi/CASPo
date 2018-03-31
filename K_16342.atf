@@ -1,0 +1,30 @@
+&P401954 =  AOAT 034, 017
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: K.16342 contains the text of Sin 3.
+
+@tablet
+
+@surface a
+
+1. EN₂# {d}3(u) na-nar₃#-[ru ...]
+#tr.en: Incantation: O Sin, ligh[t of . . .]
+
+2. ga#-šir ina DINGIR#-[MEŠ ...]
+#tr.en: Strong one among the god[s . . .]
+
+3. LUGAL UB-MEŠ [...]
+#tr.en: King of the world [. . .]
+
+4. SAG.KAL AN[{+e} ...]
+#tr.en: Foremost one of the heaven[s . . .]
+
+5. SAG.KAL AN[{+e} ...]
+#tr.en: Foremost one of the heaven[s . . .]
+#note: Is this line a dittography? Duplicates do not show these signs again.
+
+6. ša₂ nap#-har# [gi-im-ri  ...]
+#tr.en: [. . .] the entir[ety of . . .]
+
+$ rest of surface missing

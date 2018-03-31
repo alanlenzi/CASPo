@@ -1,0 +1,65 @@
+﻿&P397501 = K.8122 = BMS 3
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#The tablet is a fragment with writing only on one side. After Damkina 1 (Q006061), there is Ninurta 1 (Q006135). The bottom edge of the tablet is preserved.
+#Restorations are based on duplicates unless otherwise noted.
+
+@tablet
+
+@surface a
+
+$ beginning of surface missing
+1'. [... bu]-ul#-liṭ-ṭi [...]
+#tr.en: [. . .] restore [. . .]
+
+2'. [...] TI#-i [...]
+#tr.en: [. . .] accept [. . .]
+
+3'. [... la] pa#-lih DINGIR-šu₂ u {d}IŠ₈.TAR₂-šu₂ ina# ŠU#-[MU li-mur]
+#tr.en: [. . .] may the one who does [not] fear his (personal) god and (personal) goddess [learn] from [my] example (lit. [see] by [my] hand).
+#note: The restorations in lines 3'-5' are based on Mayer 1976: 441.
+
+4'. [...] a-ta-mar še#-[ret-ki]
+#tr.en: [. . .] I have experienced (lit. seen) [your] punish[ment].
+
+5'. [...] AN{+u₂#} HUL₂-ki ZU.AB SU₃#-[ki]
+#tr.en: [. . .] the heavens rejoice over you, the Apsu celebrates you.
+
+6'. [DINGIR-MEŠ GAL-MEŠ šá kiš-šá-ti lik-ru-bu]-ki : DINGIR-MEŠ GAL-MEŠ ŠA₃-ki li-ṭib#-[bu]
+#tr.en: [May the great gods of the world bless] you. May the great gods gladd[en] your heart. 
+#note: The beginning of the line is a conjectural restoration that goes back to King 1896, no. 3, accepted by Ebeling 1953: 28 and Mayer 1976: 442.
+
+7'. [{d}a-num {d}EN.LIL₂ u {d}]e₂-a li-šar-bu-u EN{+ut#}-[ki]
+#tr.en: May [Anu, Enlil, and] Ea increase [your] dominion.
+#note: The restorations follow Ebeling 1953: 30 and Mayer 1976: 442.
+
+8'. [at-ti-ma] dam#-ki-na be-let AN{+e} u KI[{+tim}]
+#tr.en: [Indeed, you] Damkina (are) the lady of heaven and ear[th].
+#note: The conjectural restoration at the beginning follows Mayer 1976: 442. The end follows Ebeling 1953: 30 and Mayer 1976: 442.
+
+$ single ruling
+9'. [KA-INIM-MA] ŠU#-IL₂-LA₂ {d}DAM-KI-NA#-[KAM*]
+#tr.en: [It is the wording] of a lifted-hand prayer to Damkina.
+
+$ single ruling
+10'. [... bu]-kur₂ {d}+EN.LIL₂ : šur-bu-u₂ git₂-ma-lu i-lit-ti E₂.ŠAR₂.[RA]
+#tr.en: [. . . so]n of Enlil, most supreme, perfect one, progeny of Esha[ra],
+
+11'. [ša pu-luh]-tam# lit-bu-šu₂ ma-lu-u₂ hur-ba-šu₂#
+#tr.en: [Who is] clothed with [fe]ar, filled with terror,
+
+12'. [...] la im-mah-ha-ru qa-bal-šu₂
+#tr.en: [. . .], whose onslaught cannot be opposed.
+
+13'. [...] man-za-za ina DINGIR-MEŠ GAL-MEŠ
+#tr.en: (Whose celestial) position [. . .] among the gods.
+
+14'. [...] ta#-ši#-la-a-ti ša₂-qa-a re-ša₂-a-ka#
+#tr.en: [. . .] of celebrations, your head is high.
+
+15'. [...] te#-rit kul-lat DINGIR-MEŠ qa-tuk-ka tam-[hat]
+#tr.en: [. . .] execultive power over all the gods; it is held in your hand.
+
+16'. [...] tuš-te#-šir la šu-šu-ra i-ka-a [...]
+#tr.en: [. . .]; you secure justice for the misguided, the orphaned boy [. . .].

@@ -1,0 +1,103 @@
+﻿&P480774 = AOAT 034, 026 (BM 32909)
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: This tablet attests Marduk 2.
+
+@tablet
+
+@obverse
+
+1. EN₂ ga-aš₂-ru šu-pu-u₂ e-tel-lu ERI#.DU₁₀#{ki#}
+#tr.en: Incantation: Powerful, brilliant pre-eminent one of Eridu, 
+
+2. NUN ti-iz-qa-ru bu-kur₂ {d}nu-dim₂-mud
+#tr.en: Exalted prince, son of Nudimmud,
+
+3. {d}AMAR.UTU šal-ba-bu mu-riš <e₂-engur-ra>
+#tr.en: Sagacious Marduk, who makes <E-engur> rejoice, 
+#note: The text leaves off é-engur-ra, "E'engura," at the end of the line.
+
+4. EN e₂-sag-gil tu-kul-tu₂ E{ki}
+#tr.en: Lord of Esagil, help of Babylon,
+#note: The E₂ looks half erased at the start of the line. The E sign near the end of the line has a small extra vertical in it.
+
+5. ra-ʾ-im e₂-zi-da mu-šal-lim <ZI{+ti}>
+#tr.en: Beloved of Ezida, who preserves <life>, 
+#note: The text leaves of ZI-ti, napišti, "life," at the end of the line. 
+
+6. a-ša₂-red e₂-mah-ti-la mu-deš-šu-u TIN
+#tr.en: Foremost of Emaḫtila, who causes an abundance of life,
+
+7. ṣu-lu-lu ma-a-tu₂ ga-mil ni-ši <rap-ša-ti>
+#tr.en: Protector of the land, who shows mercy to the <widespread> peoples,
+#note: The text leaves off rapšāti (rap-ša-ti or DAGAL.MEŠ?), "widespread," at the end of the line.
+
+8. UŠUMGAL ka-li-iš BARA₂.ME 
+#tr.en: Sovereign ruler of every sanctuary,
+
+9. MU-ka ka-liš ina KA UN.ME DU₁₀.GA
+#tr.en: Your name everywhere is sweet in the mouth of the people,
+
+10. {d}AMAR.UTU EN# GAL-u DINGIR reme-nu-u₂
+#tr.en:  O Marduk, great lord, merciful god, 
+
+11. ina qi₂-bi-ti-ka kit-tu₂ lu-ub-<luṭ>
+#tr.en: By your righteous order let me live,
+
+12. lu-uš-lim-ma lu-uš-tam-mar <DINGIR-ut-ka>
+#tr.en: Let me be well, that I may praise <your divinity>.
+#note: The text leaves off DINGIR-ut-ka, ilūtka, "your divinity," at the end of the line.
+
+13. e-ma u₂-ṣa-am-ma-ru lu-uk-<šu-ud>
+#tr.en: Whatever I plan, let me achieve.
+#note: The text leaves off the last two signs in lukšud at the end of the line.
+
+14. šu-uš-kin kit-ti ina KA#-ia₂#
+#tr.en: Establish truth in my mouth.
+
+15. šub-ši a-mat SIG₅{+ti₃} ina lib₃-bi#-[ia₂]
+#tr.en: Create a favorable word in [my] heart.
+
+@reverse
+
+1. ti-i-ri u na-an-za-za liq-<bu-u₂> SIG₅{+ti}
+#tr.en: May courtier and attendant speak favor.
+#note: The text leaves off SIG₅-ti, damiqtu, "favor," at the end of the line.
+
+2. DINGIR li-iz-ziz ina ZAG-MU 
+#tr.en: May (my personal) god stand at my right side.
+
+3. {d}1(diš) 5(u)-MU liz-ziz i-na šu-me-li-ia₂
+#tr.en: May my (personal) goddess stand at my left.
+
+4. DINGIR mu-šal-lim ina A₂-MU lu ka-a-a-nu
+#tr.en: May the god who preserves (me) always be at my side.
+
+5. šur-kam*-ma qa-ba-a še-ma-a u ma-ga-ri
+#tr.en: Grant me (the ability) to speak, hear, and obey.
+
+6. a-mat a-qab-bu-u₂ e-ma a-qab-bu-u
+#tr.en: The word that I speak, whenever I speak (it), <may it be accepted.>
+#note: The text leaves off lu-u₂ ma-ag-rat, "may it be accepted," at the end of the line.
+
+7. {d}AMAR.UTU EN GAL{+u} ZI{+tu₂} qi₂-šam TIN ZI-<ia>
+#tr.en: O Marduk, great lord, give me (my) life. <Order> well-being for my life.
+#note: The text leaves off qi₂-bi, "order," at the end of the line.
+
+8. ma-har-ka nam-riš a-tal₂-lu-ka 
+#tr.en: May I be sated walking about in your presence.
+#note: The text leaves off lu-uš-bi, "may I be sated," at the end of the line.
+
+9. {d}+en-lil₂ lih-du-ka {d}+en-ki SU₃-ka
+#tr.en: May Enlil rejoice over you, may Enki be glad on your account.
+
+10. DINGIR.ME ša₂ kiš-šat lik-ru-bu-ka
+#tr.en: May the gods of the world bless you.
+
+11. DINGIR.ME GAL.ME lib₃-ba-ka li-ṭib-bu
+#tr.en: May the great gods make your heart happy.
+
+$ single ruling
+
+$ rest of reverse blank

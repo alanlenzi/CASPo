@@ -1,0 +1,184 @@
+&P413953 = LKA 41 (= Assur photo 4123d)
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#It seems that this tablet only preserved the šuila to Ninurta 1 (Q006135). No ritual is attested. The tablet is blank after the rubric until it breaks off. 
+#The last line on the obverse and the first on the reverse that preserve only traces were probably the last and first lines of their respective sides when the tablet was undamaged.
+#Restorations are based on duplicates unless otherwise noted.
+#This transliteration is based only on LKA's copy. 8/4/15
+
+@tablet
+
+@obverse
+
+1. [...] gaš-ru bu-kur₂ {d}EN#.[LIL₂]
+#lem: u; gašru[strong one]N; bukur[son]N; Ellil[1]DN
+
+#tr.en: Mighty [. . .], son of En[lil],
+
+2. [... git₂]-ma#-lum e-til!(lit)-ti e₂-šar₂-[ra]
+#lem: u; X; X; X
+
+#tr.en: [. . . per]fect one, progeny of Esha[ra],
+
+3. [...] lit#-bu-šu₂ ma-lu-u hur#-ba#-[šu₂]
+#lem: u; X; malû[full]AJ; hurbāšu[terror]N
+
+#tr.en: [. . .] clothed [. . .], filled with terr[or],
+
+4. [...] la# im-mah-ha-ru qa-bal#-[šu₂]
+#lem: u; lā[not]MOD; X; X
+
+#tr.en: [. . . whose] onslaught cannot be opposed,
+
+5. šu-pu-u man#-[za]-za#-šu₂ DINGIR-MEŠ GAL-MEŠ
+#lem: šūpû[resplendent]AJ; X; ilī[god]N; rabûti[great]AJ
+
+#tr.en: Whose (celestial) po[si]tion is resplendent (among) the great gods,
+
+6. ina e₂-kur E₂ ta#-ši#-la#-a-ti ša₂-qa-a re-ša₂-ka#
+#lem: ina[in]PRP; X; bīt[house]N; X; šaqâ[high]AJ; X
+
+#tr.en: In Ekur, the house of celebrations, your head is high.
+
+7. id#-din-ka-ma {d}[EN.LIL₂] AD-ka#
+#lem: X; Ellil[1]DN; abuka[father]N
+
+#tr.en: [Enlil], your father, gave you,
+
+8. te#-rit kul-lat DINGIR-MEŠ qa-tuk#-ka# DIB{+hat#}
+#lem: X; kullat[all]N; ilī[god]N; qātukka[hand]N; X
+
+#tr.en: Execultive power over all the gods; it is held in your hand.
+
+9. [ta]-da-an di-in te-ne#-še-e-te
+#lem: X; dīn[judgement]N; X
+
+#tr.en: [You] pass judgment upon the people.
+
+10. [tuš]-te-šir la šu-šu-ru e-ka-a e-ku#-[ti]
+#lem: X; lā[not]MOD; +šūšuru[in order//guided]AJ'AJ$; X; X
+
+#tr.en: You secure justice for the misguided, the orphaned boy and girl.
+
+11. ta#-ṣa-bat ŠU en-ši la li-ʾ-a tu-x-[x-x]
+#lem: taṣabbat[take]V; qāt[hand]N; enši[weak one]N; lā[not]MOD; X; u
+
+#tr.en: You take the hand of the powerless, you [. . .] the helpless.
+
+12. ša₂#? ana#? a-ra-le-e šu-ru-du pa-gar-šu₂ GUR{+ra?#}
+#lem: ša[who]REL; ana[to]PRP; X; X; pagaršu[body]N; iturra[return]V
+
+#tr.en: You return the body (lit. his body) of the one being made to descend into the netherworld.
+
+13. ša₂# ar₂-nu i-šu-u ta-paṭ-ṭar [...]
+#lem: ša[who]REL; arnu[transgression]N; īšû[have]V; X; u
+
+#tr.en: You forgive [. . .] of the one who has incurred guilt.
+
+14. ša₂# DINGIR#-šu₂# {d}IŠ₈.TAR₂-<šu₂> zi-nu-u₂# [...]
+#lem: ša[whose]REL; ilšu[god]N; X; X; u
+
+#tr.en: [. . .] to the one whose (personal) god (and personal) goddess are angry [. . . ].
+
+15. {d#}MAŠ# a#-ša₂#-red# DINGIR#-MEŠ# qu#-ra#-du# at#-[ta]
+#lem: Ninurta[1]DN; ašarēd[first and foremost]AJ; ilī[god]N; qurādu[warrior]N; attā[you]IP
+
+#tr.en: O Ninurta, foremost of the gods, yo[u] (are) the hero.
+
+16. a-na-ku {I}3(u)-MAN-GAR DUMU# DINGIR-šu₂
+#lem: anāku[I]IP; X; mār[son]N; ilišu[god]N
+
+#tr.en: I (am) Sîn-šar-iškun, son of his god,
+
+17. ša₂# DINGIR#-šu₂ AN.ŠAR₂ {d#}IŠ₈#.TAR₂#-šu₂ {d}aš₂-šur-i-tu₂
+#lem: ša[whose]REL; ilšu[god]N; Anšar[1]DN; X; X
+
+#tr.en: whose (personal) god (is) Ashur, (and) whose (personal) goddess (is) Ashuritu.
+
+18. ar-kus-ka rik#-sa ZI₃.EŠA as₂-ruq#-[ka]
+#lem: X; X; X; X
+
+#tr.en: I have set up a ritual arrangement for you. I have str[ewn] flour for [you].
+#note: Other witnesses include one more line before the following one in this MS.
+
+19. BAL-ka du-uš#-šu₂-pa ši-[kar] aš-na#-[an]
+#lem: X; X; šikar[beer]N; X
+
+#tr.en: I have libated sweet ale for you, be[er] made from (lit. of) grai[n].
+
+20. KI-ka li-iz-ziz-zu DINGIR#-[MEŠ šu]-ut# {d}[EN.LIL₂]
+#lem: ittika[with]PRP; X; ilī[god]N; šūt[those of]DET; Ellil[1]DN
+
+#tr.en: May the god[s of the (Path of) Enlil] stand with you.
+
+21. KI-ka li-iz#-ziz#-zu# [...] e₂-[kur]
+#lem: ittika[with]PRP; X; u; X
+
+#tr.en: May the gods, [. . .] of Ekur, stand with you.
+
+22. x x [...] x [...]
+#lem: u; u; u; u; u
+
+#tr.en: [. . .]
+$ end of obverse missing
+
+@reverse
+$ beginning of reverse missing
+1. x x x x x x [...] x x
+#lem: u; u; u; u; u; u; u; u; u
+
+#note: This line is not numbered in Ebeling's copy in LKA.
+
+2. <<TAB>> zik-ri li-ṭib UGU-ka#
+#lem: zikri[speech]N; liṭīb[be(come) agreeable]V; muhhika[top]N
+
+#tr.en: May my speech please you.
+
+3. si-lim KI ia-a-a-te pa-lih-[ka]
+#lem: silim[reconcile]V; itti[with]PRP; X; pālihka[reverent one]N
+
+#tr.en: Be at peace with me, the one who fears [you].
+
+4. pa-ni-ka a-ta-mar lu-še-ra a-[na-ku]
+#lem: pānīka[face]N; ātamar[see]V; X; anāku[I]IP
+
+#tr.en: I have seen your face. May I [indeed] prosper.
+
+5. mu-up-pal-sa-ta ki-niš nap-lis-a-ni#
+#lem: X; kīniš[righteously]AV; X
+
+#tr.en: You are favorably disposed; look upon me with due favor.
+
+6. ar₂-ni pu-ṭur še-er-ti pu-šur#
+#lem: arnī[guilt]N; puṭur[release]V; X; X
+
+#tr.en: Remove my guilt; forgive my offence.
+
+7. šu-ti-iq gil-la-ti-ma hi-ṭi-te [...] 
+#lem: X; X; X; u
+
+#tr.en: Make my sin pass by; [. . .] (my) negligence.
+
+8. DINGIR-MU {d}IŠ₈.TAR₂-MU li-ša₂-qi₂-ru-ni#-[ma?]
+#lem: ilī[god]N; X; X
+
+#tr.en: May my (personal) god (and personal) goddess respect me;
+
+9. liq-bu-u SIG₅{+tim#}
+#lem: liqbû[decree]V; X
+
+#tr.en: May they intercede (for me),
+
+10. nar-bi-ka lu-ša₂-pi!(ka) da₃-li₂-li₂-ka lud#-[lul]
+#lem: X; lušāpi[proclaim]V; dalīlīka[praise]N; ludlul[praise]V
+
+#tr.en: That I may proclaim your greatness (and) res[ound] your praises.
+
+$ single ruling
+11. KA-INIM-MA ŠU-IL₂-LA₂ {d}NIN-URTA-[KAM*]
+#lem: X; X; X
+#tr.en: [It is] the wording of a lifted-hand prayer to Ninurta.
+$ single ruling
+$ end of reverse missing
+

@@ -1,0 +1,621 @@
+﻿&P394195 = K.2106 + K.2384 + K.3393 + K.3605 + K.6340 + K.7146 + K.8605 + K.8983 + K.9576 + K.9688 + K.9754 + K.11589 + K.12911 + K.13792 + K.13800 (= BMS 6+; BMS 6 does not include K.3605, K.7146, and K.9754, all of which join to the tablet's colophon)
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: The tablet is the ninth section of Bīt salāʾ mê and contains several shuila prayers: Anu 1 (Q006058) in obv. 1-17, Nusku 3 (Q006145) in obv. 18-35, Sin 3 (Q006156) in obv. 36-70, Gula 1a (Q006071) in obv. 71-77, rev. 1-19, Shamash 1 (Q006169) in rev. 20-55, and the incipt for Papsukkal 1 (Q006152) in rev. 56. Ashurbanipal colophon type c concludes the tablet in rev. 57-68.
+
+@tablet
+
+@obverse
+
+1.  EN₂ EN šur-bu-u₂# [...]
+
+#tr.en: Incantation: O Lord most great, [. . .]
+
+2. {d}a-num šur-bu#-u₂# [...]
+
+#tr.en: Anu, lord most great, [. . .]
+
+3. DINGIR AN{+e#} [...]
+
+#tr.en: God of the heavens, [. . .]
+
+4. {d}a-num DINGIR AN{+e#} [...]
+
+#tr.en: Anu, god of the heavens, [. . .]
+
+5. pa-šir U₄{+mi} EN# [...]
+
+#tr.en: Who releases the day, lord of [. . .]
+
+6. {d}a-num pa-šir# [...]
+
+#tr.en: Anu, who releases [. . .]
+
+7. pa-šir MAŠ₂.[GE₆-MEŠ ...]  
+#note: Restorations of the prayer Anu 1 are based on duplicates.
+
+#tr.en: Who resolves dre[ams . . .]
+
+8. še-et-ti [...]
+
+#tr.en: Sin [. . .]
+
+9. ina te-e-[ka ...]
+
+#tr.en: With [your] incantation [. . .]
+
+10. mim#-mu-u₂# [...]
+
+#tr.en: Every [. . .]
+
+11. ŠA₃ DINGIR-MU# [...]
+
+#tr.en: The heart of my (personal) god [. . .]
+
+12. ag-gu [...]
+
+#tr.en: Angry [. . .]
+
+13. lip-pa-aš₂-[ra ...]
+
+#tr.en: May [. . .] be appeased.
+
+14. lu-ṭah-hi-[id ...]
+
+#tr.en: (That) I may lavishly end[ow . . .]
+
+15. da-lil-[li ...]
+
+#tr.en: The praise[s of . . .]
+
+16. nar₃-bi DINGIR-[ti-ka ...]
+
+#tr.en: The greatness of [your] divinit[y . . .]
+
+$ single ruling
+
+17. KA-INIM-MA# [...] 
+
+#tr.en: The wording of [. . .]
+
+$ single ruling
+
+18. EN₂ {d}nusku šur-[bu-u₂ ...]
+#note: Restorations of Nusku 3 are based on duplicates.
+
+#tr.en: O Nusku, most gr[eat . . .]
+
+19. na-ram {d}+EN.LIL# [...]
+
+#tr.en: Beloved of Enlil [. . .]
+
+20. suk-kal-lu ṣi#-[i-ru ...]
+
+#tr.en: Aug[ust] vizier [. . .]
+
+21. ina AN{+e} KUG#.[...]
+
+#tr.en: In the pure heavens [. . .]
+
+22. ina E₂.ŠAR₂.RA# [...]
+
+#tr.en: In Eshara [. . .]
+
+23. a-na a-ṣi#-[ka ...]
+
+#tr.en: At [your] coming forth [. . .]
+
+24. ina ba-li-ka# [...]
+
+#tr.en: Without you [. . .]
+
+25. u₃ {d}+EN.LIL₂ ma#-[li-ku ...]
+
+#tr.en: And Enlil, the rul[er, . . .] 
+
+26. ina ba-li-ka ul [...]
+
+#tr.en: Without you does not [. . .]
+
+27. ana-ku NENNI A NENNI [...]
+
+#tr.en: I, so-and-so, son of so-and-so, [. . .]
+
+28. as#-hur-ka eš-e#-[ka ...]
+
+#tr.en: I turn to you, I seek [you . . .]
+
+29. ri#-ša₂-a re-e-[mu] ag#-[gu ...]
+
+#tr.en: Have mer[cy]! Ang[ry . . .]
+
+30. ma#-har {d}+EN.[LIL₂ ...] ṣa#-bit [a-bu-ti-ia ...]
+
+#tr.en: Before En[lil . . .], [my] interces[sor . . .]
+
+31. [ar]-ni#-ia [lip]-pa#-ṭir [...]
+
+#tr.en: [May] my [s]ins [b]e forgiven. [. . .]
+
+32. {d}ALAD# [...] u {d}LAMMA [...]
+
+#tr.en: Protective spirit [. . .] and divine guardian [. . .]
+
+33. pu-u₂ u li-ša₂-nu# [...]
+
+#tr.en: Mouth and tongue [. . .]
+
+34. ana IGI{+ka} al#-[...]
+
+#tr.en: To your face [. . .]
+
+$ single ruling
+
+35. KA-INIM-MA# [...]
+
+#tr.en: The wording of [. . .]
+
+$ single ruling
+
+36. EN₂ {d}3(u) na-[...]
+
+#tr.en: Incantation: O Sin, [. . .]
+
+37. ga-šir ina [...]
+
+#tr.en: Strong one among [. . .]
+
+38. LUGAL kib-ra#-[a-ti ...] EN# [...]
+#note: Restorations in Sin 3 are based on duplicates.
+
+#tr.en: King of the world [. . .], lord [. . .]
+
+39. a-ša₂-red AN-[e ...] nu#-ur₂# [...]
+
+#tr.en: Foremost of the heavens [. . .], light of [. . .]
+
+40. ša₂ nap-har gi-[im-ri ...]
+
+#tr.en: Of the totali[ty . . .]
+
+41. ina ba-li-ka# [...]
+
+#tr.en: Without you [. . .]
+
+42. ab#?-ra-a-[ti ...]
+
+#tr.en: Humani[ty . . .]
+
+43. a-šar at-ta# ta#-[...]
+
+#tr.en: Where you [. . .]
+
+44. ma-aq-tu₄ ša₂ i#-[...]
+
+#tr.en: The fallen, who [. . .]
+
+45. di-in kit-ti [...]
+#note: Contrary to the copy (King, BMS 6) and various transliterations, the U seems no longer to be visible after the TI.
+
+#tr.en: A case of truth [. . .]
+
+46. ša₂ ap-la la# [...]
+
+#tr.en: The one who does not [. . .] an heir [. . .]
+
+47. la a-lit-tu₄ ina ba#-[li-ka ...]
+
+#tr.en: The barren, witho[ut you . . .]  
+
+48. ša iš-te-ne₂-ʾu-[ka ...]
+
+#tr.en: The one who continually seeks [you . . .]
+
+49. ša₂# ka-a-ša₂ it#-[ka-lu-ka ...]
+
+#tr.en: The one who tru[sts] in you [. . .]
+
+50. la# a#-lit#-[tu ...]-bat#
+#note: The restoration follows Ambos 2013: 206, who notes at p. 207, n.50 Mayer's preference (1976: 498) to read the third sign as MI#?.
+
+#tr.en: The barr[en . . .] . . .
+
+51. la# le-ʾa [... le]-u₂-ti
+#note: The restoration follows Ambos 2013: 206.
+
+#tr.en: The incapable [. . . ca]pability.
+
+52. ša₂ is-sah-ru-ka# [...]-e-ma
+
+#tr.en: The one who has turned to you [. . .] . . . 
+
+53. ša₂ sa-ap-hi tu?#-[...] ga#-nun-šu₂
+
+#tr.en: For the one who is dispersed you [. . .] his family (lit. living quarters, storeroom).
+
+54. ša₂ ar₂-na TUKU-u₂# [...] ar₂#-nam
+
+#tr.en: The one who has sin [. . .] the sin.
+
+55. ša₂ DINGIR{+šu₂} iz-nu#-[u₂] KI-[šu tu]-sal-lam
+
+#tr.en: For the one whose (personal) god is angr[y] with [him, you] make peace.
+
+56. e-nu-ma [DINGIR]-MU# ze#-[nu-u₂]-KI#-ia
+
+#tr.en: When my [(personal) god] was an[gry] with me
+
+57. {d}IŠ₈.[TAR₂] ne₂#-sa-[at] UGU#-ia
+
+#tr.en: [My] godd[ess] was dist[ant] from me,
+
+58. ul-tu ul#-[la a-šad-da]-ad ne₂-er-tu₂ ṭa#-[aʾ-tu₂ ...] GAR#? UGU-ia
+#note: The restoration of the first verb and ṭaʾtu follows duplicates. Ambos 2013: 207, n.58 suggests ne₂-er-tu₂ may also be read ni-sa!-tu₂ (nissatu, "lamentation"). See the parallel line in LKA 52 and CAD N/2, 274. Ambos also fills the remaining lacuna with e-mu-qi₂ (emūqi, "strength, force"), though his basis for this is unclear. 
+
+#tr.en: [I endured] (it) [patien]tly for a long time. Murder, br[ibery . . .] were set against me.
+
+59. ṣi-i-ti hu-lu#-[uq]-qu#-u₂ bu-tuq-qu#-[u₂ ...] GAR{+nu}-nim-ma
+
+#tr.en: Loss, ru[i]n, shortfa[ll . . .] are set against me.
+
+60. i-ta-šu-uš lib₃#-bi ik#-[tu-ru] ZI#-ti₃
+
+#tr.en: My heart has become aggrieved, my life has been di[minished].
+
+61. al-si-ka be-lum ina [...]-MEŠ
+
+#tr.en: I call to you, O lord, in [. . .]s.
+
+62. ki-niš nap-lis-an-ni-ma ši-[me ...]
+
+#tr.en: Truly look at me, he[ar . . .] 
+
+63. ta-a-a-ra-ta {d}3(u) [...]
+
+#tr.en: You are merciful, O Sin, [. . .]
+
+64. e-ṭi-ra-ta {d}3(u) [...]
+
+#tr.en: You are one who spares, O Sin, [. . .]
+
+65. gam#-ma-la-ta {d}3(u) ina DINGIR-MEŠ [...]
+
+#tr.en: You are very merciful, O Sin, among the gods [. . .]
+
+66. ša₂# la ma-še-e {d}3(u) la [...]
+
+#tr.en: (You are) one who does not forget, O Sin, do not [. . .]
+
+67. i₃-li₂ u iš-ta-ri ze-nu-ti šab#-[su-ti ...]
+
+#tr.en: My god and my goddess, who are angry, furi[ous, . . .],
+
+68. i-lut-ka GAL{+ta} KI#{+ia#} [su-ul-li]-ma#-am#-ma#
+
+#tr.en: (And) your great divinity [reconci]le with me.
+
+69. nar-bi-ka lu-ša₂-pi [da₃-li₂-li₂]-ka# lud-lul
+
+#tr.en: Let me proclaim your greatness (and) resound your [praises]!
+
+$ single ruling
+
+70. KA-INIM-MA ŠU-IL₂#-[LA₂] {d}NANNA-KAM
+
+#tr.en: It is the wording of a lifted-hand prayer to Sin.
+
+$ single ruling
+
+71. EN₂ {d}gu#-la GAŠAN šur-bu-tu₄ AMA# re#-me#-[ni-tu₄ a]-ši-bat AN{+e} KUG-MEŠ
+#note: Restorations in Gula 1a are based on duplicates.
+
+#tr.en: Incantation: O Gula, most exalted lady, merc[iful] mother, [wh]o dwells in the pure heavens,
+
+72. al-si-ki GAŠAN-MU i-ziz-zi#-[im-ma ši-me]-e ia-a-ti
+
+#tr.en: I call out to you, my lady, stand near[by and liste]n to me!
+
+73. eš-e-ki as#-hur-ki GIM TUG₂.SIG₂# [... IŠ₈].TAR₂#-MU TUG₂.SIG₂-ki aṣ-bat
+
+#tr.en: I seek you out, I turn to you, as the hem of [. . .] my (personal) [god]dess(’s garment), I lay hold of your (garment’s) hem,
+
+74. aš-šum di-in da-a#-[ni] EŠ.BAR KUD{+si}
+
+#tr.en: Because judging a cas[e], handing down the decision,
+
+75. aš-šum bul-lu-ṭu u šul#-[lu-mu] ba-šu-u₂ KI-ki
+
+#tr.en: Because restoring and maintaining well-b[eing] are within your power (lit. with you),
+
+76. aš-šum e-ṭe-ra ga-ma#-[la u] šu#-zu-ba ti-de-e
+
+#tr.en: Because you know how to save, to spa[re], and to rescue.
+
+77. {d}gu-la GAŠAN šur-[bu-tu₄] AMA re-me₂-ni-tu₄
+
+#tr.en: O Gula, most exa[lted] lady, merciful mother,
+
+@reverse
+
+1. [...]-ti MUL-MEŠ ša-[...]
+
+#tr.en: [. . .] stars of [. . .]
+
+2. [...] as-hur-ki ib-ša₂-ki [...]
+
+#tr.en: [. . .] I turn to you [. . .] are attentive to you.
+
+3. [... muh]-ri-in-ni-ma le-qe₂-e un#-[ni-ni-ia]
+
+#tr.en: [Re]ceive [. . .], accept [my] pr[ayer].
+
+4. [...] ana# DINGIR-MU ze-ni-i {d}IŠ₈#.[TAR₂-MU ...]
+
+#tr.en: [. . .] to my angry (personal) god (and) [my] (personal) god[dess . . .]
+
+5. [...] šab-su-ma kam-lu# [...]
+
+#tr.en: [. . .] is furious (and) enraged [. . .]
+
+6. [... MAŠ₂].GI₆# it-ta-[...]
+
+#tr.en: [. . . dre]am(s) . . . [. . .]
+
+7. [...] a-ta#-[...]
+
+#tr.en: [. . .] . . . [. . .]
+
+8. [{d}]gu#-la GAŠAN šur-bu-tu₄ ina a-mat qi₂-bi-ti-ki# [...]
+#note: The ina looks like ana.
+
+#tr.en: O Gula, most exalted lady, through the word of your command [. . .]
+
+9. u₃ an-ni-ki ki-nim ša₂# [...]
+
+#tr.en: And your sure approval, which [. . .]
+
+10. DINGIR-MU šab-su li-tu-ra {d}1(u) 5(diš)-MU ze-ni-tu₄# [...]
+
+#tr.en: May my furious (personal) god turn back to me; [. . .] my angry (personal) goddess [. . .]
+
+11. DINGIR URU-MU ša₂ šab-su-ma kam-lu# [...]
+
+#tr.en: [. . .] the god of my city who is furious and enraged [. . .]
+
+12. ša₂ i-zi-za li-nu-ha ša₂ i-gu-ga# [...]
+
+#tr.en: May the one who is in a rage, relent; [. . .] the one who is incensed [. . .]
+
+13. {d}gu-la GAŠAN šur-bu-tu₄ ṣa-bi-ta-at a-[bu-ut ...]
+
+#tr.en: O Gula, most exalted lady, who interced[es . . .]
+
+14. ana {d}AMAR.UTU LUGAL DINGIR-MEŠ EN re-me₂-ni-i a-bu-ti# [ṣab-ti ...]
+
+#tr.en: With Marduk, king of the gods, merciful lord, interc[ede! . . .]
+
+15. ṣu-lul-ki rap-šu ta-a-a-ra-tu-ki kab-ta#-[tu ...]
+
+#tr.en: [. . .] your wide canopy of protection, your nobl[e] forgiveness [. . .]
+
+16. gi-mil dum-qi₂ u ba-la₂-ṭi UGU# [...]
+
+#tr.en: [. . .] a requital of favor and life over [. . .]
+
+17. nar-bi-ki lu-ša₂-pi# da₃-li₂-[li₂-ki ...]
+
+#tr.en: Let me proclaim your greatness (and) [. . . your] prais[es].
+
+$ single ruling
+
+18. KA-INIM-MA ŠU-IL₂-LA₂ {d}GU#-LA-KAM DU₃-DU₃-[BI ...] 
+
+#tr.en: It is the wording of a lifted-hand for Gula. [Its] ritual: [. . .]
+
+19. KAŠ.SAG BAL{+qi₂} EN₂ 3(diš)-[šu₂] ŠID#-ma [...]
+
+#tr.en: Libate first-rate beer. Recite the incantation three tim[es . . .].
+
+$ single ruling
+
+20. EN₂ šur-bu git-ma-[lu ...]
+
+#tr.en: Incantation: O most exalted, perfe[ct one . . .]
+
+21. [ZALAG₂] ed-deš-šu-u₂ pe-tu-[u ...]
+
+#tr.en: Ever-renewing [light], who open[s . . .]
+
+22. [{d}]UTU# muš-te-šir {lu₂}UŠ₂# [...]
+
+#tr.en: O Shamash, who administers justice for the dead [. . .]
+
+23. [{d}]UTU# nu-ur₂ AN{+e} [...]
+
+#tr.en: O Shamash, light of the heavens [. . .]
+
+24. [EN] si#-par{ki} ṣu#-[lul ...]
+
+#tr.en: [Lord] of Sippar, protect[ion of . . .]
+
+25. [x x] {d#}AMAR.UTU [...]
+
+#tr.en: [. . .] of Marduk [. . .]
+
+26. [...]-ka [...]
+
+#tr.en: [. . .] your [. . .]
+
+27. [ana qi₂]-bi-ti-ka# [...]
+
+#tr.en: [To] your [com]mand [. . .]
+
+28. [...]-MEŠ#? [...]
+
+#tr.en: [. . .] . . . [. . .]
+
+29. [...]
+
+#tr.en: [. . .]
+
+30. [...]
+
+#tr.en: [. . .]
+
+31. [...] sik#?-kur#? [...]
+#note: Conjecture from Ambos 2013: 208.
+
+#tr.en: [. . .] bolt(?) [. . .]
+
+32. [ana la] na-ṭi-li# [...]
+
+#tr.en: [. . . for the b]lind [. . .]
+
+33. [ṭup]-pa# ar-ma la# [...]
+
+#tr.en: An encased [tab]let, not [. . .]
+
+34. ina ŠA₃ UDU.NITA ta-[...]
+
+#tr.en: In the heart of the sheep you [. . .]
+
+35. DI.KUD DINGIR-MEŠ EN# [...]
+
+#tr.en: Judge of the gods, lord of [. . .]
+
+36. {d}UTU EN ši-mat KUR [...]
+
+#tr.en: O Shamash, [. . .] the lord of the destiny of the land.
+
+37. šim-ti ši-im a-lak-ti# [...]
+
+#tr.en: Determine my fate; [. . .] my way.
+
+38. li-ši-ra i-da-[tu-u₂-a]
+
+#tr.en: Let [my] sig[ns] be favorable.
+
+39. lid-me-qa MAŠ₂.GI₆-MEŠ-[u₂-a]
+
+#tr.en: Let [my] dreams be propitious.
+
+40. MAŠ₂.GI₆ aṭ-ṭu-la ana SIG₅-ti [x x]
+
+#tr.en: [. . .] the dream I saw into (something) favorable.
+
+41. i-ša₂-riš lul-lik tap-pe-e [...]
+
+#tr.en: May I prosper (lit. may I walk correctly); [. . .] friends.
+
+42. ša₂ u₄-mi-ia lu-u [...]
+
+#tr.en: During my days, let there be [. . .]
+
+43. šu-ut-li-ma-am-ma INIM.[GAR SIG₅]
+
+#tr.en: Bestow upon me a [good] porte[nt].
+
+44. ina SILA lu-u ma-gir [...]
+
+#tr.en: May [. . .] be acceptable in the street.
+
+45. [ina ul]-ṣi# u ri-ša₂-a-ti lu [...]
+
+#tr.en: May [. . . in jo]y and celebration.
+
+46. [... li]-iz#-ziz ina ZAG-MU {d}mi-ša₂#?-[ru ...]
+
+#tr.en: {May . . .] stand on my right; justice [. . .]
+
+47. lit-tal#-lak# DINGIR# mu-šal-li-[mu ...]
+
+#tr.en: May a god who provides well-be[ing] walk constantly [. . .]
+
+48. a-a-ip-par#-[ku] MAŠKIM šul-[mu ...]
+
+#tr.en: May a guardian of whole[ness] not cea[se . . .]
+
+49. li-ta-mi-ka# {d}bu-ne#-[ne ...]
+
+#tr.en: May Bune[ne] speak to you [. . .]
+
+50. {d}a-a hi-ir-tu na-ram#?-[ta-ka ...]
+
+#tr.en: {. . .] Aya, [your] belove[d] wife [. . .]
+
+51. {d}UTU a-ša₂-red DINGIR-MEŠ [...]
+
+#tr.en: O Shamash, foremost of the gods; [. . .]
+
+52. AN{+u₂} HUL₂-ka# [...]
+
+#tr.en: May the heavens rejoice over you [. . .]
+
+53. DINGIR-MEŠ ša₂ kiš-ša₂-ti [...]
+
+#tr.en: [. . .] all of the gods [. . .]
+
+54. DINGIR-MEŠ GAL-MEŠ lib₃-[...]
+
+#tr.en: May the great gods [. . .]
+
+$ single ruling
+
+55. KA-INIM-MA ŠU-IL₂#-[LA₂ {d}UTU-KAM]
+
+#tr.en: It is the wording of a lifted-ha[nd prayer to Shamash].
+
+$ single ruling
+
+56. EN₂ DINGIR šu-pu-u₂ [bu]-kur₂# {d}a-nim
+
+#tr.en: Incantation: O resplendent god, [first]born of Anu.
+
+57. E₂.GAL {m}AN-ŠAR₂-DU₃-A LUGAL# ŠU₂# LUGAL KUR AN.ŠAR₂{ki}
+
+#tr.en: Palace of Ashurbanipal, king of the world, king of the land of Ashur,
+
+58. ša a-na AN.ŠAR₂ u₃ {d}nin#-lil₂ tak-lu₄
+
+#tr.en: who trusts in Ashur and Ninlil,
+
+59. ša {d}+AG u₃ {d}taš-me-tu₄ GEŠTU-2(diš) DAGAL-tu₄ iš-ru-ku-uš
+
+#tr.en: to whom Nabu and Tashmetu gave wide understanding,
+
+60. i-hu-zu IGI-2(diš) na-mir-tu₄ ni-siq ṭup-šar-ru-ti
+
+#tr.en: (who) has achieved enlightened eyes with regard to the highest level of the scribal art,
+
+61. ša ina LUGAL-MEŠ{+ni} a-lik mah-ri-ia mim#-ma# šip-ru šu-a-tu la i-hu-zu#
+
+#tr.en: which art none of the kings who came before me had learned,
+
+62. ne₂-me-eq {d}AG ti-kip sa-an-tak-ki# ma-la ba-aš₂-[mu]
+
+#tr.en: the wisdom of Nabu, cuneiform signs, as many as there a[re].
+
+63. ina ṭup-pa-a-ni aš₂-ṭur as-niq ab-re#-[e-ma]
+
+#tr.en: I wrote, collated, [and] check[ed] (the present text) on tablets.
+
+64. a-na ta-mar-ti u ši-ta-as-si-ia qe₂-reb E₂.GAL-ia [u₂-kin]
+
+#tr.en: [I deposited] (it) in my palace for my reading and studying.
+
+65. NIR.GAL₂.ZU NU UR LUGAL DINGIR-MEŠ AN#.[ŠAR₂]
+
+#tr.en: The one who trusts in you will not be put to shame, O king of the gods, As[hur].
+
+66. man-nu ša TUM₃ u₃ lu-u MU-šu₂ it#-ti MU-ia i-šaṭ-ṭa#-[ru]
+
+#tr.en: Whoever carries (this tablet) off or write[s] his name alongside my name,
+
+67. AN.ŠAR₂ u₃ {d}nin-lil₂ ag-giš ez-zi-iš lis-ki-pu-[šu₂-ma]
+
+#tr.en: may Ashur and Ninlil overthrow [him] in fierce rage.
+
+68. MU-šu₂ NUMUN-šu₂ ina KUR li#-hal-li-[qu]
+
+#tr.en: May his name (and) his seed disapp[ear] from the land.
