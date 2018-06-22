@@ -1,4 +1,4 @@
-﻿&P480774 = AOAT 034, 026 (BM 32909)
+&P480774 = AOAT 034, 026 (BM 32909)
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -81,8 +81,8 @@
 #tr.en: The word that I speak, whenever I speak (it), <may it be accepted.>
 #note: The text leaves off lu-u₂ ma-ag-rat, "may it be accepted," at the end of the line.
 
-7. {d}AMAR.UTU EN GAL{+u} ZI{+tu₂} qi₂-šam TIN ZI-<ia>
-#tr.en: O Marduk, great lord, give me (my) life. <Order> well-being for my life.
+7. {d}AMAR.UTU EN GAL{+u} ZI{+tu₂} qi₂-šam TIN ZI-<ia qi₂-bi>
+#tr.en: O Marduk, great lord, give me (my) life. <Order> well-being for <my> life.
 #note: The text leaves off qi₂-bi, "order," at the end of the line.
 
 8. ma-har-ka nam-riš a-tal₂-lu-ka 
