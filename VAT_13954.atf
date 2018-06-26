@@ -1,0 +1,39 @@
+&P413943 = LKA 30
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: VAT 13954 attests Nergal 2.
+
+@tablet
+
+@obverse
+
+1. EN₂# be#-lu₄ gaš#!(BE)#-ru?# [...]
+#tr.en: Incantation: O powerful lord, [. . .]
+#note: Mayer's collation (1976: 478 via Loretz) of the last two signs may suggest the scribe wrote be-lu₄ twice by mistake rather than gaš-ru.
+
+2. SAG!(KA).[KAL ...] x# [...]
+#tr.en: Fore[most . . .]
+#note: Ebeling (1953: 112) reads "KA + ?, nicht SAG(!)[.KAL]," but it seems likely to me that the KA at the head of the line is a mistake for SAG. Perhaps the copyist mistook a Babylonian SAG on the exemplar for a Neo-Assyrian KA.
+
+3. bu-kur₂ {d#}ku#-tu#-šar# [...]
+#tr.en: Son of Kutushar, [. . .]
+
+4. {d}U#.GUR kaš-kaš DINGIR-MEŠ# na#-[ram ...]
+#tr.en: O Nergal, omnipotent one of the gods, belo[ved . . .]
+
+5. šu-pa-a-ta ina AN#[{+e} ...]
+#tr.en: You are manifested in the [. . .] heaven[s, . . .]
+
+6. ša₂-qu-u man-za#-[az-ka]
+#tr.en: [Your] posit[ion] is exalted.
+
+7. ra-bat ina E₂.[KUR.UŠ₂ ...]
+#tr.en: You are great in Ar[allû (i.e., the neth[erworld), . . .]
+
+8. KI# {d}a-nim [...] 
+#tr.en: With Anum, [. . .]
+
+@reverse 
+
+$ reverse missing

@@ -1,4 +1,4 @@
-&P258542 = PBS 01/2, 119
+﻿&P258542 = PBS 01/2, 119
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -7,6 +7,8 @@
 @tablet
 
 @obverse
+
+$ beginning of obverse missing
 
 1'. [... {d}a-nun-na]-ki# be-el# [...]
 #tr.en: [. . . Anunna]ki, lord of [. . .]
@@ -73,7 +75,11 @@
 21'. [... gam-ma-la]-ta# be#-lu₄ {d}[U.GUR ...]
 #tr.en: [. . .] you are [(so) very merciful], O lord, [Nergal . . .]
 
+$ rest of obverse missing
+
 @reverse
+
+$ beginning of reverse missing
 
 1'. [...] tes₂#?-[li-ti (x x)]
 #tr.en: [. . . my] pray[er . . .]
@@ -88,8 +94,9 @@
 4'. [ki-ṣir] lib₃#-bi DINGIR{+ti}-ka GAL{+ti}
 #tr.en: [the indig]nation (lit. [knot] of the heart) of your great divinity
 
-5'. [...]-pi lip-pa-ṭa-ram-ma
-#tr.en: [. . .] . . . may it be released, so that
+5'. [... za]-mar lip-pa-ṭa-ram-ma
+#tr.en: [. . .] . . . may it be released [imme]diately, so that
+#note: The restoration is based on KAL 4, 65 (=VAT 13965). See Maul and Strauß 2011: 122.
 
 6'. [DINGIR u {d}]iš₈.tar₂ ze-nu-tu₄ šab-su-tu₄
 #tr.en: [(my personal) god and] (personal) goddess, angry, furious,
@@ -106,3 +113,5 @@
 10'. EN₂ at-tu#-nu {mul}MUL#
 #tr.en: Incantation: You are Zappu.
 #note: The copy in PBS 1/2 shows another sign after the last broken MUL. I do not think this is present on the tablet.
+
+$ rest of reverse blank
