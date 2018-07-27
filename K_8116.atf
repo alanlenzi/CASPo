@@ -1,4 +1,4 @@
-&P397497 =  BMS 48
+﻿&P397497 =  BMS 48
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -77,7 +77,7 @@ $ single ruling
 5'. ša a-na AN.ŠAR₂ u₃ {d}nin#-lil₂ tak-lu
 #tr.en: who trusts in Ashur and Ninlil,
 
-6'. ša {d}AG {d}taš-me-tu₄ GEŠTU-2(diš) DAGAL-tu₄ iš-ru-ku-uš
+6'. ša {d}AG {d}taš-me-tu₄ GEŠTU-2(diš) DAGAL{+tu₄} iš-ru-ku-uš
 #tr.en: to whom Nabu (and) Tashmetu gave wide understanding,
 
 7'. i-hu-uz-zu IGI-2(diš) na-mir-tu ni-siq ṭup-šar-ru-ti
