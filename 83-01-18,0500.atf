@@ -1,4 +1,4 @@
-&P452711 = AOAT 034, 069
+﻿&P452711 = AOAT 034, 069
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -8,12 +8,13 @@
 
 @surface a
 
-1. EN₂# MUL SIPA.ZI#.[AN.NA ...]
-#tr.en: Incantation: O celestial Sipazi[anna . . .]
+1. EN₂# {mul#}SIPA#.ZI#.[AN.NA ...]
+#tr.en: Incantation: O Ori[on . . .]
 #note: The tablet must have been in better shape in Ebeling's time since he reads all of the above signs without brackets or indications of damage (1953: 146).
 
-2. mu-na-piš KI#? [...]
-#tr.en: Who makes the earth(?) fertile [. . .]
+2. mu-na-piš x# [...]
+#tr.en: Who makes wide . . . [. . .]
+#note: Abusch and Schwemer (2016: 351, 354 with collation on pl. 99) suggest quite plausibly Š[A₃?-bi? ...], thus, "(who eases) the mi[nd ...]". As their question marks indicate, however, this is epigraphically uncertain.
 
 3. ina AN{+e} [...]
 #tr.en: In the heavens [. . .]
@@ -23,15 +24,15 @@
 
 5. DINGIR-MEŠ GAL-MEŠ i-šal-lu#-[ka ...]
 #tr.en: The great gods inquire [of you . . .]
-#note: The restorations here and below are based on Ebeling 1953: 146, unless otherwise noted.
+#note: The restorations here and below are based on Abusch and Schwemer 2016: 351.
 
-6. ina ba-li-ka {d}A-num AD#-[ka ...]
-#tr.en: Without you, Anu, [your] father, [. . .]
+6. ina# ba-li-ka {d}a-num AD# [...]
+#tr.en: Without you, Anu, the father [. . .]
 
-7. {d}+EN.LIL₂ ma-li#-[ku ...]
+7. {d#}+EN#.LIL₂ ma-li#-[ku ...]
 #tr.en: Enlil, the counsell[or, . . .]
 
-8. {d}IŠKUR gu₂-gal AN#?[{+e} ...]
+8. {d}IŠKUR gu₂-gal AN#[{+e} ...]
 #tr.en: Adad, the canal inspector of the heaven[s, . . .]
 
 9. ina DU₁₁.GA-ka [...]
@@ -43,7 +44,7 @@
 11. li#-iz-zi-zu# [...]
 #tr.en: May they stand [. . .]
 
-12. [di-ni] di#?-in#? [...] 
-#tr.en: Judge [my case . . .]
+12. [a-na]-ku#? IR#?-[ka ...] 
+#tr.en: [I (a]m) [your] servant [. . .]
 
 $ rest of surface missing

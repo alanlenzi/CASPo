@@ -1,0 +1,53 @@
+&P345544 = CT 44, 35
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: This tablet, BM 78219, attests Nisaba 1.
+
+@tablet
+
+@surface a
+
+1. EN₂ {d}NISABA šar-ra-tu₄ hu-ma-li-ti#
+#tr.en: Incantation: O Nisaba, sympathetic queen,
+
+2. DU₃{+at} DINGIR LUGAL u₃ NAM.LU₂.U₁₈.LU# 
+#tr.en: The one who makes deity, king, and humanity,
+
+3. sa-par {d}a-nun-na-ki DINGIR-MEŠ ek-du#-ti#
+#tr.en: Net of the Anunnaki, the furious gods,
+
+4. mu#-sal-li-mat DINGIR ze-na-a {d}1(u) 5(diš) ze-ni-tu₄#
+#tr.en: The one who soothes the angry (personal) god (and) angry (personal) goddess,
+
+5. lu-uš-pur-ki a-na DINGIR-MU ze-ni-i {d}1(u) 5(diš)-MU ze#-[ni-ti]
+#tr.en: Let me send you to my angry (personal) god (and) ang[ry] (personal) goddess,
+
+6. ša₂ kam*#-lu šab-su lib₃-ba-šu₂-nu-ma ze-nu-u₂ KI-[MU]
+#tr.en: Whose hearts are enraged, furious, and angry with [me].
+
+7. su-ul-li-<mi>-im-ma DINGIR-MEŠ ze-nu-u {d}1(u) 5(diš) ze-ni#-[tu₄?]
+#tr.en: Soothe (my) angry (personal) god, my ang[ry] (personal) goddess. 
+
+8. ana-ku {m}{d}GIŠ.NU₁₁-MU-GI.NA DUMU DINGIR-šu₂#
+#tr.en: I (am) Shamash-shuma-mukin, son of his (personal) god [. . .]
+
+9. [ša₂] DINGIR#-šu₂# {d}AMAR.UTU {d}1(u) 5(diš)-šu₂ {d}zar-pa-ni-tu₄#
+#tr.en: [Wh]ose (personal) god (is) Marduk, (and personal) goddess (is) Zarpanitu,
+
+10. [ina] HUL# A₂-MEŠ GISKIM#-MEŠ HUL-MEŠ NU DU₁₀.GA-MEŠ#
+#tr.en: (And) the evil of portents (and) omens, unpleasant (and) unfavorable,
+
+11. [ša ina] E₂#.GAL-ia u KUR-ia GAL₂-MEŠ
+#tr.en: [Which] keeps happening in my house and (throughout) my land,
+
+12. [HUL-BI] ia#-ši u E₂.GAL-[ia]
+#tr.en: [Its evil], to me and [my] palace,
+
+13. [...] a#-a KU.NU a-a KUR#-[an-ni]
+#tr.en: [. . .] come close, not reach [me].
+
+14. [...] x# x# [...]
+#tr.en: [. . .] . . . [. . .]
+
+$ rest of surface missing

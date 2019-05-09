@@ -1,4 +1,4 @@
-&P480774 = AOAT 034, 026 (BM 32909)
+﻿&P480774 = AOAT 034, 026 (BM 32909)
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -68,7 +68,7 @@
 2. DINGIR li-iz-ziz ina ZAG-MU 
 #tr.en: May (my personal) god stand at my right side.
 
-3. {d}1(diš) 5(u)-MU liz-ziz i-na šu-me-li-ia₂
+3. {d}1(u) 5(diš)-MU liz-ziz i-na šu-me-li-ia₂
 #tr.en: May my (personal) goddess stand at my left.
 
 4. DINGIR mu-šal-lim ina A₂-MU lu ka-a-a-nu
@@ -83,7 +83,7 @@
 
 7. {d}AMAR.UTU EN GAL{+u} ZI{+tu₂} qi₂-šam TIN ZI-<ia qi₂-bi>
 #tr.en: O Marduk, great lord, give me (my) life. <Order> well-being for <my> life.
-#note: The text leaves off qi₂-bi, "order," at the end of the line.
+#note: The text leaves off -ia, "my," and qi₂-bi, "order," at the end of the line.
 
 8. ma-har-ka nam-riš a-tal₂-lu-ka 
 #tr.en: May I be sated walking about in your presence.

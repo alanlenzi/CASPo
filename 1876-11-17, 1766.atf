@@ -1,0 +1,76 @@
+&P480812 = BM 32039
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: The tablet, 1876-11-17, 1766, contains only Ea 1a.
+
+@tablet
+
+@obverse
+
+1'. [... ṣi]-i#-ri# us#-mi# [...]
+#tr.en: August [. . .], worthy one of [. . . ],
+
+2'. [{d}EN.LIL₂].BAN₃#.DA it-pe-šu ka#-[ru-bu]
+#tr.en: Expert [Enlil]banda, greeted wi[th reverence],
+
+3'. [ur-ša₂]-an# e-ri-du ABGAL {d#}[i₂-gi₃-gi₃]
+#tr.en: [Her]o of Eridu, sage of the [Igigi],
+
+4'. [... e₂-engur]-ra# ṣu-lu-lu e₂-u₆#-[nir]
+#tr.en: [. . . E-engu]ra, protection of E-u[nir],
+
+5'. [ba]-bil# mi₃-lu HE₂.GAL₂ mu-riš ID₂.DIDLI#
+#tr.en: [The one who] brings the flood of abundance, who makes the rivers rejoice.
+
+6'. [ina] ta#-ma-a-tu₂ u ṣu-ṣe-e tu-da-aš₂-ša₂-a
+#tr.en: [Among] the waters and reed thickets you bountifully bestow <abundance>.
+#note: It seems this witness to Ea 1a has left off the final word in the line, attested in other witnesses: HE₂.NUN, "abundance."
+
+7'. [ina] qer#-be₂-e-tu₂ tu#-šab-ši ZI{+tu₂}
+#tr.en: [Among] the meadows you create life.
+#note: This line is substantially shorter than those in the duplicates. Perhaps this witness has left off the end of the line, which in other witnesses reads UN.MEŠ ({d}aš₂-na-an), "of the people, (grain)." The final word is inconsistently attested in the manuscripts.
+
+8'. {d#}a-num {d}+EN.LIL₂ ha-<diš> ri-šu-ka
+#tr.en: Anu (and) Enlil are rejoicing joyfully on account of you.
+
+9'. {d#}a-nun-na-ki ina ma-ha-zi-šu₂-nu
+#tr.en: The Anunnakki-gods <greet you> in their shrines.
+#note: It seems this witness to Ea 1a has left off the final verb, which reads i-kar-ra-bu-ka, "they greet you," in other witnesses.
+
+10'. UN-MEŠ# ma#-a-tu₂ iš-tam-ma-ru MU-ka
+#tr.en: The people of the land praise your name.
+#note: Again, it seems this witness to the prayer has left off the final word, attested in the duplicates: kab-ta, "noble."
+
+11'. [a-na DINGIR-ME] GAL-ME ta-nam-din mil-ki
+#tr.en:  [To the] great [gods] you give counsel.
+
+12'. [... ina] te#-ka# ša₂ ba-la-ṭu#
+#tr.en:  [. . . on account of] your incantation of life
+#note: The line is incomplete, compared to other witnesses, which have: la i-mat LU₂.UŠ₂, "the moribund need not die."
+
+13'. [...] x# [...]
+#tr.en: [. . .] . . . [. . .]
+#note: Abusch and Schwemer wonder whether this line might continue the partial, previous line (2016: 335).
+
+$ rest of obverse missing
+
+@reverse
+
+$ beginning of reverse missing
+
+1'. [...] ABZU# li#-[riš-ka]
+#tr.en: [. . .] may the Apsu [be glad on your account].
+
+2'. [... ša₂] kiš#-šat lik-ru-bu-ka
+#tr.en: May [. . . of] all bless you.
+
+3'. [DINGIR-ME] GAL#-ME e-tel-liš li-ša₂-li-lu-<ka>
+#tr.en: May the great [gods] laud <you> as a lord.
+
+4'. SIG₅#-ME-ka liq-bu-u DINGIR-ME {d}i₂-gi₃-gi₃ 
+#tr.en: May the Igigi-gods decree your good fortune.
+
+$ single ruling
+
+$ rest of reverse blank
