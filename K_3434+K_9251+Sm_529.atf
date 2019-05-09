@@ -1,0 +1,97 @@
+﻿&P395010 = BAM 5, 502 + OrNS 59, 485
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: K.3434 + K.9251 + Sm.529 contains part of Sipazianna 2.
+
+@tablet
+
+@obverse
+
+$ beginning of obverse missing
+
+$ single ruling
+
+1'. [EN₂ {mul}SIPA.ZI.AN].NA SIPA SIG₅!{+qu₂#?} x# [...]
+#tr.en: [Incantation: Orio]n, benevolent shepherd, . . . [. . .]
+#note: The tablet reads ŠI NA rather than SIG₅; however, the signs are written very closely together and the vertical of the NA is lower than it is in other NA signs on the tablet. Also, the tail of the ŠI touches the beginning of the NA, though the same is true of the two signs in succession in line 9' below. My emendation may be unnecessary. I suggest it merely as a working hypothesis. A duplicate attesting the rest of the line will likely solve the line's obscurity.
+
+2'. [{d}dumu]-zi bi-nu-ut {d}a-nim šur-bu-u [...]
+#tr.en: [O Dumu]zi, the creation of Anu, greatest [. . .]
+
+3'. [ki]-ma# te-re-iu-u₂ bu-la ta#-x#-[x]
+#tr.en: [A]s you shepherd the livestock, you [. . .]
+
+4'. [tuš]-te-eš-<ši>-ru ba-u₂-la-at kiš-šat ni-[ši]
+#tr.en: [You g]uide (your) subjects aright, the totality of the peop[le].
+
+5'. ia#-a-ši šu-te-ši-ra-an-ni i-na up-ša₂-še-[e]
+#tr.en: As for me, guide me aright with regard to the sorcer[ies],
+
+6'. HUL#{+ti₃} ša₂ a-me-lu-ti ša {lu₂}UŠ₂ u₃ {lu₂}[TI]
+#tr.en: The evil of humanity, of (people) living and dead,
+#note: Abusch and Schwemer 2016: 352 insert a MEŠ after the ḪUL at the head of the line, forming an adjective that modifies upšaššê in the line previous. They suggest the scribe has misunderstood the passage (354).
+
+7'. ša₂# a-na ia-a-ši sah-ru-ni ep-šu-[ni]
+#tr.en: Which (i.e., the sorceries) have been turned and performed against me,
+
+8'. u₃# i-lu-ut-ka ra-bi-tu₄ i-da#?-[a?]
+#tr.en: And (which) your great divinity kno[ws].
+#note: I follow Abusch and Schwemer 2016: 352 in the restoration of the verb at the end of the line. The tablet shows three horizontals, the start of a DA, at the end of the line. Compare Mayer's copy (1990: 485). He prefers to read i-q[al?], "(your great divinity) has been silent."
+
+9'. e#-ṭi-ir na-piš-tu₄ nu-uk-ker-ši-na-ti#
+#tr.en: Rescue (my) life. Abolish them.
+#note: As Abusch and Schwemer 2016: 355 point out, we expect the "them" here to refer to upšaššû, which is always plural. Yet the form of the suffix that we would expect, if this were the case, is -šunūti rather than -šināti.
+
+10'. up-ša₂-še-e lem-nu-ti ša SU-MU UZU-MU SA-MU#
+#tr.en: The evil sorceries of my body, my flesh, (and) my sinews,
+
+11'. ša a-wi-lu-tu₄ is-hu-ra i-še-a-am
+#tr.en: Which humanity turned (and) conspired (to use) against me.
+
+12'. GUB-ma ši-me qa-ba-a-a
+#tr.en: Stand (here) and listen to my speaking.
+
+13'. aṣ-bat qa₂-an-na-ka-ma u₂-kil TUG₂.SIK₂-ka
+#tr.en: I lay hold of your hem; I hold tight to your garment.
+
+14'. gi#-mil# TI.LA šu-ku-un UGU-MU KA.TAR lud-lul
+#tr.en: Establish a requital of life for me, that I may sing (your) praises.
+
+$ single ruling
+
+@reverse
+
+1. [KID₃.KID₃.BI ana IGI {mul}]SIPA#.ZI.AN.NA UR₃ SAR#
+#tr.en: [Its ritual: In the presence of] Orion, you sweep the roof,
+
+2. [... NIG₂.NA {šim}]LI# GAR{+an} KAŠ.SAG BAL{+qi₂}
+#tr.en: [. . .]. You set up [a censer of] juniper. You libate first-rate beer.
+
+3. [...]-x#-ti BIL.ZA.ZA SIG₇.SIG₇
+#tr.en: [. . .] a green frog,
+
+4. [...] KU#?.KU {giš}MES
+#tr.en: [. . .] sawdust (lit. powder)(?) of mesu-wood.
+#note: The reading and interpretation of KU.KU here follows Abusch and Schwemer 2016: 352; see also CAD S, 260.
+
+5. [...] ŠEŠ₂#{+su}
+#tr.en: [. . .] you rub him,
+
+6. [... {u₂}]IGI-NIŠ
+#tr.en: [. . . the plant] 'heals twenty',
+
+7. [... 1(diš)-niš] ta#-sak₃
+#tr.en: [. . . together] you pound.
+#note: The reading and restoration here and below follows Abusch and Schwemer 2016: 353.
+
+8'. [... ba]-lu# pa#-tan
+#tr.en: [. . . on an empty] stomach (lit. without dining).
+
+9'. [...]-e#
+#tr.en: [. . .] . . .
+
+10'. [...] x#
+#tr.en: [. . .] . . .
+
+$ rest of reverse missing

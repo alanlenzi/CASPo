@@ -1,4 +1,4 @@
-&P397810 = BMS 39
+﻿&P397810 = BMS 39
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -51,10 +51,10 @@ $ single ruling
 #tr.en: [. . .] and illuminator of [. . .]
 
 11'. [...] ne#-bu-u di-pa-ru# [...]
-#tr.en: Brilliant [. . .] torch [. . .]
+#tr.en: Shining [. . .] torch [. . .]
 
 12'. [... ru?]-qi#? it#-ta-na-an-bi-ṭu tuš#-[nam-ma-ru ...]
-#tr.en: [. . . dist]ant [. . .] they keep shining brightly, they illu[minate . . .]
+#tr.en: [. . . dist]ant [. . . (they)] keep shining brightly, you illu[minate . . .]
 #note: Based on the duplicate from Uruk (ḫur-[ša₂?-ni?]) and the need for the verb to have an object, we expect something to follow tušnammarū, but there is little room on the tablet.
 
 13'. [al-si]-ki# be-el-ti ina qe₂#-[reb ...]
@@ -64,7 +64,7 @@ $ single ruling
 #tr.en: Pay attention [to my utter]ance, he[ar . . .]
 
 15'. [... nap-li-is]-in#-ni-ma ma-ru#-[uš-tu ...]
-#tr.en: [. . .] look at me, and [. . .] (my) distr[ess].
+#tr.en: [. . . look at] me, and [. . .] (my) distr[ess].
 
 16'. [...] A# NENNI ša₂ šum-ru-[ṣu ...]
 #tr.en: [. . .] son of so-and-so, who is extremely distre[ssed, . . .]

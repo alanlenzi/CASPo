@@ -1,4 +1,4 @@
-&P395590 = AOAT 034, 012 
+﻿&P395590 = AOAT 034, 012 
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -82,6 +82,6 @@ $ single ruling
 $ single ruling
 
 23'. [x] {d#}3(u) nanna#-ru [...]
-#tr.en:  [. . .] O Sin, moon [. . .]
+#tr.en:  [. . .] O Sin, [. . .] luminary [. . .]
 
 $ end of surface missing

@@ -1,4 +1,4 @@
-&P396704 = BMS 58
+﻿&P396704 = BMS 58
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -16,10 +16,10 @@ $ beginning of obverse missing
 2'. [... muš-te]-še#-ru šu-luh-hi#
 #tr.en: [. . . who guides] the purification rituals aright
 
-3'. [...] NUN#.ME DINGIR-MEŠ mu-tal₂-lu₄
+3'. [...] ABGAL# DINGIR-MEŠ mu-tal₂-lu₄#
 #tr.en: [. . .] the sage of the gods, the exalted one.
 
-4'. [...] mu-nam-mir uk-li
+4'. [...] mu-na-mir uk-li
 #tr.en: [. . .] who illuminates the darkness.
 
 5'. [... be-el ne-me]-qi₂ mu-riš E₂.ENGUR.RA
@@ -29,8 +29,9 @@ $ beginning of obverse missing
 
 1. [... DINGIR]-MEŠ# mu-šim NAM-MEŠ
 #tr.en: [. . . the god]s, who determines the fates.
+#note: The restoration follows the suggestion of Ebeling 1953: 16. Abusch and Schwemer 2016: 343 restore [... šar-ra-t]im here. 
 
-2. [... mu]-diš-šu-u₂ HE₂.NUN
+2. [... mu]-deš-šu-u₂ HE₂.NUN
 #tr.en: [. . . who] provides an overabundance.
 
 3. [... kul-lat UN]-MEŠ ta-pa-qid
@@ -48,22 +49,22 @@ $ beginning of obverse missing
 7. [... ina E₂].GAL-MU u KUR{+a} GAL₂{+a}
 #tr.en: [. . .] are present [in] my [pal]ace and my land,
 
-8. [... ša₂ šum-ru]-ṣu# pa-gar-šu₂
+8. [... ša₂ šum-ru]-ṣu# pa-gar-šu₂#
 #tr.en: [. . . wh]ose body [is tor]mented.
 
-9. [... im-hu]-ra#-an-[ni]
-#tr.en: [. . . confro]nts m[e].
+9. [...]-x# an-[x]
+#tr.en: [. . .] . . .
+#note: See Abusch and Schwemer 2016: 344 for a possible restoration.
 
 10. [...] IGI#-ka kam*#-sa#-[ku]
 #tr.en: [. . . I] am bowed before you.
 
-11. [...] i#-na SU#?-[MU]
-#tr.en: [. . .] in [my] person.
-#note: Reading SU follows Ebeling 1953: 16.
+11. [...] šak#-na-an#-[ni]
+#tr.en: [. . .] is set against [me].
+#note: The restorations follow Abusch and Schwemer 2016: 344 here and in the next line.
 
-12. [...]-x# pag!-ri#-[(x)]
-#tr.en: [. . .] . . . my body.
-#note: The PAG is missing the final vertical wedge.
+12. [...] ru#-hu-u₂#
+#tr.en: [. . .] sorcery.
 
 13. [...] x# [x x]
 #tr.en: [. . .] . . . [. . .]

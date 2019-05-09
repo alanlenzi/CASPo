@@ -1,0 +1,129 @@
+﻿&P394887 = BMS 13
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: K.3229 is a fragment of Marduk 6 and 7.
+
+@tablet
+
+@obverse
+
+$ beginning of obverse missing
+
+1'. NUMUN# [...]
+#tr.en: The seed [. . .]
+#note: Ebeling 1953: 84 offers a number of restorations I have not used below. 
+
+2'. lil-x#-[...]
+#tr.en: . . . [. . .]
+
+3'. ša₂-qa₂-a E#? x# x# x# [...]
+#tr.en: High-ranking . . . [. . .]
+
+4'. a-lik tap-pu-te la le-ʾ-x# [...]
+#tr.en: A helper, the incapable [. . .]
+
+5'. ana-ku NENNI A NENNI ša₂ DINGIR-šu₂ NENNI [...]
+#tr.en: I (am) so-and-so, son of so-and-so, whose (personal) god (is) so-and-so [. . .].
+
+6'. GUB{+az} ina IGI DINGIR{+ti}-ka GAL{+ti} [...]
+#tr.en: I stand in the presence of your great divinity [. . .]
+
+7'. ina a-lim UN-MEŠ ša₂ la x# [...]
+#tr.en: In the city, [. . .] the people, who do not [. . .]
+
+8'. GAR{+nam}-ma qa-ba-a u ma-ga-[ra ...]
+#tr.en: Establish speaking and agreeme[nt] for me [. . .]
+
+9'. lul-lik su-qa a-mi-ri [...]
+#tr.en: Let me walk in the street, (and) those who see (me) [. . .]
+
+10'. lu-ur-ši ina ṣil-li-ka ne₂-me-qi₂# [...]
+#tr.en: Let me acquire wisdom in your protection [. . .]
+
+11'. ina pi-ka ša₂ la na-kar li-[...]
+#tr.en: May it [. . .] according to your unchangeable word.
+
+$ single ruling
+
+12'. KA-INIM-MA ŠU-IL₂-[LA₂ {d}AMAR-UTU-KAM*]
+#tr.en: [It is] the wording of a lifted-hand prayer [to Marduk].
+
+$ single ruling
+
+13'. DU₃.DU₃.BI ana IGI {d}AMAR.UTU [UR₃ SAR A KU₃ SUD]
+#tr.en: Its ritual: In the presence of Marduk, [you sweep the roof and sprinkle pure water].
+#note: This line and those following are restored according to K.13231, which indirectly joins to this tablet.
+
+14'. [NIG₂].NA# {šim}LI GAR{+an} ŠU.IL₂.LA₂#[{+ku?} an-ni-tu₄ ŠID{+nu}-ma]
+#tr.en: You set up a [cen]ser of juniper, [and you recite] this lifted-han[d prayer].
+
+$ single ruling
+
+15'. [EN₂ be]-lu₄ {d}ŠA₃.ZU mu-de-e lib₃#-[bi DINGIR-MEŠ AN{+e} u KI{ti}]
+#tr.en: [Incantation: O Lord, Shazu, who knows the hear[ts of the gods of the heavens and the earth],
+#note: What is to be restored between libbi and šamê u erṣeti is uncertain. There is a small gap between K.3229 and K.13231. See Oshima 2011: 114, who restores as above.
+
+16'. [ku]-ul#-la#-at UN-MEŠ a-pa#-[ti ta-bar-ri at-ta]
+#tr.en: [You indeed keep watch over a]ll of the teem[ing] people.
+
+17'. [...] ib#?-ba-lak-ka#-[at ... ina lib₃-bi]
+#tr.en: [. . .] it crosses [. . . in the heart]
+#note: The verb nabalkutu with ina libbi means "to occur to one" (see CAD N/1, 15). The context is not sufficiently clear to translate the line more idiomatically.
+ 
+@reverse
+
+1. [... kaš?]-šap#?-ti la iš-šak-na x# [... x-ru IGI-ka]
+#tr.en: [. . . my wit]ch(?) shall not be established . [. . . before you].
+#note: King's copy suggests the first sign in the line is a partial ŠAP. Ebeling reads it as IB (1953: 84), taking the following TI.LA together, balāṭu.
+
+2. [...]-nu ša iš-šak-nam-ma# [... UŠ-MEŠ-ni]
+#tr.en: [. . .] which is established for me and [. . . continually pursues me].
+#note: Ebeling suggests restoring [mim-ma lem]-nu at the head of the line (1953: 86), which is a reasonable suggestion.
+
+3. [šu-u] a-na ia-ši GIM AN{+e} ana-ku a-na ša₂-a-šu₂ [GIM qaq-qa-ri RU TE LA BI ŠU₂]
+#tr.en: [He] (is) like the heavens to me, I (am) [like the earth] to him [. . .]
+#note: The last five signs, attested in K.13231, elude decipherment at this point.
+
+4. [{d}]ALAD SIG₅ u₂-še-es-sa ana# [UGU-ya]
+#tr.en: He drove away the benevolent protective spirit [from me].
+
+5. u₂-ṣab-bit šap-ti-ia lib₃-bi u₂-x#-[... EGIR-MU]
+#tr.en: He seized my lips, my heart he . [. . . behind me].
+
+6. u₂-ka-as-si a-hi-ia x# [... KA A TI]
+#tr.en: He bound my arms [. . .]
+
+7. bir-ki#-ia u₂-mal-li mun-ga# [... AH HI]
+#tr.en: He filled my knees with stiffness [...]
+
+8. kam*-ma-al KUR-ia [... x x]
+#tr.en: The ill-wisher of my land [. . .]
+
+9. šu-mi u₂-šat-bi NA x# [...]
+#tr.en: He has removed my name . . [. . .]
+#note: King's copy suggests we read ina UD, but the actual tablet shows no space between these two signs. Ebeling reads ina PI, which requires him to take a horizontal at some distance to the right of the UD-part of the PI as part of the sign. This seems unlikely. 
+
+10. be-li₂ ak-tal-dak₃-ka ši-me [...]
+#tr.en: My lord, I have approached you, hear [. . .].
+#note: The verb is derived from kašādu. Perhaps restore at the end tes₂-li-ti, "my prayer." Ebeling suggests qa-ba-a-a, "my speaking" (1953: 86).
+
+11. šur-ši di-ni EŠ.BAR [...]
+#tr.en: Take my case, (my) verdict [. . .]
+
+12. bi-il-la-an-ni x# x# x# x# [...]
+#tr.en: Bring me . . . [. . .]
+
+13. ki-i la EN# DINGIR# [...]
+#tr.en: As (if I were) not a lord, . . . [. . .]
+
+14. {d}AMAR.UTU x# [...]
+#tr.en: O Marduk, . . [. . .]
+
+15. ina pi-i#-[ka ...]
+#tr.en: According to [your] word (lit. in [your] mouth) [. . .]
+
+16. MAH#? x# [...]
+#tr.en: . . . [. . .]
+
+$ rest of reverse missing

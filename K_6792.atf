@@ -1,0 +1,33 @@
+&P396802 = BMS 55
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: K.6792 is a fragment, containing a line and then an attalû formula with Ashurbanipal's name inserted.
+
+@tablet
+
+@surface a
+
+$ beginning of surface missing
+
+1'. [...] x# IGI# x# DINGIR#? x# [...]
+
+2'. ana#-[ku {m}]aš#-šur#-DU₃-A <<ša DINGIR-šu₂>> {d}MAŠ? u {d#}[iš₈-tar₂ ...]
+#tr.en: ⸢I⸣, Ashurbanipal, <<whose (personal) deity>> (is) Ninurta(?) and (personal) g[oddess . . .]
+#note: It seems the scribe has left out the beginning of the personal deity part of the formula: ša DINGIR-šu₂.
+
+3'. ina HUL AN.GI₆ {d}3(u) ša₂ ina ITI# [...]
+#tr.en: On account of the evil of a lunar eclipse, which in the month [. . .]
+
+4'. HUL A₂-MEŠ GISKIM-MEŠ# [...]
+#tr.en: (On account of) the evil of portents (and) omens [. . .]
+#note: I cannot see the ina on King's copy in the CDLI photo. Also, the HUL in this line is farther to the left than in the line above.
+
+5'. ša ina E₂.GAL-MU u KUR-MU GAL₂{+a#} [...]
+#tr.en: Which are present in my palace and my land [. . .]
+
+6'. x#? [...]
+#tr.en: . . . [. . .]
+#note: King's copy does not show the broken sign (requires collation with the tablet), and the part of the line farther to the right is entirely blank.
+
+$ rest of surface missing
