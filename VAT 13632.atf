@@ -1,0 +1,113 @@
+&P413963 = LKA 051
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: VAT 13632 contains Nusku 3. There are several lines that require collation in person.
+
+@tablet
+
+@obverse
+
+1. [EN₂] {d#}NUSKA šur-bu#-u i-lit-ti# [DUR.AN.KI]
+#tr.en: [Incantation]: O Nusku, most exalted, heir of [Duranki],
+
+2. [na]-ram# {d}BAD ma-lik# mu-šim#-[mu? NAM.TAR-MEŠ]
+#tr.en: [Be]loved of Enlil, counsellor, who determi[nes the fates],
+#note: As Panayotov notes (2016: 31), there may not be enough room for MU in the gap.
+
+3. [SUKKAL] ṣi#-ru# mu-ut-ta#-ʾ-er mim-ma# šum#-[šu]
+#tr.en: August [vizier], who guides everythi[ng],
+
+4. [ina AN]{+e#} KU₃#-MEŠ qi₂-bit#-ka ṣi-rat 
+#tr.en: [In the pure heavens], your command is exalted,
+
+5. ina# E₂#.[ŠAR₂].RA šur-ru#-hat a-mat-ka
+#tr.en: In E[shar]ra, your word is glorified,
+
+6. ina# a#-ṣi#-ka ú-paq#-qu DINGIR-MEŠ GAL-MEŠ#
+#tr.en: In your procession, the great gods are attentive,
+
+7. ina ba#-li#-ka {d}a-num AD# DINGIR-MEŠ# ul i#-nam-din mil#-[ku]
+#tr.en: Without you, Anu, the father of the gods, does not give coun[sel],
+
+8. {d#}BAD# ma-li-ki# EŠ.BAR ul KUD{+as}
+#tr.en: Enlil, the counsellor, does not decide a case,
+
+9. ina# ba#-li#-ka# ul uš#-te-še-ra te-ne₂-še-ti
+#tr.en: Without you the people are not guided aright.
+
+10. [ana-ku] aš-šur-{mu}SIG₅{+iq} DUMU# DINGIR-šu₂#
+#tr.en: [I], Ashur-mudammiq, son of his (personal) god,
+
+11. [ša₂] DINGIR#-šú# {d}AG# {d}1(u) 5(diš)-šu₂ {d}PAPNUN
+#tr.en: [Whose] (personal) god (is) Nabu, his (personal) goddess Tashmetu,
+
+12. [ina] HUL A₂#-MEŠ# HUL#-MEŠ# ša₂ ina IGI-MU GIB-MEŠ#
+#tr.en: [On account] of the evil of evil signs which constantly crossed my path (lit. constantly cross in front of me),
+
+13. [ina] MAŠ₂#.GE₆-MU# x x GAZ# ŠA₃# UŠ.ME{+ni#}
+#tr.en: [On account] of my dream . . . anxiety (lit. distress of the heart) is continually imposed on me.
+
+14. [x]-še#-ku šu₂-[x] x# LU₂ MUNUS#? x x ma# ša₂ IGI x#
+#tr.en: [. . .] . . . [. . .] . . man, woman(?) . . .
+#note: Panayotov (2016: 27, 34) suggests the start of the line may have read: [ep]-še#-ku lem!-[niš!], "I am treated badly." The signs after LU₂ are very difficult and require collation.
+
+15. [x] x# x# x# x# x# x# nim? še? [(x)]
+#tr.en: . . . 
+#note: The ŠE could also be B[U]. The line is very difficult and requires collation in person.
+
+16. NIGIN#-ka a-še-ʾ-e-ka# GAL₂#{+a} GEŠTU-MIN-a#-a# ša₂#-pal#-[ka ak-mis]
+#tr.en: I turn to you, I seek you out, I pay (you) heed, [I kneel] before [you].
+#note: I am following Panayotov 2016: 27 here.
+
+17. ri#-ša₂-a re-e-mu ag#-[gu ŠA₃{+ba}]-ka# li#-nu-ha# [sur-riš]
+#tr.en: Have mercy! May your ang[ry heart] be at ease [immediately]!
+
+18. [ina] ma-har# {d}EN.LIL₂ ma-li#-ki lu ṣa#-[bit a]-bu#-ti#-[ia at-ta]
+#tr.en: [Be]fore Enlil, the counsellor, may you be [my] interc[essor].
+
+19. ar₂#-ni-ia pu-ṭur gil₂-la#-ti#-[ia pu-su-us]
+#tr.en: Forgive my sins; [erase my] crimes.
+
+20. {d}ALAD₂ SIG₅ {d}LAMA₃ SIG₅# U₄#?{+me#}-šam-ma# [lit-tal-la-ka i-da-a-a]
+#tr.en: [May] a favorable protective spirit (and) favorable divine guardian [go at my side] daily.
+
+21. KA# EME liq-bu-u [SIG₅{+te}]
+#tr.en: May mouth (and) tongue speak [(something) favorable].
+#note: As Panayotov notes (2016: 34), there is room for a syllabic writing in the break.
+
+22. [ana mah?]-ri#?-ka al#-li#-[ka TI.LA lu-uš-be₂]
+#tr.en: I ca[me befo]re [you]; [may I be sated with life].
+#note: See the parallel in BM 34984 for the restoration at the head of the line.
+
+$ single ruling
+
+@reverse
+
+1. KA#-INIM-MA ŠU-IL₂-LA₂ {d#}[NUSKA-KAM*]
+#tr.en: [It is] the word of a lifted-hand prayer to [Nusku].
+
+$ single ruling
+
+2. DU₃#.DU₃.BI lu# ina KEŠDA lu ina NIG₂.NA [DU₃{+uš}]
+#tr.en: Its ritual: [You do (it)] with either a ritual assemblage or with a censer.
+
+$ single ruling
+
+$ at least 6 lines blank
+
+4. ITI# GU₄# U₄#.1(u) 9(diš).KAM*# [x (x)]
+#tr.en: (In) the month of Ayyar, (on) the 19th day [. . .]
+#note: The number 9 is represented by ILIMMU₅ here.
+
+5. ina# nu#-bat-ti in-ne₂-ep#-peš#
+#tr.en: It should be done in the evening.
+
+$ at least 1 line blank
+
+6. ša# {m}AN.ŠAR-{mu}SIG₅#{+iq#}
+#tr.en: Belonging to Ashur-mudammiq.
+
+$ single ruling
+
+$ rest of reverse blank

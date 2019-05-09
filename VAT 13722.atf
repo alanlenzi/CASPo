@@ -1,0 +1,35 @@
+﻿&P480749 = KAL 4, 57
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: This tablet attests part of Ishtar 8(?).
+
+@tablet
+
+@obverse
+
+1. [EN₂ šu?-pu?]-tu₂#? {d}iš₈-tar₂ GAŠAN MAN!(MAD){+tu₄} šur-bu-tu₂ DINGIR-MEŠ#-ti₃#
+#tr.en: [Incantation: O resple]ndent Ishtar, lady, queen, exalted one among the goddesses,
+#note: On the tentativeness of the suggested restoration, see Maul and Strauß 2011: 111. The prayer may show parallels to Ishtar 8 but also deviations, as in this first line.
+
+2. [...] x# AN{+e} KU₃-MEŠ sa-niq-ti {d}i₂-[gi₃-gi₃]
+#tr.en: [. . .] . . . the pure heavens, the keeper of the I[gigi],
+
+3. [... na-maš]-ti#? KI IGI x#-[...]
+#tr.en: [. . . the ani]mals of the earth you oversee, . . . [. . .] 
+#note: Maul and Strauß 2011: 111 suggest the last sign may be RU but offer no restoration.
+
+4. [...] x# x# GIM {d}UTU nap#?-[ha-ti]
+#tr.en: [. . .] . . . like Shamash [you are li]t up.
+#note: Maul and Strauß suggest the beginning of the line reads [... at]-ti??-⸢ma⸣?? (2011: 111). 
+
+5. [...] x# x# tuš#?-te#?-[še-ri ...]
+#tr.en: [. . .] . . . you guide a[right . . .]
+
+6. [...] kul#?-lat#?-si#?-na#? ba#?-[hu-la-ti]
+#tr.en: [. . .], the popu[lation], all of them, 
+#note: The restoration here follows Maul and Strauß 2011: 111, but it is based on mere traces and the assumption that this line parallels BMS 32: 12. Also, Maul and Strauß include a line 7 in their edition, which reads [...] x [...], but I see nothing on the tablet to merit it.
+
+@reverse
+
+$ reverse missing

@@ -1,0 +1,45 @@
+﻿&P425453 = BMS 54
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: This tablet, Sm.512, attests part of Marduk 2.
+
+@tablet
+
+@surface a
+
+$ beginning of surface missing
+
+1'. [ana-ku] NENNI# A# NENNI# ša# DINGIR#-šu₂# NENNI# {d#}[...]
+#tr.en: [I], so-and-so, son of so-and-so, whose (personal) god (is) so-and-so, [. . .]
+#note: This line was apparently better preserved when King copied it in the 1890's. See his copy, BMS 54.
+
+2'. [ina] HUL# AN.GE₆ {d}3(u) ša ina {iti}NENNI U₄ NENNI# [...]
+#tr.en: [On account of] the evil of a lunar eclipse, which [. . .] in month so-and-so, day so-and-so.
+
+3'. HUL# A₂-MEŠ GISKIM-MEŠ HUL-MEŠ [...]
+#tr.en: (And) the evil of portents (and) omens, unpleasant [. . .]
+#note: Oshima (2011: 339) restores ina at the head of the line. Although there is room, the formula does not normally repeat the preposition in its second line. See Mayer 1976: 100.
+
+4'. [ša] ina E₂.GAL-MU u KUR-MU [...]
+#tr.en: [Which . . .] in my house and (throughout) my land,
+
+5'. [i-na] DU₁₁.GA-ka kit-ti lu#-[ub-luṭ] 
+#tr.en: [By] your righteous command, let me [live],
+
+6'. [lu-uš]-lim#-ma lu-uš-tam-mar [...]
+#tr.en: [let me b]e well, that I may praise [. . .]
+
+7'. [e-ma] u₂#-ṣa-am-ma-ru lu-[uk-šu-ud]
+#tr.en: [Whatever] I plan let me [achieve].
+
+8'. [...] kit#-tu₄ [...]
+#tr.en: [. . .] truth [. . .]
+
+9'. [...] SIG₅#{+ti₃#} [...]
+#tr.en: [. . .] a favorable [. . .]
+
+10'. [... na-an-za]-zi#? [...]
+#tr.en: [. . . attend]ant [. . .]
+
+$ rest of surface missing

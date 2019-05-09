@@ -1,0 +1,138 @@
+&P413965 = LKA 053
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: The tablet contains Adad 1a.
+
+@tablet
+
+@obverse
+
+1. [EN₂] šur-bu-u git₂-ma-lu₄ a-pil {d}x# [...]
+#tr.en: [Incantation]: O most high, perfect one, heir of D[N . . .],
+#note: Schwemer (2001: 671, n.5551) suggests {d}EN.[LIL₂{ki}] but, as he admits, this presents difficulties in the parallel in line 3, where the traces do not support such a reading. Collation is required.
+
+2. u₄-mu la a-ni-hu₅ mu-ta-bil qa-bal# [a-nun-ti]
+#tr.en:  Indefatigable storm, who directs the fighting of [battle],
+#note: The last half of the line recalls SB Epic of Anzu I 14.
+
+3. {d}IŠKUR šur-bu-u git₂-ma-lu₄ a-pil {d}x# x# x# [x]
+#tr.en: O Adad, most high, perfect one, heir of . . DN . . [. . .],
+
+4. u₄-mu la a-ni-hu₅ mu-ta-bil qa#-bal# a#-nun#-ti
+#tr.en:  Indefatigable storm, who directs the fighting of battle,
+
+5. [ša₂]-kin# u₂#-pe?#-e EN a-bu-bi mu-šab-riq TUKUL# [an]-za#-a x#
+#tr.en: [Cl]oud-maker, lord of the flood, who strikes lightning (with his) weapon, . . . Anzu.
+#note: u₂#-pe?#-e is written over an erasure (so Ebeling 1953: 96, n.7). Schwemer suggests the final sign is R°A!?, which he understands as a logogram for maḫāṣu, "to strike" (2001: 671, 673 ['den Anzû erschlug er'] and n.5557). Ebeling's copy and transliteration (1953: 97, n.8) shows SU (in an abraded context). Collation is required.
+
+6. [kaš]-kaš git₂-ma-lu₄ ez-zu šam-ru# la# pa#-du-[u] SAG#?.KAL#? E₂#?.KUR#?
+#tr.en: [Over]powering, perfect one, furious, impetuous, unrelenti[ng one], foremost of Ekur,
+#note: I follow Schwemer's reading of the end of the line tentatively (2001: 671), though there is little to go on. The line requires collation.
+
+7. {d}IŠKUR kaš-kaš git₂-ma-lu₄ ez-zu šam-ru# la# pa#-du#-u# x x [x x]
+#tr.en: Adad, overpowering, perfect one, furious, impetuous, unrelenting one . . . [. . .].
+
+8. sa#-kip ek-du-ti EN e-mu-[qi₂]
+#tr.en: Who fends off the ferocious, master of streng[th],
+
+9. rap#-pu mu-la-i-ṭu qa₂-ad-ru-ti#
+#tr.en: The neck stock who keeps the aggressive in check.
+
+10. [ez]-zu# šar-hu LUGAL AN{+e} ra-šub#-[bu]
+#tr.en: [Fur]ious, proud, awe-inspir[ing] king of heaven,
+
+11. IBILA# e₂-šar₂-ra ša₂ git₂-ma#-lu# a-li#?-[lu? ...]
+#tr.en: The heir of Eshara, who is the perfect one, power[ful . . .].
+
+12. [mu]-šab#-riq ber-qi₂ na-aš₂ GI#.IZI#.[LA₂]-MEŠ# u IZI#
+#tr.en: [Who] causes lightning to strike, who bears tor[ch]es and fire.
+#note: The reading follows Schwemer 2001: 672, which goes back to Ebeling 1953: 96.
+
+13. [mu]-ab#-bit KUR me-le#-e# u ab#-ni#
+#tr.en: [Who] destroys mountains, heights, and stones,
+
+14. [DINGIR ša₂?-pi?]-ik# er-pe-ti ina qe₂-reb AN{+e}
+#tr.en: [The god, who hea]ps up(?) clouds in the midst of the heavens,
+#note: The new duplicate, BM 38537, suggests the restorations at the heads of the following several lines (see Lenzi 2013: 6, 8; see already Ebeling 1953: 98 for the presence of Adad's name in line 16 below). The participle to be restored here is a matter of dispute. Schwemer suggests šāpik, "the one who heaps up" (2001: 272); Ebeling prefers šākin, "the one who establishes" (1953: 98); and Seux suggests pātiq, "the one who shapes" (1976: 306, n.13). Although Ebeling's copy seems to support Schwemer's reading of the last sign (adopted here tentatively), collation is required. 
+
+15. [ša₂]-qu#?-u₂#? an-qul-le-e mu-ša₂-az-nin nu-uh₂-ši
+#tr.en: [Who] waters the seering heat, who rains down plentitude,
+
+16. [{d}IŠKUR ša₂?-pi?]-ik# er-pe-ti ina qe₂-reb AN{+e}
+#tr.en: [Adad, who hea]ps up(?) clouds in the midst of the heavens,
+
+17.  [ša₂-qu-u₂ an]-qul#-le-e mu-ša₂-az#-nin# [nu]-uh₂#-ši
+#tr.en: [Who waters the se]ering heat, who rains down [ple]ntitude,
+
+18. [DINGIR ša₂ ina] GU₃#-šu₂ UN-MEŠ uš-ha-ra#-ra
+#tr.en: [The god who with] his din reduces the people to silence,
+
+19. [uh-tap-pa] qer#-be₂-te i-hi-lu EDIN
+#tr.en: The meadows [are ruined], the steppe [wr]ithes.
+#note: The restoration of the verb at the head of the line is based on the duplicate from Boğazköy, KUB 4 26. 
+
+20. [{d}IŠKUR ša₂] ina# GU₃-šu₂ UN-MEŠ uš-ha-ra-ra
+#tr.en: [Adad who] with his din reduces the people to silence,
+
+21. [uh-tap-pa] qer#-be₂-te i-hi-lu EDIN
+#tr.en: The meadows [are ruined], the steppe writhes.
+
+22. še-mu-u₂ pi-riš-ti {d}a-nim git₂-ma-lu ga-šir x x x (x) [(x)]
+#tr.en: The one who hears the secrets of Anu, the perfect, the strong one . . . [. . .]
+#note: I am following Schwemer's hesitation to propose a reading here (2001: 672; see also Seux 1976: 306, n.18), whereas Ebeling (1953: 98) suggested ina(?) aḫḫê(?)(me[š)-šu], "among his brothers," at the end of the line. Collation is required.
+
+23. ra-šub-bu {d}an-nu-na-ki EN qab-la-ti
+#tr.en: Terrifying one of the Annunaki, master of battles,
+
+24. mu-gur ik-ri-bi-ia še#-me tes₂-li-ti
+#tr.en: Accept my prayers, hear my petition!
+
+25. U₄ šul₃-ma ITI hi-du-tu₂ MU.AN.NA he₂-gal₂-li-ša₂
+#tr.en: May the day bring peace; the month, rejoicing; the year, its abundance.
+
+26. li-bil-la
+#tr.en: 
+#note: The line continues line 25 and is indented more than half the width of the tablet.
+
+27. x x mi x x x x me? x x x hi-ṭi₂-ti
+#tr.en: . . . my sins
+#note: Ebeling (1953: 98, 99) suggests we read the line as follows: du?-um?-mi?-iq? ik?-ki?-b[u r]u?-um?-mi? kâl? ḫi-ṭi₂-ti, "Mache gut das Schlimme, löse all (meine) Sünde" ("make the taboo things good; release all of my sins"). Although collation is required, I share Seux's and Schwemer's doubts about this reading (Seux 1976: 307, n.20; Schwemer 2001: 673, n.5555). Schwemer suggests the two words before the final one might read ⌞ru⌟?-<um>?-⌞me⌟?-°e!? a[r]₂-⌞ni⌟?.
+
+@reverse
+
+1. šu-ut-bi₂ gil₂-la-ti le#-qe₂ un#-ni-ni#-[ia]
+#tr.en: Remove my sin, accept [my] prayers!
+
+2. eš-te-ʾ-ku as-sa-hur DINGIR{+ut}-ka
+#tr.en: I have sought you, I have turned to your divinity.
+
+3. ana-ku {I}LUGAL-GI.NA DUMU DINGIR-šu₂ IR₃ pa-lih DINGIR{+ut}-[ka]
+#tr.en: I, Sargon, the son of his (personal) god, the servant who fears [your] divinity,
+
+4. ina HUL AN.GE₆ {d}3(u) ša₂ ina {iti}NE U₄ 1(u) 4(diš)-KAM GAR{+nu#}
+#tr.en: On account of the evil of a lunar eclipse, which occurred on the 14th day of the month ,
+
+5. HUL A₂-MEŠ GISKIM#-MEŠ HUL-MEŠ NU DU₁₀.GA-MEŠ
+#tr.en: (And) the evil of portents (and) omens, unpleasant (and) unfavorable,
+
+6. ša₂ ina E₂.GAL-MU u KUR{+a} GAL₂{+a}
+#tr.en: Which are continually present in my palace and (throughout) my land, 
+
+7. qa₂-ba-am ŠE.GA šuk-nam-ma nar-bi-ka
+#tr.en: Grant (lit. establish for) me persuasive speech (lit. speaking (and) consenting), so that your greatness
+#note: Or, "grant me speaking (and) hearing"; so Seux 1976: 307, n.26.
+
+8. lu-ša₂-pi da₃-li₂-li₂-ka lud-lul
+#tr.en: I may proclaim (and) sing your praises.
+
+$ single ruling
+
+9. KA-INIM-MA  ŠU-IL₂-LA₂ {d}IŠKUR-KAM₂
+#tr.en: It is the wording of a lifted-hand prayer to Adad.
+
+$ single ruling
+
+10. [EN₂?] IM TUKUL UD {d}IŠKUR-RA!(LA)
+#tr.en: [Incantation(?)]: O wind, weapon, storm of Adad,
+#note: As Ebeling suggested (1953: 98), the line may very well be incomplete. I have suggested here the possiblity that the line is a Sumerian incipit. The final sign could be either a graphic or (internal) aural mistake.

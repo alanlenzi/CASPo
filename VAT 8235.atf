@@ -1,0 +1,227 @@
+﻿&P369041 = KAR 059
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: This tablet, VAT 8235, attests Marduk 2, catchline to Marduk 18, Ea 1a, catchline to Ea 2, and a colophon.
+
+@tablet
+
+@obverse
+
+1. [EN₂] ga-aš₂-ru šu-pu-u₂# [...]
+#tr.en: [Incantation]: Powerful, brilliant, [. . .],
+
+2. [ru]-bu-u₂ ti-iz-qa-ru bu#-[kur₂ ...] 
+#tr.en: Exalted [pr]ince, so[n of . . .]
+
+3. {d}AMAR.UTU šal-ba-bu# mu-riš# [...]
+#tr.en: Sagacious Marduk, who makes [. . .] rejoice [. . .]
+
+4. EN E₂.SAG.IL₂# tukul-ti KA.DINGIR.RA#[{ki}]
+#tr.en: Lord of Esagil, support of Babylon,
+
+5. ra-im E₂.ZI.DA mu-šal-lim ZI{+ti₃#}
+#tr.en: Beloved of Ezida, who preserves life, 
+
+6. a-ša₂-red E₂.MAH.TI.LA mu-deš-šu-u₂ ba-la#-[ṭi]
+#tr.en: Foremost of Emaḫtila, who causes an abundance of li[fe], 
+
+7. ṣu#-lul ma-a-ti ga-mil UN-MEŠ DAGAL-MEŠ 
+#tr.en: Protector of the land, who shows mercy to the widespread peoples, 
+
+8. UŠUMGAL# ka-liš BARA₂#-[MEŠ]
+#tr.en: Sovereign ruler of every sanctuary,
+
+9. MU#-ka# ka#-liš ina pi-i# [...] ṭa-a-bi
+#tr.en: Your name is sweet everywhere in the mouth of [. . .]
+
+10. [{d}]AMAR#.UTU EN GAL-u₂  DINGIR re-me₂-nu-u₂
+#tr.en: O Marduk, great lord, merciful god,
+
+11. [ina] qi₂#-bi-ti-ka kit-ti lu-ub-luṭ lu-uš-lim-ma lu-uš-tam-ma-ra DINGIR{+ut}-ka
+#tr.en: [By] your righteous command let me live, let me be well, that I may praise your divinity!
+
+12. [e]-ma# u₂-ṣa-am-ma-ru# lu-uk#-šu-ud
+#tr.en: [Wh]atever I plan let me achieve.
+
+13. šu#-uš-kin kit-tu ina pi-ia
+#tr.en: Establish truth in my mouth.
+
+14. šub#-ši INIM SIG₅{+ti₃} ina lib₃-bi-ia
+#tr.en: Create a favorable word in my heart.
+
+15. [ti]-ru# u na-an-za-zi liq-bu-u₂ SIG₅{+ti₃}
+#tr.en: May [co]urtier and attendant speak favor.
+
+16. [DINGIR]-MU# li-iz-ziz i-na im-ni-ia
+#tr.en: May my [(personal) god] stand at my right side.
+
+17. {d}1(u) 5(diš)-MU# li-iz-ziz i-na GUB₃-ia
+#tr.en: May my (personal) goddess stand at my left.
+
+18. DINGIR mu-šal-li#-mu ina A₂-ia lu#-u₂ ka#-a#-a-an#
+#tr.en: May the god who preserves (me) always be at my side.
+
+19. šur-kam-ma qa#-[ba]-a# še-ma-a u ma-ga#-ri#
+#tr.en: Grant me (the ability) to sp[e]ak, hear, and obey.
+
+20. a-mat a-qab-bu-u₂# GIM# a#-qab#-bu-u₂ lu-u₂ ma#-ag#-[rat]
+#tr.en: The word that I speak, when I speak (it), may it be accep[ted].
+
+21. {d}AMAR.UTU EN# GAL{+u₂} ZI{+ti#} qi₂#-i#-ša₂ TI.LA ZI-ia₂ qi₂#-[bi]
+#tr.en: O Marduk, great lord, give me my life! Ord[er] the well-being of my life.
+
+22. ma#-har-ka nam-riš a#-tal₂-lu#-ka# lu-uš#-[bi]
+#tr.en: May I be sat[ed] walking about in your presence.
+
+23. {d}en-lil₂ lih-du-ka {d}e₂-a# li#-riš-ka
+#tr.en: May Enlil rejoice over you, may Ea be glad on your account.
+
+24. DINGIR-MEŠ# ša₂ kiš-ša₂-tu₄ lik-[ru-bu]-ka#
+#tr.en: May the gods of the world bl[ess] you.
+
+25. DINGIR-MEŠ GAL-MEŠ lib₃#-ba-ka [...]
+#tr.en: May the great gods [. . .] your heart [. . .].
+
+$ single ruling
+
+26. KA-INIM-MA ŠU-IL₂-LA₂ {d#}[AMAR-UTU-KAM*]
+#tr.en: [It is] the wording of a lifted-hand prayer to [Marduk].
+
+27. DU₃.DU₃.BI šum₄-ma ina KEŠDA šum₄-ma ina NIG₂.NA# [DU₃{+uš}]
+#tr.en: Its ritual: [You do] (the ritual) with either a ritual assemblage or with a censer.
+
+$ single ruling
+
+28. EN₂ {d}AMAR.UTU EN GAL{+u₂} DINGIR re-me-nu-u₂ ṣa-bit#! ŠU#! [na-as₂-ki]
+#tr.en: Incantation: O Marduk, great lord, merciful god, who holds the hand of [the fallen].
+#note: Ebeling's copy does not show evidence of BIT and ŠU#. 
+
+$ single ruling
+
+29. EN₂ LUGAL ne₂-me-qi₂ ba-nu-u₂ ta-šim-[ti]
+#tr.en: Incantation: O wise king, discerni[ng] creator,
+
+30. MAS.SU₃ ṣi-ru u₂-sum₂{+um} e₂-abzu#
+#tr.en: August leader, worthy one of E-abzu,
+
+31. {d#}EN.LIL₂.BAN₃.DA it-pe-ši ka-ru-bu#
+#tr.en: Expert Enlilbanda, greeted with reverence,
+
+32. ur-ša₂-nu ERI.DU₁₀ ABGAL {d}i-gi₄-[gi₄]
+#tr.en: Hero of Eridu, sage of the Igi[gi],
+
+33. EN e₂#-engur#-ra# ṣu-lul e₂-u₆-[nir]
+#tr.en: Lord of E-engura, protection of E-u[nir],
+
+34. ba#-[bil₂ ...] HE₂#.GAL₂#{+la} mu#!-riš ID₂.DIDLI
+#tr.en: The one who bri[ngs . . .] of abundance, who makes the rivers rejoice.
+#note: The MU in this line is malformed.
+
+35. [...] u ṣu-ṣe-[e] tu-deš-ši HE₂.NUN#
+#tr.en: [. . .] and reed thicke[ts] you bountifully bestow abundance,
+
+36. [ina] qer#-be₂#-e#-ti# tu-šab-ši ZI{+ti₃} UN-MEŠ
+#tr.en: [Among] the meadows you create the sustenance of the people.
+#note: It seems the line ends with UN-MEŠ, though there may be room enough for one more sign. A couple of the duplicates to Ea 1a include ašnan, "grain," at the line's conclusion. But, there is not room enough for this word here unless it was written on the margin.
+
+@reverse
+
+1. {d#}a-nu u {d}EN.LIL₂ ha-diš ri-šu-ka#
+#tr.en: Anu and Enlil are rejoicing joyfully on account of you.
+
+2. {d#}a-nun-na-ki ina ma-ha-zi-šu₂-nu i-kar-ra-bu-ka#
+#tr.en: The Anunnakki-gods greet you in their shrines.
+
+3. UN-MEŠ KUR iš-tam-ma-ra zi-kir-ka kab-ta#
+#tr.en: The people of the land praise your noble invocation.
+
+4. a-na DINGIR-MEŠ GAL-MEŠ ta-nam-din mil-ki#
+#tr.en:  To the great gods you give counsel.
+
+5. {d}e₂-a ina te-ka ša₂ TI la i-mat LU₂.UŠ₂#
+#tr.en:  O Ea, on account of your incantation of life the moribund need not die.
+
+6. ul#-li# re-ši-ia i-bi šu-mu#
+#tr.en: Raise my head, call (my) name!
+
+7. qi₂-bi#-tuk#-ka liš-še-mu-u₂ zi-ik-ru-u₂-a
+#tr.en: By your command may my utterances be heard!
+
+8. ina lib₃#-bi#-ka ana SIG₅{+ti} lu-uk-šu-ud
+#tr.en: In your heart, may I achieve favorable things!
+
+9. šur-kam₂#-ma# TI.LA lu-bur a-na# da#-a-ri#
+#tr.en: Give me life that I may be healthy forever!
+
+10. at-me₂#-e-a li-ṭib UGU DINGIR u LUGAL#
+#tr.en: May my speech be pleasing to divinity and king.
+
+11. DINGIR# u LUGAL ša₂ qa-be₂-e-a [li]-pu#-šu#
+#tr.en: [May] god and king [d]o what I say.
+
+12. pu-u₂ u li-ša-nu liš-te-me-qu₂-ni a-a IK-[...] 
+#tr.en: May mouth and tongue intercede for me. May (it) not [. . .]
+#tr.en: It seems reasonable to consider restoring ay iq[ribanni], may it not dra[w near to me]," here (see Seux 1976: 277, n.25), though Abusch and Schwemer state that the traces on the available MSS do not support the restoration (2016: 340). Collation is required.
+
+13. a-a KUR{+an-ni} mim-ma lem-nu mim-ma NU DU₁₀.GA#
+#tr.en: May nothing evil, nothing unfavorable reach me,
+
+14. u šu-nu u₂-piš kaš-ša₂-pi u₃ kaš-šap-ti
+#tr.en: Even also the machinations of the warlock and the witch,
+
+15. {d}e₂-a ina te-e-ka ša₂ TIN mim-ma lem-nu NU DU₁₀.GA#
+#tr.en: O Ea, by your incantation of life, anything evil, anything unfavorable,
+
+16. li-ne-ʾ-u₂ GABA-su-un 
+#tr.en: May (it) depart (lit. turn back their breast). 
+#note: The line is slightly indented on the tablet.
+
+17. ri-kis kaš-ša₂-pi u kaš-šap-ti lip-[ṭur ...] šip#-ti ERI.DU₁₀
+#tr.en: May [. . .] of Eridu rele[ase] the bond of warlock and witch.
+
+18. rik-si-MEŠ-šu₂-nu HUL-MEŠ li-paṭ#-ṭir# ABGAL# DINGIR-MEŠ {d#}AMAR#.UTU# 
+#tr.en: May Marduk, the sage of the gods, release their evil bonds.
+
+19. li-[bi]-ba# mi-na-tu-u₂-a meš-re-tu-u₂#-a e-li-ia₅ li#-ṭi#-ba#
+#tr.en: May my limbs be f[re]e (of illness), may my members be healthy.
+
+20. AN#[{+u₂}] lih#-du-ka ABZU li-riš-ka
+#tr.en: May the heaven[s] rejoice over you, may the Apsu be glad on your account.
+
+21. [...] e#-tel#-liš# li-ša₂-li-lu-ka
+#tr.en: May [ . . .] laud you as a lord.
+
+22. [dum-qi₂]-ka# liq-bu-u₂ DINGIR-MEŠ {d}i-gi₄-gi₄ 
+#tr.en: May the Igigi-gods decree your [good fortune].
+
+$ single ruling
+
+23. [KA-INIM]-MA# ŠU-IL₂-LA₂ {d}EN-LIL₂-BAN₃#-DA-KAM₂
+#tr.en: It is the wording of a lifted-hand prayer to Enki.
+
+24. [lu ina KEŠDA] lu ina NIG.NA₂ DU₃{+uš}
+#tr.en: You do (the ritual) [with either a ritual assemblage] or with a censer.
+
+$ single ruling
+
+25. [EN₂ be-lu₄] mu-du-u₂ DU₃{+u₂} DU₃{+a-ma}
+#tr.en: [Incantation: O knowledgable lord], creator of everything.
+#note: This is the catchline to Ea 2.
+
+26. [ki-i] KA# DUB {m}{d}PA-TIN{+su}-iq-bi DUMU {m}da-ku-ri
+#tr.en: [Accord]ing to the tablet belonging to Nabu-balassu-iqbi, son of Dakuri.
+#note: For this colophon, see Hunger 1968, no. 225.
+
+27. x# x# x# [(x)] U₅#.UM GABA.RI KA₂.DINGIR.RA{ki}
+#tr.en: . . . [. . .] . . . a writing-board, a copy from Babylon.
+
+28. šaṭ-ru-ma E₃ SAR-ma ba₃-ri₃ SAR {m}{d}x# x# [...]
+#tr.en: Written and collated, written and collated, scribe . . . [. . .]
+
+29. {lu₂}ŠAMAN₂.LA₂ šu-bul-tin-bi x# [...]
+#tr.en: Assistant scribe . . . [. . .]
+#note: As Hunger notes, šu-bul-tin-bi is a sandhi writing for šubulti inbi (1968: 77, n.2). It is common enough to find an entry in the lexica (see CDA, 379).
+
+30. {lu₂#}A#.BA# A# [...]
+#tr.en: Scribe, son of [. . .]

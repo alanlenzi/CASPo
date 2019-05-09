@@ -1,0 +1,76 @@
+&P480752 = KAL 4, 62
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: This tablet, VAT 14381, attests a part of Marduk 5 and some unidentified lines.
+
+@tablet
+
+@surface a
+
+$ beginning of surface missing
+
+1'. [GIM] {giš#}[MES ...]
+#tr.en: [Like] wood [of the mesu-tree . . .]
+#note: The restorations are based on duplicates and Maul and Strauß 2011: 118.
+
+2'. [NU] DU₁₀#.GA#{+ti₃#} [...]
+#tr.en: [. . . un]pleasant [. . .]
+
+3'. [ina] IGI#-ka MU-šu₂ li#?-ša₂#-x# [...]
+#tr.en: [In] your presence may his name . . . [. . .]
+
+4'. U₂.HI.A nap-šal-tu ša₂ ina IGI#-[ka ...]
+#tr.en: Drugs (lit. plants) (and) the salve, which in [your] presence [. . .]
+
+5'. lip-su!(SI)-<is>-su ar-[ni-šu₂? ...]
+#tr.en: May they erase [his] si[ns . . .] 
+#note: We expect lipsusū here as a third person plural G preterite from pasāsu, as is present in the duplicates. (The plural subject is in the previous line.) Maul and Strauß 2011: 119 explain lip-si-is-su as a variant orthography of what is typically an a/u verb. We might also consider the possibility that what is on the tablet, lip-si-is-su, is the result of a dittography of the SI in the next line (instead of the required SU), followed by an unnecessary IS, which might have been an attempt to make sense of the previous mistake(?). Whatever the precise reasons for it, the text may simply be mistaken.
+
+6'. li#-pa-si-su a#-[a ...]
+#tr.en: May they rub out; may (it) n[ot . . .]
+
+7'. mim#-ma lem-nu uz#-za ug-[gat DINGIR]
+#tr.en: Anything evil, anger, ra[ge of the (personal) god],
+
+8'. [ki]-šit#-tu gil₂-la#-tu# [...]
+#tr.en: [Sei]zure, offence [. . .]
+#note: Maul and Strauß 2011: 118 translate the first word as "Überwältigung (von Schuld?)," but the overpowering or seizure could be the result of a demonic attack/illness.
+
+$ rest of surface missing
+
+@surface b
+
+$ beginning of surface missing
+
+1'. [AN]{+u₂#} lih-du#-ka# [...]
+#tr.en: May [the heaven]s rejoice [. . .]
+
+2'. DINGIR#-MEŠ ša AN{+e#} [...]
+#tr.en: [. . .] the gods of the heavens [. . .]
+
+3'. lib₃#-ba-ka [...]
+#tr.en: [. . .] your heart [. . .]
+
+4'. {d}a-num {d}+EN-LIL₂ u {d}e₂#-[a ...]
+#tr.en: [. . .] Anu, Enlil, and E[a . . .]
+
+5'. {d}be-let-DINGIR-MEŠ [...]
+#tr.en: [. . .] Belet-ili [. . .]
+
+6'. li-ša₂-te-ra [...]
+#tr.en: May [. . .] make plentiful [. . .]
+
+7'. e₂-sag-il₂ u KA₂.DINGIR#.[RA{ki} ...]
+#tr.en: Esagil and Baby[lon . . .]
+
+8'. a-hu-lap-ka be-li₂ [...]
+#tr.en: Your clemency, my lord [. . .]
+
+9'. HUL GIG# ša₂ SU-MU [...]
+#tr.en: (This) evil, the illness of my body [. . .]
+ 
+10'. [...] x# [...] x# x# [...]
+#tr.en: [. . .] . . . [. . .] . . . [. . .]
+
+$ rest of surface missing

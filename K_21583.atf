@@ -1,0 +1,30 @@
+&P419851 = K 21583
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: BM 21583 is a fragment, containing part of Kaksisa 2 = Ninurta 4.
+
+@tablet
+
+@surface a
+
+1'. [...] x# [...]
+#tr.en: [. . .] . . . [. . .]
+
+2'. [...] x# x# x# [...]
+#tr.en: [. . .] . . . [. . .]
+#note: Requires collation in person.
+
+3'. [...] šu-uš-ku-na#?-[ku-ma ...]
+#tr.en: [. . .] I am held in bad re[pute, and . . .]
+
+4'. [... hi]-ra#-ku-ma [...]
+#tr.en: I am [soug]ht after [. . .]
+
+5'. [...] iš-šak#-[kan ...] 
+#tr.en: [. . .] is se[t (against me) . . .]
+
+6'. [...] x# sah#?-[ra-ni-ma ...]
+#tr.en: [. . .] surrou[nds me, and . . .]
+
+$ rest of surface missing
