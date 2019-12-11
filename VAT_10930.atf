@@ -1,4 +1,4 @@
-&P369106 = KAR 127
+﻿&P369106 = KAR 127
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -13,7 +13,7 @@ $ beginning of obverse missing
 1'. [...] x# [...]
 #tr.en: [. . .] . . . [. . .]
 
-2'. ka-šid er-[ni-it-ti ...]
+2'. ka-šid er-ni#-[it-ti ...]
 #tr.en: Who achieves vic[tory . . .]
 
 3'. {d}nin-urta UŠUM#.[GAL ...]
@@ -25,7 +25,10 @@ $ beginning of obverse missing
 5'. tar-bit ABZU# [...]
 #tr.en: A rearling of the Ap[su . . .]
 
-6'. x# x# [...]
+6'. IBILA [...]
+#tr.en: Son of [. . .]
+
+7'. x# x# [...]
 #tr.en: [. . .] . . . [. . . ]
 
 $ rest of obverse missing
@@ -34,7 +37,7 @@ $ rest of obverse missing
 
 $ beginning of reverse missing
 
-1'. [KA]-INIM#-MA [...]
+1'. [KA]-INIM#-MA x# [...]
 #tr.en: [. . . the word]ing of [. . .]
 
 $ single ruling
@@ -45,7 +48,7 @@ $ single ruling
 3'. NIG₂.NA# {šim#}LI# [...]
 #tr.en: A censer of juniper [. . .]
 
-4'. UŠ# GID₂{+ad#} ZI₃.[DUB.DUB ...]
+4'. UŠ# GID₂{+ad#} ZI₃.DUB#.[DUB ...]
 #tr.en: You draw lines. Fl[our . . .]
 #note: Alternatively, "you draw the curtains."
 
@@ -64,5 +67,5 @@ $ single ruling
 9'. [i]-dab#-bu-[ub-ma ...]
 #tr.en: [H]e spea[ks, and . . .]
 
-10'. [... kiš]-pi# ep#-[šu₂-šu₂ ...]
-#tr.en: [. . . witch]craft, practi[ced against him . . .]
+10'. [kiš]-pi# ep#-[šu₂-šu₂ ...]
+#tr.en: [witch]craft, practi[ced against him . . .]

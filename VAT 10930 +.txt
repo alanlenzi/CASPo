@@ -1,0 +1,181 @@
+﻿&P = 
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: VAT 10930 + contains Kaksisa 2 = Ninurta 4 and Ninurta 5.
+
+@tablet
+
+@obverse
+
+$ beginning of obverse missing
+
+1'. [...] x# [...]
+#tr.en: [. . .] . . . [. . .]
+
+2'. ka-šid er-ni#-[it-ti ...]
+#tr.en: Who achieves vic[tory . . .]
+
+3'. {d}nin-urta UŠUM#.[GAL ...]
+#tr.en: Ninurta, the [great] dragon [. . .]
+
+4'. ga-aš₂-ru [...]
+#tr.en: Strong one [. . .]
+
+5'. tar-bit ABZU# [...]
+#tr.en: A rearling of the Ap[su . . .]
+
+6'. IBILA [...]
+#tr.en: Son of [. . .]
+
+7'. x# x# [...]
+#tr.en: [. . .] . . . [. . . ]
+
+$ (VAT 10930 obv. ends; break of uncertain length)
+
+$ (VAT 10778 obv. begins)
+
+1''. NUN#? [...]
+#tr.en: Prince [. . .]
+
+2''. mu-tal#-lu#? [...]
+#tr.en: Noble one [. . .]
+
+3''. ana# DINGIR{+ti} mu#-ša₂-[al-li-mu ...]
+#tr.en: For divinity, the one who sa[feguards . . .]
+#note: The term mušallimu is an epithet for Ninurta (see CAD M/2, 256).
+
+4''. iš-ta#-mur sa-[...]
+#tr.en: He was/became furious . . [. . .]
+#note: Gt preterite / G perfect of šamāru?
+
+5''. mu-na-at -tu#/LI#-? [x] KA#? [x x] x# [...]
+#tr.en: The one who is weak . . . 
+
+6''. me-si# ZU#-[MU ...] x# [...]
+#tr.en: Wash [my] body [. . .] . . [. . .]
+
+7''. x# ma ṣi [x] LA/TE? {d}a-nim IBILA#? [...]
+
+8''. [x]-ba-šu ša₂ x# [...]
+[qa]-ba-šu, his speaking?
+
+9''. [(x)] x# ma-ʾ-du-ti {x# DINGIR# or MUL#}-MEŠ#? [...]
+
+10.'' [x] x# a ša en šu₂ x# x# ka ip#-[...]
+
+11''. ša₂ iš-tu# u₄-me x# [...]
+
+@reverse
+
+from CMAWRO
+r 1	
+[... a-šá-re]-⸢ed⸣ DINGIR.⸢MEŠ⸣ [GAL.MEŠ]
+
+r 2	
+[... KÙ.MEŠ]-te ⸢ne⸣-[bu-ú] MUL.[MEŠ]
+
+r 3	
+[...] la <<ta>> ma-⸢ḫar qa⸣-bal-[šu]
+
+r 4	
+[... gaš]-⸢ru⸣ na-ram a-bi ⸢DINGIR.MEŠ⸣ dnun-⸢nam⸣-[nir]
+
+r 5	
+[...] ⸢ke-e⸣-nu muš-tap-pi-ik ka-re-⸢e dáš⸣-na-⸢an⸣
+
+r 6	
+[mu-gar]-⸢ri⸣-in nisaba e-ṭi-ir!(e) nap-šat UN.MEŠ ka-lu-ši-⸢na⸣
+
+r 7	
+[... ÌR]-ka NENNI A NENNI šá DINGIR-šú NENNI dINANNA-⸢šú NENNI⸣-tum
+
+r 8	
+[am-ḫur]-ka a-ta-mar ⸢pa⸣-ni-ka
+
+r 9	
+[áš]-šúm gi-mil du-um-qi ⸢e⸣-pe-⸢ša⸣ ti-da-a
+
+r 10	
+⸢kiš⸣-pi ep-šu-ni-ma e-nat ⸢šim⸣-ti
+
+r 11	
+ru-ḫu-ú saḫ-ru-ni-⸢ma⸣ ku-⸢ri⸣ [ni-is-sa]-ti ⸢ep?⸣-[še?]-ku
+
+r 12	
+ḪUL.GIG ZI.GUR.RU.DA i-še-⸢ʾu⸣-[ni-ma an]-⸢da⸣-na-qú-[ta] ⸢e⸣-nita
+
+r 13	
+ana mim-ma lem-ni ḫi-ra-ku-ma GIG ⸢ḪUL⸣ [x-x-x]-x-[(x-x)]
+
+r 14	
+SAG.ḪUL.ḪA.ZA DAB!(iš)ni-ma mu-šu u [urru irteneddânni]
+
+r 15	
+ŠU.GIDIM.MA saḫ-ra-ni-ma ki-⸢ma⸣ [x-x-x-x-x-x-(x-x)]
+
+r 16	
+EN a-šar ta-saḫ-<ḫa>-ru pa x-[x-x-x-x-x-x-(x-x)]
+
+r 17	
+a-na a-a-ši ÌR pa-li-ḫi-⸢ka⸣ [...]
+
+r 18	
+eṭ-ri ZI-ti TI.LA ⸢qí⸣-[šam]
+
+r 19	
+⸢sul-lim-ma it⸣-te-ia DINGIR ⸢d⸣[iš₈-tár ...]
+
+r 20	
+[... LÚ]-⸢ú?⸣ [...]
+
+r 21	
+[...] ⸢SU-ia ḫul⸣-[liq ...]
+
+r 22	
+⸢a⸣-[bu-uk ...] ú-kiš ú-[piš ...]
+
+r 23	
+⸢i-na⸣ [... ṭu]-⸢ru⸣-ud nam-⸢tar⸣ [...]
+
+r 24	
+šá ⸢a-na⸣ [x-x x-(x)]-x-[x x-x-(x)]
+
+r 25	
+ki-⸢ma⸣ [...]
+
+r 26	
+⸢bu⸣-[li-ṭa-ni-ma? ...]
+
+1'. [KA]-INIM#-MA x# [...]
+#tr.en: [. . . the word]ing of [. . .]
+
+$ single ruling
+
+2'. KID₃.KID₃.BI ni-[...]
+#tr.en: Its ritual . [. . .]
+
+3'. NIG₂.NA# {šim#}LI# [...]
+#tr.en: A censer of juniper [. . .]
+
+4'. UŠ# GID₂{+ad#} ZI₃.DUB#.[DUB ...]
+#tr.en: You draw lines. Fl[our . . .]
+#note: Alternatively, "you draw the curtains."
+
+5'. NIG₂.NA GI#.IZI.LA₂ [...]
+#tr.en: A censer, a torch [. . .]
+
+6'. i+na bi-rit UŠ₂ [...]
+#tr.en: In between the lines [. . .]
+
+7'. EN₂ an-ni-tu# [...]
+#tr.en: This incantation [. . .]
+
+8'. A#.RA.ZU x# [...]
+#tr.en: A prayer . [. . .]
+
+9'. [i]-dab#-bu-[ub-ma ...]
+#tr.en: [H]e spea[ks, and . . .]
+
+10'. [kiš]-pi# ep#-[šu₂-šu₂ ...]
+#tr.en: [witch]craft, practi[ced against him . . .]

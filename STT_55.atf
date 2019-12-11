@@ -1,4 +1,4 @@
-&P338373 = STT 1, 055
+﻿&P338373 = STT 1, 055
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -12,7 +12,7 @@
 #tr.en: [Incantation: Powe]rful, brilliant, pre-eminent one of Eri[du],
 
 2. [... ti]-iz#-qa#-ru bu-kur₂ {d}NU.DIM₂.MUD
-#tr.en: [. . . Ex]alted prince, son of Nudimmud,
+#tr.en: [Ex]alted [prince], son of Nudimmud,
 
 3. [{d}AMAR].UTU šal-ba-bu mu-riš e₂-engur-ra!(RI)
 #tr.en: Sagacious [Mar]duk, who makes E-engur rejoice, 
@@ -21,7 +21,7 @@
 #tr.en: [Lord] of Esagil, help of Babylon,
 
 5. [ra]-ʾ-mu e₂-zi-da mu-šal-lim na-piš-ti
-#tr.en: [Bel]oved of Ezida, who preserves life,
+#tr.en: [Who lo]ves Ezida, who preserves life,
  
 6. [a-ša₂]-red e₂-mah-ti-la mu-deš-šu-u TI.LA
 #tr.en: [Fore]most of Emaḫtila, who causes an abundance of life,
@@ -30,13 +30,13 @@
 #tr.en: Protector of the land, who shows mercy to the widespread peoples,
 
 8. UŠUMGAL# ka-liš pa-rak-ki MU-ka ka#-liš# ina KA UN-MEŠ# DU₁₀#.GA#
-#tr.en: Sovereign ruler of every sanctuary, your name everywhere is sweet in the mouth of the people,
+#tr.en: Great dragon of every sanctuary, your name everywhere is sweet in the mouth of the people.
 
 9. {d#}AMAR#.UTU EN GAL{u} DINGIR reme-nu-u
 #tr.en:  O Marduk, great lord, merciful god, 
 
 10. [ina qi₂]-bit-ka kit-ti lu-ub!(KU)-luṭ lu-uš-lim-ma
-#tr.en: [By] your righteous [or]der let me live, let me be well, 
+#tr.en: [By] your righteous [or]der let me live, let me be well.
 
 11. [lu]-uš#-tam-mar DINGIR{+ut}-ka e-ma u₂-ṣa-ma-ru lu-uk#-šu-ud
 #tr.en: That [I ma]y praise your divinity. Whatever I plan, let me achieve.
@@ -63,16 +63,16 @@
 #tr.en: [The word that I] speak, whenever I speak (it), may it [be] accep[ted].
 
 19. [{d}]AMAR#.UTU EN GAL{u} ZI{+ti} qi₂-šam#
-#tr.en: O Marduk, great lord, give me (my) life. 
+#tr.en: O Marduk, great lord, give me my life. 
 
 20. TI#.LA ZI{+ti}-ia qi₂-bi#
-#tr.en: Order well-being for (my) life.
+#tr.en: Order well-being for my life.
 
 21. IGI#-ka nam-riš a!(I)-tal₂-lu-ka lu#-uš-bi#
-#tr.en: May I be sated walking about in your presence.
+#tr.en: May I be sated walking brilliantly about in your presence.
 
 23. DINGIR#-MEŠ ša₂ kiš-ša₂-ti# lik-ru!(RA)-bu-ka
-#tr.en: May Enlil rejoice over you, may Enki be glad on your account.
+#tr.en: May the gods of all greet you.
 
 24. DINGIR#-MEŠ GAL-MEŠ lib₃-ba-ka li-ṭib-bu#
 #tr.en: May the great gods make your heart happy.
@@ -83,7 +83,7 @@ $ single ruling
 #tr.en: [It is] the wording of a lifted-hand prayer to Marduk.
 
 26. [lu-u] ina KEŠDA lu-u ina NIG₂.NA! DU₃[{+uš}]
-#tr.en: You do (the ritual) either [with] a ritual assemblage or with a censer.
+#tr.en: You d[o] (the ritual) [either] with a ritual assemblage or with a censer.
 
 27. [lu-u] {d}UTU.E₃ lu-u {d}UTU.ŠU₂.A 3(diš)-šu₂# [ŠID{+ni}]
 #tr.en: [You recite (it) either] at sunrise or sunset three times.
@@ -101,14 +101,14 @@ $ single ruling
 #tr.en: [. . .] . . ., who watches over the ye[ars],
 
 4. [e-ṭir] na-piš-ti mu-ter gi-mil#-lu#
-#tr.en: [Who saves] life, who responds in kind.
+#tr.en: [Who saves] life, who responds in kind,
 #note: The restoration follows Mayer 1976: 469.
 
 5. [SAG].KAL# DINGIR-MEŠ šu-mu DUGUD
-#tr.en: [Fore]most of the gods, honored name.
+#tr.en: [Fore]most of the gods, honored name,
 
 6. [zi-kir]-šu ul# e-ni# a#-bu AMA ba-nu-šu
-#tr.en: The father, his progenitor, does not change his [command],
+#tr.en: The father (and) mother, his progenitors, do not change his [command].
 
 7. [{d}tu]-tu# ul# e-ni zi#-kir# {d}NA₃ DUMU-šu
 #tr.en: [Tu]tu (i.e., Marduk) does not change the command of Nabu, his son.
@@ -117,11 +117,11 @@ $ single ruling
 #tr.en: [. . .], his peers, his word is august.
 
 9. [...] is#-bu-su tu-sa-har GU₂-su
-#tr.en: [. . .] was angry, you turn his (i.e., the personal god's) attention back (lit. you turn his neck).
+#tr.en: [. . .] was angry: you turn his (i.e., the personal god's) attention back (lit. you turn his neck).
 
 10. [ša₂ ze-na-a] {d#}NAM-MEŠ-šu₂ tu-sa-lam it-ti-šu
-#tr.en: With [the one who]se (personal) goddess is angry, you reconcile (her) with him.
-#note: The restoration follows Mayer's suggestion, which he holds tentatively (1976: 470, n.10(1)). Mayer also provides the evidence for the lexical equivalence between {d}NAM.MEŠ and ištarātu (1976: 472).
+#tr.en: [The one who]se (personal) goddesses were angry: you reconcile (them) with him.
+#note: The restoration follows Mayer's suggestion, which he holds tentatively (1976: 470, n.10(1)). See also Mayer for the lexical equivalence of {d}NAM.MEŠ and ištarātu (1976: 472).
 
 11. [ša₂ ar]-na#? i#-šu₂#  ta#-pa#-ṭar# ar#-an#-šu#
 #tr.en: You release the (lit. his) guilt [of] the one who has guilt.

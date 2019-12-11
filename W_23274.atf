@@ -1,4 +1,4 @@
-&P348680 = SpTU 3, 076
+﻿&P348680 = SpTU 3, 076
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -148,8 +148,8 @@
 
 $ single ruling
 
-20. DU₃.DU₃.BI ana IGI {d}iš₈-tar₂ NIG₂.NA ŠIM.LI ina DE₃ {giš}U₂.GIR₂ DUB#
-#tr.en: Its ritual: In the presence of Ishtar, you strew juniper in a censer containing the coals of Acacia wood.
+20. DU₃.DU₃.BI ana IGI {d}iš₈-tar₂ NIG₂.NA ŠIM.LI ina NE {giš}U₂.GIR₂ DUB#
+#tr.en: Its ritual: In the presence of Ishtar, you strew a censer of juniper with (glowing) charcoal of Acacia wood.
 #note: Zgoll (2003: 113) suggests we read DE₃, pēmtu (with note on p. 124).
 
 21. mi-ih-ha BAL{+qi₂} I₃ DU₁₀ KI SUD EN₂ an-nit 3(diš)-šu₂ ŠID#-[ma]

@@ -1,4 +1,4 @@
-&P480752 = KAL 4, 62
+﻿&P480752 = KAL 4, 62
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -11,17 +11,17 @@
 $ beginning of surface missing
 
 1'. [GIM] {giš#}[MES ...]
-#tr.en: [Like] wood [of the mesu-tree . . .]
+#tr.en: [Like mesu]-wood [. . .]
 #note: The restorations are based on duplicates and Maul and Strauß 2011: 118.
 
 2'. [NU] DU₁₀#.GA#{+ti₃#} [...]
-#tr.en: [. . . un]pleasant [. . .]
+#tr.en: [. . . wi]cked [. . .]
 
 3'. [ina] IGI#-ka MU-šu₂ li#?-ša₂#-x# [...]
 #tr.en: [In] your presence may his name . . . [. . .]
 
 4'. U₂.HI.A nap-šal-tu ša₂ ina IGI#-[ka ...]
-#tr.en: Drugs (lit. plants) (and) the salve, which in [your] presence [. . .]
+#tr.en: [. . .] the drugs (lit. plants) (and) the salve, which [. . .] before [you . . .]
 
 5'. lip-su!(SI)-<is>-su ar-[ni-šu₂? ...]
 #tr.en: May they erase [his] si[ns . . .] 
@@ -31,10 +31,10 @@ $ beginning of surface missing
 #tr.en: May they rub out; may (it) n[ot . . .]
 
 7'. mim#-ma lem-nu uz#-za ug-[gat DINGIR]
-#tr.en: Anything evil, anger, ra[ge of the (personal) god],
+#tr.en: Anything evil, anger, [divine] ra[ge],
 
 8'. [ki]-šit#-tu gil₂-la#-tu# [...]
-#tr.en: [Sei]zure, offence [. . .]
+#tr.en: [(Also, demonic) sei]zure, sacrilege [. . .]
 #note: Maul and Strauß 2011: 118 translate the first word as "Überwältigung (von Schuld?)," but the overpowering or seizure could be the result of a demonic attack/illness.
 
 $ rest of surface missing
