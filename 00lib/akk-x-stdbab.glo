@@ -1,0 +1,295 @@
+@project caspo
+@lang akk-x-stdbab
+@name akk-x-stdbab
+
+@letter A
+
+@entry abu [father] N
+@form AD-ka $abuka
+@form a-bu $abu
+@sense N father
+@end entry
+
+@entry amāru [see] V
+@form a-ta-mar $ātamar
+@sense V see
+@end entry
+
+@entry ana [to] PRP
+@form ana $ana
+@sense PRP to
+@end entry
+
+@entry anāku [I] IP
+@form a-na-ku $anāku
+@sense IP I
+@end entry
+
+@entry arnu [guilt] N
+@form ar₂-ni $arnī
+@form ar₂-nu $arnu
+@sense N guilt
+@sense N transgression
+@end entry
+
+@entry ašarēdu [first and foremost] AJ
+@form a-ša₂-red $ašarēd
+@sense AJ first and foremost
+@end entry
+
+@entry attā [you] IP
+@form at-ta $attā
+@sense IP you
+@end entry
+
+@letter B
+
+@entry bītu [house] N
+@form E₂ $bīt
+@sense N house
+@end entry
+
+@entry bukru [son] N
+@form bu-kur₂ $bukur
+@sense N son
+@end entry
+
+@letter D
+
+@entry dalālu [praise] V
+@form lud-lul $ludlul
+@sense V praise
+@end entry
+
+@entry dalīlu [praise] N
+@form da₃-li₂-li₂-ka $dalīlīka
+@sense N praise
+@end entry
+
+@entry dīnu [legal decision] N
+@form di-in $dīn
+@sense N judgement
+@end entry
+
+@letter E
+
+@entry enšu [weak one] N
+@form en-ši $enši
+@sense N weak one
+@end entry
+
+@letter G
+
+@entry gašru [strong one] N
+@form gaš-ru $gašru
+@sense N strong one
+@end entry
+
+@letter H
+
+@entry hurbāšu [frost] N
+@form hur-ba-šu₂ $hurbāšu
+@sense N terror
+@end entry
+
+@letter I
+
+@entry ilu [god] N
+@form DINGIR-MEŠ $ilī
+@form DINGIR-MU $ilī
+@form DINGIR-šu₂ $ilišu
+@form DINGIR-šu₂ $ilšu
+@form DINGIR $ilu
+@sense N god
+@end entry
+
+@entry ina [in] PRP
+@form ina $ina
+@sense PRP in
+@end entry
+
+@entry išû [have] V
+@form i-šu-u $īšû
+@sense V have
+@end entry
+
+@entry itti [with] PRP
+@form KI-ka $ittika
+@form KI $itti
+@sense PRP with
+@end entry
+
+@letter K
+
+@entry kīniš [reliably] AV
+@form ki-niš $kīniš
+@sense AV righteously
+@end entry
+
+@entry kullatu [totality] N
+@form kul-lat $kullat
+@sense N all
+@end entry
+
+@letter L
+
+@entry lā [not] MOD
+@form la $lā
+@sense MOD not
+@end entry
+
+@letter M
+
+@entry malû [full] AJ
+@form ma-lu-u $malû
+@sense AJ full
+@end entry
+
+@entry mamman [somebody] XP
+@form ma-am-ma-an $mamman
+@sense XP who
+@end entry
+
+@entry māru [son] N
+@form DUMU $mār
+@sense N son
+@end entry
+
+@entry muhhu [skull] N
+@form UGU-ka $muhhika
+@sense N top
+@end entry
+
+@letter P
+
+@entry pagru [body] N
+@form pa-gar-šu₂ $pagaršu
+@sense N body
+@end entry
+
+@entry pālihu [reverent one] N
+@form pa-lih-ka $pālihka
+@sense N reverent one
+@end entry
+
+@entry pānu [front] N
+@form pa-ni-ka $pānīka
+@sense N face
+@end entry
+
+@entry paṭāru [loosen] V
+@form pu-ṭur $puṭur
+@sense V release
+@end entry
+
+@letter Q
+
+@entry qabû [say] V
+@form liq-bu-u $liqbû
+@sense V decree
+@end entry
+
+@entry qātu [hand] N
+@form qa-tuk-ka $qātukka
+@form ŠU $qāt
+@sense N hand
+@end entry
+
+@entry qurādu [hero] N
+@form qu-ra-du $qurādu
+@sense N warrior
+@end entry
+
+@letter R
+
+@entry rabû [big] AJ
+@form GAL-MEŠ $rabûti
+@sense AJ great
+@end entry
+
+@letter S
+
+@entry salāmu [be(come) at peace] V
+@form si-lim $silim
+@sense V reconcile
+@end entry
+
+@letter Ṣ
+
+@entry ṣabātu [seize] V
+@form ta-ṣa-bat $taṣabbat
+@sense V take
+@end entry
+
+@letter Š
+
+@entry ša [that] REL
+@form ša₂ $ša
+@form ša₂ $ša
+@sense REL who
+@sense REL whose
+@end entry
+
+@entry šaqû [high] AJ
+@form ša₂-qa-a $šaqâ
+@sense AJ high
+@end entry
+
+@entry šikaru [beer] N
+@form ši-kar $šikar
+@sense N beer
+@end entry
+
+@entry šūpû [made apparent] AJ
+@form šu-pu-u $šūpû
+@sense AJ resplendent
+@end entry
+
+@entry šūšuru [in order] AJ
+@form šu-šu-ru $šūšuru
+@sense AJ guided
+@end entry
+
+@entry šūt [who(m)] DET
+@form šu-ut $šūt
+@sense DET those of
+@end entry
+
+@letter T
+
+@entry târu [turn] V
+@form GUR{+ra} $iturra
+@sense V return
+@end entry
+
+@letter Ṭ
+
+@entry ṭiābu [be(come) good] V
+@form li-ṭib $liṭīb
+@sense V be(come) agreeable
+@end entry
+
+@letter W
+
+@entry wālidu [one who begets] N
+@form a-lid $ālid
+@sense N progenitor
+@end entry
+
+@entry wapû [be(come) visible] V
+@form lu-ša₂-pi $lušāpi
+@sense V proclaim
+@end entry
+
+@letter Z
+
+@entry zakāru [speak] V
+@form ta-za-kar $tazakkar
+@sense V invoke
+@end entry
+
+@entry zikru [utterance] N
+@form zik-ri $zikri
+@sense N speech
+@end entry
+

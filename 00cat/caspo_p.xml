@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-03-20T10:39:20">
+<Sheet1>
+<ID>1</ID>
+<id_text>P398671</id_text>
+<designation>BMS 20 (+) BMS 49</designation>
+</Sheet1>
+<Sheet1>
+<ID>2</ID>
+<id_text>P413965</id_text>
+<designation>LKA 053</designation>
+</Sheet1>
+<Sheet1>
+<ID>3</ID>
+<id_text>P443863</id_text>
+<designation>HT 013 (+?) KUB 04, 26</designation>
+</Sheet1>
+<Sheet1>
+<ID>4</ID>
+<id_text>P453575</id_text>
+<designation>OrNS 82, 1-10</designation>
+</Sheet1>
+<Sheet1>
+<ID>5</ID>
+<id_text>P394642</id_text>
+<designation>BMS 21 + AOAT 034, 052</designation>
+</Sheet1>
+<Sheet1>
+<ID>6</ID>
+<id_text>P425755</id_text>
+<designation>AOAT 034, 053</designation>
+</Sheet1>
+<Sheet1>
+<ID>7</ID>
+<id_text>P394195</id_text>
+<designation>BMS 06+</designation>
+</Sheet1>
+<Sheet1>
+<ID>8</ID>
+<id_text>P286072</id_text>
+<designation>CT 51, 211</designation>
+</Sheet1>
+<Sheet1>
+<ID>9</ID>
+<id_text>P414072</id_text>
+<designation>LKA 050</designation>
+</Sheet1>
+<Sheet1>
+<ID>10</ID>
+<id_text>P413971</id_text>
+<designation>LKA 059</designation>
+</Sheet1>
+<Sheet1>
+<ID>11</ID>
+<id_text>P397492</id_text>
+<designation>AOAT 034, 007</designation>
+</Sheet1>
+<Sheet1>
+<ID>12</ID>
+<id_text>P397501</id_text>
+<designation>BMS 03</designation>
+</Sheet1>
+<Sheet1>
+<ID>13</ID>
+<id_text>P394955</id_text>
+<designation>AOAT 034, 008</designation>
+</Sheet1>
+<Sheet1>
+<ID>14</ID>
+<id_text>P402311</id_text>
+<designation>AOAT 034, 009</designation>
+</Sheet1>
+<Sheet1>
+<ID>15</ID>
+<id_text>P451855</id_text>
+<designation>AOAT 034, 080</designation>
+</Sheet1>
+<Sheet1>
+<ID>16</ID>
+<id_text>P369041</id_text>
+<designation>KAR 059</designation>
+</Sheet1>
+<Sheet1>
+<ID>17</ID>
+<id_text>P238568</id_text>
+<designation>BMS 10</designation>
+</Sheet1>
+<Sheet1>
+<ID>18</ID>
+<id_text>P397528</id_text>
+<designation>AOAT 034, 034</designation>
+</Sheet1>
+<Sheet1>
+<ID>19</ID>
+<id_text>P452538</id_text>
+<designation>AOAT 034, 033</designation>
+</Sheet1>
+<Sheet1>
+<ID>20</ID>
+<id_text>P338385</id_text>
+<designation>STT 1, 067</designation>
+</Sheet1>
+<Sheet1>
+<ID>21</ID>
+<id_text>P348682</id_text>
+<designation>SpTU 3, 078</designation>
+</Sheet1>
+<Sheet1>
+<ID>22</ID>
+<id_text>P363581</id_text>
+<designation>CTN 4, 167</designation>
+</Sheet1>
+<Sheet1>
+<ID>23</ID>
+<id_text>P397372</id_text>
+<designation>BMS 41</designation>
+</Sheet1>
+<Sheet1>
+<ID>24</ID>
+<id_text>P338374</id_text>
+<designation>STT 1, 056</designation>
+</Sheet1>
+<Sheet1>
+<ID>25</ID>
+<id_text>P393721</id_text>
+<designation>BMS 19</designation>
+</Sheet1>
+<Sheet1>
+<ID>26</ID>
+<id_text>P258849</id_text>
+<designation>PBS 01/1, 17</designation>
+</Sheet1>
+<Sheet1>
+<ID>27</ID>
+<id_text>P369009</id_text>
+<designation>KAR 023 + 025</designation>
+</Sheet1>
+<Sheet1>
+<ID>28</ID>
+<id_text>P369050</id_text>
+<designation>KAR 068</designation>
+</Sheet1>
+<Sheet1>
+<ID>29</ID>
+<id_text>P480747</id_text>
+<designation>KAL 4, 54</designation>
+</Sheet1>
+<Sheet1>
+<ID>30</ID>
+<id_text>P348723</id_text>
+<designation>SpTU 4, 129</designation>
+</Sheet1>
+<Sheet1>
+<ID>31</ID>
+<id_text>P365302</id_text>
+<designation>CT 13, pls. 35-38</designation>
+</Sheet1>
+<Sheet1>
+<ID>32</ID>
+<id_text>P394946</id_text>
+<designation>BMS 07</designation>
+</Sheet1>
+<Sheet1>
+<ID>33</ID>
+<id_text>P397772</id_text>
+<designation>AOAT 034, 018</designation>
+</Sheet1>
+<Sheet1>
+<ID>34</ID>
+<id_text>P397902</id_text>
+<designation>BMS 37</designation>
+</Sheet1>
+<Sheet1>
+<ID>35</ID>
+<id_text>P424619</id_text>
+<designation>AOAT 034, 019</designation>
+</Sheet1>
+<Sheet1>
+<ID>36</ID>
+<id_text>P369308</id_text>
+<designation>KAR 341</designation>
+</Sheet1>
+<Sheet1>
+<ID>37</ID>
+<id_text>P338377</id_text>
+<designation>STT 1, 059</designation>
+</Sheet1>
+<Sheet1>
+<ID>38</ID>
+<id_text>P480756</id_text>
+<designation>SFS Ist Si 0006</designation>
+</Sheet1>
+<Sheet1>
+<ID>39</ID>
+<id_text>P402275</id_text>
+<designation>AOAT 034, 020 + OrNS 59, 487</designation>
+</Sheet1>
+<Sheet1>
+<ID>40</ID>
+<id_text>P394706</id_text>
+<designation>AOAT 034, 011</designation>
+</Sheet1>
+<Sheet1>
+<ID>41</ID>
+<id_text>P395590</id_text>
+<designation>AOAT 034, 012</designation>
+</Sheet1>
+<Sheet1>
+<ID>42</ID>
+<id_text>P400145</id_text>
+<designation>AOAT 034, 010</designation>
+</Sheet1>
+<Sheet1>
+<ID>43</ID>
+<id_text>P401721</id_text>
+<designation>AOAT 034, 005</designation>
+</Sheet1>
+<Sheet1>
+<ID>44</ID>
+<id_text>P413923</id_text>
+<designation>LKA 019</designation>
+</Sheet1>
+<Sheet1>
+<ID>45</ID>
+<id_text>P399497</id_text>
+<designation>BMS 34</designation>
+</Sheet1>
+<Sheet1>
+<ID>46</ID>
+<id_text>P480790</id_text>
+<designation>BM 42111</designation>
+</Sheet1>
+<Sheet1>
+<ID>47</ID>
+<id_text>P398391</id_text>
+<designation>BMS 57</designation>
+</Sheet1>
+<Sheet1>
+<ID>48</ID>
+<id_text>P396085</id_text>
+<designation>AOAT 034, 025</designation>
+</Sheet1>
+<Sheet1>
+<ID>49</ID>
+<id_text>P397497</id_text>
+<designation>BMS 48</designation>
+</Sheet1>
+<Sheet1>
+<ID>50</ID>
+<id_text>P394400</id_text>
+<designation>ZA 042, 221-222 = BMS 05 (K.6019 + K.7243 = AOAT 034, 015), BMS 08</designation>
+</Sheet1>
+<Sheet1>
+<ID>51</ID>
+<id_text>P397901</id_text>
+<designation>Iraq 76, 108-109</designation>
+</Sheet1>
+<Sheet1>
+<ID>52</ID>
+<id_text>P369214</id_text>
+<designation>KAR 250</designation>
+</Sheet1>
+<Sheet1>
+<ID>53</ID>
+<id_text>P237223</id_text>
+<designation>AOAT 034, 014</designation>
+</Sheet1>
+<Sheet1>
+<ID>54</ID>
+<id_text>P480768</id_text>
+<designation>OrNS 59, 488 (= BM 57532)</designation>
+</Sheet1>
+<Sheet1>
+<ID>55</ID>
+<id_text>P480769</id_text>
+<designation>OrNS 59, 489 </designation>
+</Sheet1>
+<Sheet1>
+<ID>56</ID>
+<id_text>P394701</id_text>
+<designation>AOAT 034, 001 + Or 59, 486 (= K.17283)</designation>
+</Sheet1>
+<Sheet1>
+<ID>57</ID>
+<id_text>P208501</id_text>
+<designation>JCS 21, 255-262</designation>
+</Sheet1>
+<Sheet1>
+<ID>58</ID>
+<id_text>P395002</id_text>
+<designation>AOAT 034, 078</designation>
+</Sheet1>
+<Sheet1>
+<ID>59</ID>
+<id_text>P402979</id_text>
+<designation>OrNS 59, 487 (= K.17519)</designation>
+</Sheet1>
+<Sheet1>
+<ID>60</ID>
+<id_text>P402853</id_text>
+<designation>OrNS 59, 487 (= K.17668)</designation>
+</Sheet1>
+<Sheet1>
+<ID>61</ID>
+<id_text>P480770</id_text>
+<designation>OrNS 59, 488 (= BM 34318)</designation>
+</Sheet1>
+<Sheet1>
+<ID>62</ID>
+<id_text>P363596</id_text>
+<designation>CTN 4, 182</designation>
+</Sheet1>
+<Sheet1>
+<ID>63</ID>
+<id_text>P445792</id_text>
+<designation>KUB 37, 036 + (?) KUB 37, 037</designation>
+</Sheet1>
+<Sheet1>
+<ID>64</ID>
+<id_text>P480748</id_text>
+<designation>KAL 4, 55 </designation>
+</Sheet1>
+<Sheet1>
+<ID>65</ID>
+<id_text>P283536</id_text>
+<designation>KAL 4, 56</designation>
+</Sheet1>
+<Sheet1>
+<ID>66</ID>
+<id_text>P396808</id_text>
+<designation>AOAT 034, 079</designation>
+</Sheet1>
+<Sheet1>
+<ID>67</ID>
+<id_text>P348681</id_text>
+<designation>SpTU 3, 077</designation>
+</Sheet1>
+<Sheet1>
+<ID>68</ID>
+<id_text>P395021</id_text>
+<designation>BMS 30</designation>
+</Sheet1>
+<Sheet1>
+<ID>69</ID>
+<id_text>P398458</id_text>
+<designation>AOAT 034, 064</designation>
+</Sheet1>
+<Sheet1>
+<ID>70</ID>
+<id_text>P425646</id_text>
+<designation>AOAT 034, 065</designation>
+</Sheet1>
+<Sheet1>
+<ID>71</ID>
+<id_text>P397106</id_text>
+<designation>BMS 31</designation>
+</Sheet1>
+<Sheet1>
+<ID>72</ID>
+<id_text>P394962</id_text>
+<designation>BMS 32</designation>
+</Sheet1>
+<Sheet1>
+<ID>73</ID>
+<id_text>P397810</id_text>
+<designation>BMS 39</designation>
+</Sheet1>
+<Sheet1>
+<ID>74</ID>
+<id_text>P348680</id_text>
+<designation>SpTU 3, 076</designation>
+</Sheet1>
+<Sheet1>
+<ID>75</ID>
+<id_text>P399537</id_text>
+<designation>OrNS 59, 486 (= K.11951)</designation>
+</Sheet1>
+<Sheet1>
+<ID>76</ID>
+<id_text>P480760</id_text>
+<designation>SFS Ist Si 0059</designation>
+</Sheet1>
+<Sheet1>
+<ID>77</ID>
+<id_text>P480788</id_text>
+<designation>AOAT 308, 108</designation>
+</Sheet1>
+<Sheet1>
+<ID>78</ID>
+<id_text>P480749</id_text>
+<designation>KAL 4, 57</designation>
+</Sheet1>
+<Sheet1>
+<ID>79</ID>
+<id_text>P395020</id_text>
+<designation>LSS 2/4, pl. 4</designation>
+</Sheet1>
+<Sheet1>
+<ID>80</ID>
+<id_text>P413970</id_text>
+<designation>LKA 058</designation>
+</Sheet1>
+<Sheet1>
+<ID>81</ID>
+<id_text>P393826</id_text>
+<designation>AMD 8/1, pls. 068-074</designation>
+</Sheet1>
+<Sheet1>
+<ID>82</ID>
+<id_text>P418166</id_text>
+<designation>AMD 8/1, pls. 068-074</designation>
+</Sheet1>
+<Sheet1>
+<ID>83</ID>
+<id_text>P394765</id_text>
+<designation>AMD 8/1, pls. 068-074</designation>
+</Sheet1>
+<Sheet1>
+<ID>84</ID>
+<id_text>P397102</id_text>
+<designation>AMD 8/1, pls. 068-074</designation>
+</Sheet1>
+<Sheet1>
+<ID>85</ID>
+<id_text>P397974</id_text>
+<designation>AMD 8/1, pls. 068-074</designation>
+</Sheet1>
+<Sheet1>
+<ID>86</ID>
+<id_text>P396933</id_text>
+<designation>AMD 8/1, pls. 068-074</designation>
+</Sheet1>
+<Sheet1>
+<ID>87</ID>
+<id_text>P480789</id_text>
+<designation>KAL f.c.</designation>
+</Sheet1>
+<Sheet1>
+<ID>88</ID>
+<id_text>P398848</id_text>
+<designation>AMD 8/1, pl. 096 (= K.10722)</designation>
+</Sheet1>
+<Sheet1>
+<ID>89</ID>
+<id_text>P401364</id_text>
+<designation>AMD 8/1, pl. 096 (= K.15445)</designation>
+</Sheet1>
+<Sheet1>
+<ID>90</ID>
+<id_text>P370903</id_text>
+<designation>AMD 8/1, pls. 104-105</designation>
+</Sheet1>
+<Sheet1>
+<ID>91</ID>
+<id_text>P480771</id_text>
+<designation>AMD 8/1, pl. 106</designation>
+</Sheet1>
+<Sheet1>
+<ID>92</ID>
+<id_text>P394506</id_text>
+<designation>BID, pl. 3</designation>
+</Sheet1>
+<Sheet1>
+<ID>93</ID>
+<id_text>P369024</id_text>
+<designation>KAR 042</designation>
+</Sheet1>
+<Sheet1>
+<ID>94</ID>
+<id_text>P402446</id_text>
+<designation>OrNS 59, 486 (= K.17059)</designation>
+</Sheet1>
+<Sheet1>
+<ID>95</ID>
+<id_text>P363582</id_text>
+<designation>CTN 4, 168</designation>
+</Sheet1>
+<Sheet1>
+<ID>96</ID>
+<id_text>P480772</id_text>
+<designation>OrNS 59, 484</designation>
+</Sheet1>
+<Sheet1>
+<ID>97</ID>
+<id_text>P480773</id_text>
+<designation>OrNS 59, 483 (= BM 34984)</designation>
+</Sheet1>
+<Sheet1>
+<ID>98</ID>
+<id_text>P394690</id_text>
+<designation>BMS 56</designation>
+</Sheet1>
+<Sheet1>
+<ID>99</ID>
+<id_text>P423293</id_text>
+<designation>AOAT 034, 070</designation>
+</Sheet1>
+<Sheet1>
+<ID>100</ID>
+<id_text>P286069</id_text>
+<designation>CT 51, 208</designation>
+</Sheet1>
+<Sheet1>
+<ID>101</ID>
+<id_text>P419851</id_text>
+<designation>K 21583</designation>
+</Sheet1>
+<Sheet1>
+<ID>102</ID>
+<id_text>P369106</id_text>
+<designation>KAR 127</designation>
+</Sheet1>
+<Sheet1>
+<ID>103</ID>
+<id_text>P369264</id_text>
+<designation>KAR 297</designation>
+</Sheet1>
+<Sheet1>
+<ID>104</ID>
+<id_text>P369221</id_text>
+<designation>KAR 256</designation>
+</Sheet1>
+<Sheet1>
+<ID>105</ID>
+<id_text>P259025</id_text>
+<designation>PBS 01/2, 110</designation>
+</Sheet1>
+<Sheet1>
+<ID>106</ID>
+<id_text>P422423</id_text>
+<designation>AOAT 034, 081</designation>
+</Sheet1>
+<Sheet1>
+<ID>107</ID>
+<id_text>P452956</id_text>
+<designation>BAM 5, 461</designation>
+</Sheet1>
+<Sheet1>
+<ID>108</ID>
+<id_text>P400175</id_text>
+<designation>BAM 5, 462</designation>
+</Sheet1>
+<Sheet1>
+<ID>109</ID>
+<id_text>P394688</id_text>
+<designation>BMS 50</designation>
+</Sheet1>
+<Sheet1>
+<ID>110</ID>
+<id_text>P394705</id_text>
+<designation>AOAT 034, 013</designation>
+</Sheet1>
+<Sheet1>
+<ID>111</ID>
+<id_text>P345531</id_text>
+<designation>CT 44, 22</designation>
+</Sheet1>
+<Sheet1>
+<ID>112</ID>
+<id_text>P413955</id_text>
+<designation>LKA 043</designation>
+</Sheet1>
+<Sheet1>
+<ID>113</ID>
+<id_text>P413956</id_text>
+<designation>LKA 044</designation>
+</Sheet1>
+<Sheet1>
+<ID>114</ID>
+<id_text>P413957</id_text>
+<designation>LKA 045</designation>
+</Sheet1>
+<Sheet1>
+<ID>115</ID>
+<id_text>P413958</id_text>
+<designation>KAL 4, 59</designation>
+</Sheet1>
+<Sheet1>
+<ID>116</ID>
+<id_text>P480750</id_text>
+<designation>KAL 4, 58</designation>
+</Sheet1>
+<Sheet1>
+<ID>117</ID>
+<id_text>P393771</id_text>
+<designation>BMS 01</designation>
+</Sheet1>
+<Sheet1>
+<ID>118</ID>
+<id_text>P395051</id_text>
+<designation>BA 5, 385</designation>
+</Sheet1>
+<Sheet1>
+<ID>119</ID>
+<id_text>P480757</id_text>
+<designation>SFS Ist Si 0007</designation>
+</Sheet1>
+<Sheet1>
+<ID>120</ID>
+<id_text>P363583</id_text>
+<designation>CTN 4, 169</designation>
+</Sheet1>
+<Sheet1>
+<ID>121</ID>
+<id_text>P394707</id_text>
+<designation>K 02832 + K 06680</designation>
+</Sheet1>
+<Sheet1>
+<ID>122</ID>
+<id_text>P394498</id_text>
+<designation>K 02538 + K 02554 + K 03188 + K 05329 + K 04936 + K 06161 + K 10150 + K 16016 + K 09379</designation>
+</Sheet1>
+<Sheet1>
+<ID>123</ID>
+<id_text>P384934</id_text>
+<designation>K 04664 (= OECT 6, pl. 02) + K 05030</designation>
+</Sheet1>
+<Sheet1>
+<ID>124</ID>
+<id_text>P424816</id_text>
+<designation>ORA 7, pl. 29 (=Rm.517)</designation>
+</Sheet1>
+<Sheet1>
+<ID>125</ID>
+<id_text>P394511</id_text>
+<designation>BMS 09</designation>
+</Sheet1>
+<Sheet1>
+<ID>126</ID>
+<id_text>P398574</id_text>
+<designation>AOAT 034, 027</designation>
+</Sheet1>
+<Sheet1>
+<ID>127</ID>
+<id_text>P480774</id_text>
+<designation>AOAT 034, 026</designation>
+</Sheet1>
+<Sheet1>
+<ID>128</ID>
+<id_text>P425453</id_text>
+<designation>BMS 54</designation>
+</Sheet1>
+<Sheet1>
+<ID>129</ID>
+<id_text>P338373</id_text>
+<designation>STT 1, 055</designation>
+</Sheet1>
+<Sheet1>
+<ID>130</ID>
+<id_text>P259033</id_text>
+<designation>PBS 01/2, 108</designation>
+</Sheet1>
+<Sheet1>
+<ID>131</ID>
+<id_text>P348616</id_text>
+<designation>SpTU 2, 011</designation>
+</Sheet1>
+<Sheet1>
+<ID>132</ID>
+<id_text>P398642</id_text>
+<designation>AOAT 034, 028</designation>
+</Sheet1>
+<Sheet1>
+<ID>133</ID>
+<id_text>P402158</id_text>
+<designation>AOAT 034, 029</designation>
+</Sheet1>
+<Sheet1>
+<ID>134</ID>
+<id_text>P401539</id_text>
+<designation>AOAT 034, 030</designation>
+</Sheet1>
+<Sheet1>
+<ID>135</ID>
+<id_text>P393803</id_text>
+<designation>BMS 11</designation>
+</Sheet1>
+<Sheet1>
+<ID>136</ID>
+<id_text>P394918</id_text>
+<designation>AOAT 034, 035 + K.5922 + K. 15808</designation>
+</Sheet1>
+<Sheet1>
+<ID>137</ID>
+<id_text>P396615</id_text>
+<designation>AOAT 034, 036</designation>
+</Sheet1>
+<Sheet1>
+<ID>138</ID>
+<id_text>P398438</id_text>
+<designation>AOAT 034, 037</designation>
+</Sheet1>
+<Sheet1>
+<ID>139</ID>
+<id_text>P400177</id_text>
+<designation>AOAT 034, 038</designation>
+</Sheet1>
+<Sheet1>
+<ID>140</ID>
+<id_text>P240249</id_text>
+<designation>AOAT 034, 039</designation>
+</Sheet1>
+<Sheet1>
+<ID>141</ID>
+<id_text>P413973</id_text>
+<designation>LKA 061 + KAL 4, 61</designation>
+</Sheet1>
+<Sheet1>
+<ID>142</ID>
+<id_text>P480751</id_text>
+<designation>KAL 4, 60</designation>
+</Sheet1>
+<Sheet1>
+<ID>143</ID>
+<id_text>P363594</id_text>
+<designation>CTN 4, 180</designation>
+</Sheet1>
+<Sheet1>
+<ID>144</ID>
+<id_text>P393775</id_text>
+<designation>AOAT 034, 040 + OrNS 59, 487 (= K.20155) (+) K.15430</designation>
+</Sheet1>
+<Sheet1>
+<ID>145</ID>
+<id_text>P394839</id_text>
+<designation>AOAT 034, 042</designation>
+</Sheet1>
+<Sheet1>
+<ID>146</ID>
+<id_text>P396760</id_text>
+<designation>AOAT 034, 041</designation>
+</Sheet1>
+<Sheet1>
+<ID>147</ID>
+<id_text>P397419</id_text>
+<designation>AOAT 034, 044</designation>
+</Sheet1>
+<Sheet1>
+<ID>148</ID>
+<id_text>P398898</id_text>
+<designation>AOAT 034, 043</designation>
+</Sheet1>
+<Sheet1>
+<ID>149</ID>
+<id_text>P402817</id_text>
+<designation>OrNS 59, 487 (= K.17478)</designation>
+</Sheet1>
+<Sheet1>
+<ID>150</ID>
+<id_text>P394385</id_text>
+<designation>AOAT 034, 046</designation>
+</Sheet1>
+<Sheet1>
+<ID>151</ID>
+<id_text>P426307</id_text>
+<designation>AOAT 034, 045</designation>
+</Sheet1>
+<Sheet1>
+<ID>152</ID>
+<id_text>P480752</id_text>
+<designation>KAL 4, 62</designation>
+</Sheet1>
+<Sheet1>
+<ID>153</ID>
+<id_text>P394887</id_text>
+<designation>BMS 13</designation>
+</Sheet1>
+<Sheet1>
+<ID>154</ID>
+<id_text>P400171</id_text>
+<designation>AOAT 034, 047</designation>
+</Sheet1>
+<Sheet1>
+<ID>155</ID>
+<id_text>P394675</id_text>
+<designation>BMS 14</designation>
+</Sheet1>
+<Sheet1>
+<ID>156</ID>
+<id_text>P394934</id_text>
+<designation>AOAT 034, 048</designation>
+</Sheet1>
+<Sheet1>
+<ID>157</ID>
+<id_text>P338452</id_text>
+<designation>STT 2, 132</designation>
+</Sheet1>
+<Sheet1>
+<ID>158</ID>
+<id_text>P347219</id_text>
+<designation>VS 24, 100</designation>
+</Sheet1>
+<Sheet1>
+<ID>159</ID>
+<id_text>P394531</id_text>
+<designation>BMS 15</designation>
+</Sheet1>
+<Sheet1>
+<ID>160</ID>
+<id_text>P394881</id_text>
+<designation>BMS 16 + BMS 42 + AOAT 034, 066 + K 08973</designation>
+</Sheet1>
+<Sheet1>
+<ID>161</ID>
+<id_text>P397435</id_text>
+<designation>BMS 18</designation>
+</Sheet1>
+<Sheet1>
+<ID>162</ID>
+<id_text>P396811</id_text>
+<designation>AOAT 034, 049</designation>
+</Sheet1>
+<Sheet1>
+<ID>163</ID>
+<id_text>P400441</id_text>
+<designation>OrNS 59, 486 (= K.13740)</designation>
+</Sheet1>
+<Sheet1>
+<ID>164</ID>
+<id_text>P396937</id_text>
+<designation>AOAT 034, 050</designation>
+</Sheet1>
+<Sheet1>
+<ID>165</ID>
+<id_text>P369314</id_text>
+<designation>KAR 347</designation>
+</Sheet1>
+<Sheet1>
+<ID>166</ID>
+<id_text>P395889</id_text>
+<designation>AOAT 034, 051</designation>
+</Sheet1>
+<Sheet1>
+<ID>167</ID>
+<id_text>P239891</id_text>
+<designation>ORA 7, pl. 30 (= K. 19711)</designation>
+</Sheet1>
+<Sheet1>
+<ID>168</ID>
+<id_text>P480775</id_text>
+<designation>OrNS 59, 478 </designation>
+</Sheet1>
+<Sheet1>
+<ID>169</ID>
+<id_text>P396939</id_text>
+<designation>OrNS 59, 479 (= K.6977 + K.9764 + K.10740)</designation>
+</Sheet1>
+<Sheet1>
+<ID>170</ID>
+<id_text>P397924</id_text>
+<designation>BMS 36</designation>
+</Sheet1>
+<Sheet1>
+<ID>171</ID>
+<id_text>P397838</id_text>
+<designation>AOAT 034, 071</designation>
+</Sheet1>
+<Sheet1>
+<ID>172</ID>
+<id_text>P425829</id_text>
+<designation>AOAT 034, 072</designation>
+</Sheet1>
+<Sheet1>
+<ID>173</ID>
+<id_text>P338368</id_text>
+<designation>STT 1, 050</designation>
+</Sheet1>
+<Sheet1>
+<ID>174</ID>
+<id_text>P338369</id_text>
+<designation>STT 1, 051</designation>
+</Sheet1>
+<Sheet1>
+<ID>175</ID>
+<id_text>P338444</id_text>
+<designation>STT 2, 124</designation>
+</Sheet1>
+<Sheet1>
+<ID>176</ID>
+<id_text>P397828</id_text>
+<designation>ORA 7, pl. 30 (= K.8961)</designation>
+</Sheet1>
+<Sheet1>
+<ID>177</ID>
+<id_text>P395009</id_text>
+<designation>AOAT 034, 073</designation>
+</Sheet1>
+<Sheet1>
+<ID>178</ID>
+<id_text>P396704</id_text>
+<designation>BMS 58</designation>
+</Sheet1>
+<Sheet1>
+<ID>179</ID>
+<id_text>P413951</id_text>
+<designation>LKA 040</designation>
+</Sheet1>
+<Sheet1>
+<ID>180</ID>
+<id_text>P413969</id_text>
+<designation>LKA 057</designation>
+</Sheet1>
+<Sheet1>
+<ID>181</ID>
+<id_text>P413952</id_text>
+<designation>LKA 040a</designation>
+</Sheet1>
+<Sheet1>
+<ID>182</ID>
+<id_text>P393765</id_text>
+<designation>AOAT 034, 054</designation>
+</Sheet1>
+<Sheet1>
+<ID>183</ID>
+<id_text>P396461</id_text>
+<designation>AOAT 034, 055</designation>
+</Sheet1>
+<Sheet1>
+<ID>184</ID>
+<id_text>P396845</id_text>
+<designation>AOAT 034, 056</designation>
+</Sheet1>
+<Sheet1>
+<ID>185</ID>
+<id_text>P397764</id_text>
+<designation>AOAT 034, 057</designation>
+</Sheet1>
+<Sheet1>
+<ID>186</ID>
+<id_text>P413968</id_text>
+<designation>KAL 4, 64</designation>
+</Sheet1>
+<Sheet1>
+<ID>187</ID>
+<id_text>P397840</id_text>
+<designation>AOAT 034, 058</designation>
+</Sheet1>
+<Sheet1>
+<ID>188</ID>
+<id_text>P413954</id_text>
+<designation>LKA 042</designation>
+</Sheet1>
+<Sheet1>
+<ID>189</ID>
+<id_text>P452611</id_text>
+<designation>AOAT 034, 074</designation>
+</Sheet1>
+<Sheet1>
+<ID>190</ID>
+<id_text>P452366</id_text>
+<designation>OrNS 59, 479 (= 81-2-4, 471)</designation>
+</Sheet1>
+<Sheet1>
+<ID>191</ID>
+<id_text>P257782</id_text>
+<designation>PBS 01/1, 18</designation>
+</Sheet1>
+<Sheet1>
+<ID>192</ID>
+<id_text>P480776</id_text>
+<designation>OrNS 59, 480</designation>
+</Sheet1>
+<Sheet1>
+<ID>193</ID>
+<id_text>P480777</id_text>
+<designation>OrNS 59, 481</designation>
+</Sheet1>
+<Sheet1>
+<ID>194</ID>
+<id_text>P480778</id_text>
+<designation>OrNS 59, 482</designation>
+</Sheet1>
+<Sheet1>
+<ID>195</ID>
+<id_text>P349478</id_text>
+<designation>OrNS 59, 483 (= BM 37658)</designation>
+</Sheet1>
+<Sheet1>
+<ID>196</ID>
+<id_text>P394464</id_text>
+<designation>BMS 02</designation>
+</Sheet1>
+<Sheet1>
+<ID>197</ID>
+<id_text>P395008</id_text>
+<designation>BMS 33</designation>
+</Sheet1>
+<Sheet1>
+<ID>198</ID>
+<id_text>P480755</id_text>
+<designation>SFS Ist Si 0002</designation>
+</Sheet1>
+<Sheet1>
+<ID>199</ID>
+<id_text>P394959</id_text>
+<designation>AOAT 034, 061</designation>
+</Sheet1>
+<Sheet1>
+<ID>200</ID>
+<id_text>P394971</id_text>
+<designation>AOAT 034, 067</designation>
+</Sheet1>
+<Sheet1>
+<ID>201</ID>
+<id_text>P394381</id_text>
+<designation>BMS 27</designation>
+</Sheet1>
+<Sheet1>
+<ID>202</ID>
+<id_text>P394710</id_text>
+<designation>AOAT 034, 060</designation>
+</Sheet1>
+<Sheet1>
+<ID>203</ID>
+<id_text>P425393</id_text>
+<designation>AOAT 034, 062</designation>
+</Sheet1>
+<Sheet1>
+<ID>204</ID>
+<id_text>P425007</id_text>
+<designation>AOAT 034, 063</designation>
+</Sheet1>
+<Sheet1>
+<ID>205</ID>
+<id_text>P413943</id_text>
+<designation>LKA 030</designation>
+</Sheet1>
+<Sheet1>
+<ID>206</ID>
+<id_text>P258542</id_text>
+<designation>PBS 01/2, 119</designation>
+</Sheet1>
+<Sheet1>
+<ID>207</ID>
+<id_text>P480753</id_text>
+<designation>KAL 4, 65 </designation>
+</Sheet1>
+<Sheet1>
+<ID>208</ID>
+<id_text>P400534</id_text>
+<designation>BMS 29</designation>
+</Sheet1>
+<Sheet1>
+<ID>209</ID>
+<id_text>P396319</id_text>
+<designation>AOAT 034, 059</designation>
+</Sheet1>
+<Sheet1>
+<ID>210</ID>
+<id_text>P397577</id_text>
+<designation>AOAT 034, 075</designation>
+</Sheet1>
+<Sheet1>
+<ID>211</ID>
+<id_text>P480761</id_text>
+<designation>SFS Ist Si 0079 + Ist Si 0115</designation>
+</Sheet1>
+<Sheet1>
+<ID>212</ID>
+<id_text>P480780</id_text>
+<designation>OrNS 40, pl. 15</designation>
+</Sheet1>
+<Sheet1>
+<ID>213</ID>
+<id_text>P394330</id_text>
+<designation>AOAT 034, 076</designation>
+</Sheet1>
+<Sheet1>
+<ID>214</ID>
+<id_text>P394152</id_text>
+<designation>AOAT 034, 004</designation>
+</Sheet1>
+<Sheet1>
+<ID>215</ID>
+<id_text>P396564</id_text>
+<designation>AOAT 034, 003</designation>
+</Sheet1>
+<Sheet1>
+<ID>216</ID>
+<id_text>P413953</id_text>
+<designation>LKA 041</designation>
+</Sheet1>
+<Sheet1>
+<ID>217</ID>
+<id_text>P393796</id_text>
+<designation>OrNS 59, 486 (= K.16934) + AOAT 034, 006</designation>
+</Sheet1>
+<Sheet1>
+<ID>218</ID>
+<id_text>P395147</id_text>
+<designation>AMD 8/1, pls. 084-087</designation>
+</Sheet1>
+<Sheet1>
+<ID>219</ID>
+<id_text>P369064</id_text>
+<designation>KAR 083</designation>
+</Sheet1>
+<Sheet1>
+<ID>220</ID>
+<id_text>P345544</id_text>
+<designation>CT 44, 35</designation>
+</Sheet1>
+<Sheet1>
+<ID>221</ID>
+<id_text>P396322</id_text>
+<designation>ORA 7, pl. 29 (= K.6028)</designation>
+</Sheet1>
+<Sheet1>
+<ID>222</ID>
+<id_text>P394982</id_text>
+<designation>AOAT 034, 083</designation>
+</Sheet1>
+<Sheet1>
+<ID>223</ID>
+<id_text>P395053</id_text>
+<designation>AfO 46-47, 153</designation>
+</Sheet1>
+<Sheet1>
+<ID>224</ID>
+<id_text>P369040</id_text>
+<designation>KAR 058</designation>
+</Sheet1>
+<Sheet1>
+<ID>225</ID>
+<id_text>P397852</id_text>
+<designation>AOAT 258, pl. 18</designation>
+</Sheet1>
+<Sheet1>
+<ID>226</ID>
+<id_text>P397231</id_text>
+<designation>AOAT 258, pl. 17</designation>
+</Sheet1>
+<Sheet1>
+<ID>227</ID>
+<id_text>P286010</id_text>
+<designation>CT 51, 149</designation>
+</Sheet1>
+<Sheet1>
+<ID>228</ID>
+<id_text>P348615</id_text>
+<designation>SpTU 2, 010</designation>
+</Sheet1>
+<Sheet1>
+<ID>229</ID>
+<id_text>P348614</id_text>
+<designation>SpTU 2, 009</designation>
+</Sheet1>
+<Sheet1>
+<ID>230</ID>
+<id_text>P413963</id_text>
+<designation>LKA 051</designation>
+</Sheet1>
+<Sheet1>
+<ID>231</ID>
+<id_text>P394919</id_text>
+<designation>AOAT 034, 016</designation>
+</Sheet1>
+<Sheet1>
+<ID>232</ID>
+<id_text>P348613</id_text>
+<designation>SpTU 2, 008</designation>
+</Sheet1>
+<Sheet1>
+<ID>233</ID>
+<id_text>P399407</id_text>
+<designation>AOAT 258, pl. 20</designation>
+</Sheet1>
+<Sheet1>
+<ID>234</ID>
+<id_text>P414042</id_text>
+<designation>LKA 132</designation>
+</Sheet1>
+<Sheet1>
+<ID>235</ID>
+<id_text>P394517</id_text>
+<designation>BMS 40</designation>
+</Sheet1>
+<Sheet1>
+<ID>236</ID>
+<id_text>P238182</id_text>
+<designation>OrNS 36, pl. 60</designation>
+</Sheet1>
+<Sheet1>
+<ID>237</ID>
+<id_text>P374899</id_text>
+<designation>BaF 18, 527-528</designation>
+</Sheet1>
+<Sheet1>
+<ID>238</ID>
+<id_text>P480758</id_text>
+<designation>SFS Ist Si 0011 + Ist Si 0107</designation>
+</Sheet1>
+<Sheet1>
+<ID>239</ID>
+<id_text>P369259</id_text>
+<designation>KAR 293</designation>
+</Sheet1>
+<Sheet1>
+<ID>240</ID>
+<id_text>P369260</id_text>
+<designation>KAR 294</designation>
+</Sheet1>
+<Sheet1>
+<ID>241</ID>
+<id_text>P369219</id_text>
+<designation>KAR 254</designation>
+</Sheet1>
+<Sheet1>
+<ID>242</ID>
+<id_text>P369082</id_text>
+<designation>KAR 101</designation>
+</Sheet1>
+<Sheet1>
+<ID>243</ID>
+<id_text>P369103</id_text>
+<designation>KAR 124</designation>
+</Sheet1>
+<Sheet1>
+<ID>244</ID>
+<id_text>P480787</id_text>
+<designation>RA 024, 31</designation>
+</Sheet1>
+<Sheet1>
+<ID>245</ID>
+<id_text>P395001</id_text>
+<designation>AOAT 034, 024</designation>
+</Sheet1>
+<Sheet1>
+<ID>246</ID>
+<id_text>P425889</id_text>
+<designation>AOAT 034, 002</designation>
+</Sheet1>
+<Sheet1>
+<ID>247</ID>
+<id_text>P480781</id_text>
+<designation>AOAT 258, pls. 1-2</designation>
+</Sheet1>
+<Sheet1>
+<ID>248</ID>
+<id_text>P413950</id_text>
+<designation>LKA 039 + KAL 4, 66</designation>
+</Sheet1>
+<Sheet1>
+<ID>249</ID>
+<id_text>P480759</id_text>
+<designation>SFS Ist Si 0018</designation>
+</Sheet1>
+<Sheet1>
+<ID>250</ID>
+<id_text>P480762</id_text>
+<designation>AOAT 258, pl. 15 Ist Si 0884</designation>
+</Sheet1>
+<Sheet1>
+<ID>251</ID>
+<id_text>P480763</id_text>
+<designation>AOAT 258, pl. 15 Ist Si 0904</designation>
+</Sheet1>
+<Sheet1>
+<ID>252</ID>
+<id_text>P401954</id_text>
+<designation>AOAT 034, 017</designation>
+</Sheet1>
+<Sheet1>
+<ID>253</ID>
+<id_text>P413964</id_text>
+<designation>LKA 052</designation>
+</Sheet1>
+<Sheet1>
+<ID>254</ID>
+<id_text>P338375</id_text>
+<designation>STT 1, 057 + STT 2, 263</designation>
+</Sheet1>
+<Sheet1>
+<ID>255</ID>
+<id_text>P338376</id_text>
+<designation>STT 1, 058</designation>
+</Sheet1>
+<Sheet1>
+<ID>256</ID>
+<id_text>P400203</id_text>
+<designation>BMS 23</designation>
+</Sheet1>
+<Sheet1>
+<ID>257</ID>
+<id_text>P413928</id_text>
+<designation>LKA 025</designation>
+</Sheet1>
+<Sheet1>
+<ID>258</ID>
+<id_text>P281823</id_text>
+<designation>BAM 3, 316</designation>
+</Sheet1>
+<Sheet1>
+<ID>259</ID>
+<id_text>P397530</id_text>
+<designation>K 08183</designation>
+</Sheet1>
+<Sheet1>
+<ID>260</ID>
+<id_text>P398750</id_text>
+<designation>BMS 26</designation>
+</Sheet1>
+<Sheet1>
+<ID>261</ID>
+<id_text>P413967</id_text>
+<designation>LKA 055</designation>
+</Sheet1>
+<Sheet1>
+<ID>262</ID>
+<id_text>P400144</id_text>
+<designation>AOAT 034, 068</designation>
+</Sheet1>
+<Sheet1>
+<ID>263</ID>
+<id_text>P452711</id_text>
+<designation>AOAT 034, 069</designation>
+</Sheet1>
+<Sheet1>
+<ID>264</ID>
+<id_text>P397532</id_text>
+<designation>BMS 51</designation>
+</Sheet1>
+<Sheet1>
+<ID>265</ID>
+<id_text>P395010</id_text>
+<designation>BAM 5, 502 + OrNS 59, 485</designation>
+</Sheet1>
+<Sheet1>
+<ID>266</ID>
+<id_text>P396503</id_text>
+<designation>BMS 52</designation>
+</Sheet1>
+<Sheet1>
+<ID>267</ID>
+<id_text>P369223</id_text>
+<designation>KAR 258</designation>
+</Sheet1>
+<Sheet1>
+<ID>268</ID>
+<id_text>P384982</id_text>
+<designation>OECT 06, pl. 30, K 02824</designation>
+</Sheet1>
+<Sheet1>
+<ID>269</ID>
+<id_text>P426430</id_text>
+<designation>AOAT 034, 023</designation>
+</Sheet1>
+<Sheet1>
+<ID>270</ID>
+<id_text>P451877</id_text>
+<designation>AOAT 034, 022</designation>
+</Sheet1>
+<Sheet1>
+<ID>271</ID>
+<id_text>P338378</id_text>
+<designation>STT 1, 060</designation>
+</Sheet1>
+<Sheet1>
+<ID>272</ID>
+<id_text>P338552</id_text>
+<designation>STT 2, 233</designation>
+</Sheet1>
+<Sheet1>
+<ID>273</ID>
+<id_text>P338379</id_text>
+<designation>STT 1, 061</designation>
+</Sheet1>
+<Sheet1>
+<ID>274</ID>
+<id_text>P338442</id_text>
+<designation>STT 2, 122</designation>
+</Sheet1>
+<Sheet1>
+<ID>275</ID>
+<id_text>P258853</id_text>
+<designation>PBS 01/1, 12</designation>
+</Sheet1>
+<Sheet1>
+<ID>276</ID>
+<id_text>P402403</id_text>
+<designation>AOAT 034, 021</designation>
+</Sheet1>
+<Sheet1>
+<ID>277</ID>
+<id_text>P369037</id_text>
+<designation>KAR 055</designation>
+</Sheet1>
+<Sheet1>
+<ID>278</ID>
+<id_text>P413962</id_text>
+<designation>LKA 049</designation>
+</Sheet1>
+<Sheet1>
+<ID>279</ID>
+<id_text>P400603</id_text>
+<designation>AOAT 034, 077</designation>
+</Sheet1>
+<Sheet1>
+<ID>280</ID>
+<id_text>P363722</id_text>
+<designation>TCL 06, 50</designation>
+</Sheet1>
+<Sheet1>
+<ID>281</ID>
+<id_text>P402733</id_text>
+<designation>OrNS 59, 486 (= K.17386) = BaF 18, 549</designation>
+</Sheet1>
+<Sheet1>
+<ID>282</ID>
+<id_text>P369192</id_text>
+<designation>KAR 228</designation>
+</Sheet1>
+<Sheet1>
+<ID>283</ID>
+<id_text>P425779</id_text>
+<designation>Sm 1155</designation>
+</Sheet1>
+<Sheet1>
+<ID>284</ID>
+<id_text>P369216</id_text>
+<designation>KAR 252</designation>
+</Sheet1>
+<Sheet1>
+<ID>285</ID>
+<id_text>P395923</id_text>
+<designation>AOAT 258, pl. 8</designation>
+</Sheet1>
+<Sheet1>
+<ID>286</ID>
+<id_text>P394947</id_text>
+<designation>AOAT 258, pls. 3-4</designation>
+</Sheet1>
+<Sheet1>
+<ID>287</ID>
+<id_text>P395221</id_text>
+<designation>AOAT 258, pl. 5</designation>
+</Sheet1>
+<Sheet1>
+<ID>288</ID>
+<id_text>P404498</id_text>
+<designation>OrNS 59, 487 (= K.19713)</designation>
+</Sheet1>
+<Sheet1>
+<ID>289</ID>
+<id_text>P413966</id_text>
+<designation>LKA 054</designation>
+</Sheet1>
+<Sheet1>
+<ID>290</ID>
+<id_text>P363580</id_text>
+<designation>CTN 4, 166</designation>
+</Sheet1>
+<Sheet1>
+<ID>291</ID>
+<id_text>P398200</id_text>
+<designation>K 09578</designation>
+</Sheet1>
+<Sheet1>
+<ID>292</ID>
+<id_text>P397768</id_text>
+<designation>BMS 47</designation>
+</Sheet1>
+<Sheet1>
+<ID>293</ID>
+<id_text>P425716</id_text>
+<designation>AOAT 034, 082</designation>
+</Sheet1>
+<Sheet1>
+<ID>294</ID>
+<id_text>P338387</id_text>
+<designation>STT 1, 069</designation>
+</Sheet1>
+<Sheet1>
+<ID>295</ID>
+<id_text>P397923</id_text>
+<designation>AOAT 034, 032</designation>
+</Sheet1>
+<Sheet1>
+<ID>296</ID>
+<id_text>P395006</id_text>
+<designation>AOAT 034, 031</designation>
+</Sheet1>
+<Sheet1>
+<ID>297</ID>
+<id_text>P400250</id_text>
+<designation>BMS 43</designation>
+</Sheet1>
+<Sheet1>
+<ID>298</ID>
+<id_text>P413961</id_text>
+<designation>LKA 048</designation>
+</Sheet1>
+<Sheet1>
+<ID>299</ID>
+<id_text>P480767</id_text>
+<designation>LKA 048a</designation>
+</Sheet1>
+<Sheet1>
+<ID>300</ID>
+<id_text>P347218</id_text>
+<designation>VS 24, 099</designation>
+</Sheet1>
+<Sheet1>
+<ID>301</ID>
+<id_text>P413972</id_text>
+<designation>LKA 060</designation>
+</Sheet1>
+<Sheet1>
+<ID>302</ID>
+<id_text>P398833</id_text>
+<designation>AOAT 034, 084</designation>
+</Sheet1>
+<Sheet1>
+<ID>303</ID>
+<id_text>P400938</id_text>
+<designation>AOAT 034, 085</designation>
+</Sheet1>
+<Sheet1>
+<ID>304</ID>
+<id_text>P401350</id_text>
+<designation>AOAT 034, 087</designation>
+</Sheet1>
+<Sheet1>
+<ID>305</ID>
+<id_text>P401368</id_text>
+<designation>AOAT 034, 088</designation>
+</Sheet1>
+<Sheet1>
+<ID>306</ID>
+<id_text>P402140</id_text>
+<designation>AOAT 034, 089</designation>
+</Sheet1>
+<Sheet1>
+<ID>307</ID>
+<id_text>P400939</id_text>
+<designation>AOAT 034, 086</designation>
+</Sheet1>
+<Sheet1>
+<ID>308</ID>
+<id_text>P451942</id_text>
+<designation>AOAT 034, 090</designation>
+</Sheet1>
+<Sheet1>
+<ID>309</ID>
+<id_text>P451943</id_text>
+<designation>AOAT 034, 091</designation>
+</Sheet1>
+<Sheet1>
+<ID>310</ID>
+<id_text>P452899</id_text>
+<designation>BMS 38</designation>
+</Sheet1>
+<Sheet1>
+<ID>311</ID>
+<id_text>P400689</id_text>
+<designation>BMS 44</designation>
+</Sheet1>
+<Sheet1>
+<ID>312</ID>
+<id_text>P452504</id_text>
+<designation>BMS 45</designation>
+</Sheet1>
+<Sheet1>
+<ID>313</ID>
+<id_text>P414169</id_text>
+<designation>LKU 027</designation>
+</Sheet1>
+<Sheet1>
+<ID>314</ID>
+<id_text>P396802</id_text>
+<designation>BMS 55</designation>
+</Sheet1>
+<Sheet1>
+<ID>315</ID>
+<id_text>P424775</id_text>
+<designation>Rm 0446</designation>
+</Sheet1>
+<Sheet1>
+<ID>316</ID>
+<id_text>P398870</id_text>
+<designation>K 10757</designation>
+</Sheet1>
+<Sheet1>
+<ID>317</ID>
+<id_text>P403490</id_text>
+<designation>K 18258</designation>
+</Sheet1>
+<Sheet1>
+<ID>318</ID>
+<id_text>P404383</id_text>
+<designation>K 19577</designation>
+</Sheet1>
+<Sheet1>
+<ID>319</ID>
+<id_text>P480782</id_text>
+<designation>BM 51402 + BM 51632 + BM 53097</designation>
+</Sheet1>
+<Sheet1>
+<ID>320</ID>
+<id_text>P480783</id_text>
+<designation>BM 53363</designation>
+</Sheet1>
+<Sheet1>
+<ID>321</ID>
+<id_text>P480784</id_text>
+<designation>BM 69302 </designation>
+</Sheet1>
+<Sheet1>
+<ID>322</ID>
+<id_text>P480785</id_text>
+<designation>BM 40517 </designation>
+</Sheet1>
+<Sheet1>
+<ID>323</ID>
+<id_text>P480786</id_text>
+<designation>BM 41267 </designation>
+</Sheet1>
+<Sheet1>
+<ID>324</ID>
+<id_text>P480812</id_text>
+<designation>BM 32039</designation>
+</Sheet1>
+<Sheet1>
+<ID>325</ID>
+<id_text>P369256</id_text>
+<designation>KAR 290</designation>
+</Sheet1>
+</dataroot>

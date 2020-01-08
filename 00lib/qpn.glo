@@ -1,0 +1,25 @@
+@project	caspo
+@name		qpn
+@lang		qpn
+
+@letter A
+
+@entry Anšar [1] DN
+@form AN.ŠAR₂ %akk-x-stdbab $Anšar
+@sense DN 1
+@end entry
+
+@letter E
+
+@entry Ellil [1] DN
+@form {d}EN.LIL₂ %akk-x-stdbab $Ellil
+@sense DN 1
+@end entry
+
+@letter N
+
+@entry Ninurta [1] DN
+@form {d}MAŠ %akk-x-stdbab $Ninurta
+@sense DN 1
+@end entry
+
