@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-12-11T15:08:57">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-02-15T22:05:17">
 <cdliclone>
 <ID>1</ID>
 <id_text>P398671</id_text>
@@ -493,7 +493,7 @@
 <CDLI_url>www.cdli.ucla.edu/P338374</CDLI_url>
 <q_numbers>Q006065, Q006153</q_numbers>
 <outline_of_contents>SB Šuʾilla Prayer to Ea 2 (o1-17), a scribal note? (o18), SB Šuʾilla Prayer to Sin 1 (o19-28, r1-8), a scribal note? (r9), colophon (r10-18)</outline_of_contents>
-<transliterations>Van Buylaere 2010</transliterations>
+<transliterations>Van Buylaere 2010; Mayer 1976: 491-492 (lines 1-14 only); Butler 1998: 381-387</transliterations>
 <further_literature>Gurney and Finkelstein 1957: 5</further_literature>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
@@ -552,10 +552,10 @@
 <publication_date>1919</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P369009</CDLI_url>
 <q_numbers>Q006067, Q006101, Q006116, Q006117, Q006121, Q006122, Q006163</q_numbers>
-<transliterations>Ebeling 1953: 10-13, 64-65 (MS C), 14-21; Abusch and Schwemer 2016: 342-346 (Nabu 2 only); Mayer 1976: 469-471 (Nabu 2 only)</transliterations>
+<outline_of_contents>SB Šuʾilla Prayer to Nabu 1 (o i 1-19), rubric (o i 20), with ritual (o i 21-28), SB Šuʾilla Prayer to Marduk 2 (o i 29-55), rubric (o i 56), SB Šuʾilla Prayer to Marduk 18 (o i 57-69, ii 1), rubric (o ii 2a), with ritual (o ii 2b), SB Šuʾilla Prayer to Marduk 19 (o ii 3-24), rubric (o ii 25), with ritual (o ii 26), SB Šuʾilla Prayer to Nabu 2 (o ii 27-60), rubric (o ii 61), with ritual (o ii 62), SB Šuʾilla Prayer to Sin 9 (r i 1ˊ-11ˊ), rubric (r i 12ˊ), with ritual (r i 13ˊ-20), SB Šuʾilla Prayer to Enlil 1b (r i 21ˊ-33ˊ), unidentified ritual instructions (r ii 1ˊ-2ˊ), colophon (r ii 3ˊ-16ˊ = Hunger 1968, no. 235)</outline_of_contents>
+<transliterations>Ebeling 1953: 10-13, 64-65 (MS C), 14-21; Abusch and Schwemer 2016: 342-346 (Nabu 2 only); Mayer 1976: 469-471 (Nabu 2 only); Oshima 2011: 383-385 (Marduk 18 only)</transliterations>
 <further_literature>Oshima 2011: 110 joins this tablet to KAR 023. See his plates XXXIV-XXXVI; and see already Ebeling 1919: 325.</further_literature>
 <collated_x003F_>1</collated_x003F_>
-<Field69>SB Šuʾilla Prayer to Nabu 1 (o i 1-20) with ritual (o i 21-28), SB Šuʾilla Prayer to Marduk 2 (o i 29-38), SB Šuʾilla Prayer to Marduk 18 (o ii 1-2a) with ritual (o ii 2b), SB Šuʾilla Prayer to Marduk 19 (o ii 3-25) with ritual (o ii 26), SB Šuʾilla Praye</Field69>
 </cdliclone>
 <cdliclone>
 <ID>28</ID>
@@ -822,7 +822,7 @@
 <ID>41</ID>
 <id_text>P395590</id_text>
 <designation>AOAT 034, 012</designation>
-<_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>K 10729 = BMS 4 MS B</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
+<_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>K 10729 = BMS 4B</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
 <accession_no>K 04494 + K 14706 + K 10729</accession_no>
 <author>Loretz, Oswald &amp; Mayer, Walter</author>
 <collection>British Museum, London, UK</collection>
@@ -836,7 +836,7 @@
 <CDLI_url>www.cdli.ucla.edu/P395590</CDLI_url>
 <q_numbers>Q006072, Q006153</q_numbers>
 <outline_of_contents>SB Šuʾilla Prayer to Gula 1b (1ˊ-22ˊ), SB Šuʾilla Prayer to Sin 1 (23ˊ)</outline_of_contents>
-<transliterations>Mayer 1976: 455-457</transliterations>
+<transliterations>King 1896: 25-26 (4B = K. 10729 only); Mayer 1976: 456-457</transliterations>
 <further_literature>Loretz and Mayer 1978: X</further_literature>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
@@ -987,61 +987,24 @@
 <cdliclone>
 <ID>49</ID>
 <id_text>P397497</id_text>
-<designation>BMS 48</designation>
-<_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>This and following two: AOAT 034, 015 (+) BMS 08 + K.9083 + BMS 48</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
-<accession_no>K 08116</accession_no>
-<author>King, Leonard W.</author>
+<designation>BMS 48 + ZA 042, 221-222 = BMS 05 (K.6019 + K.7243 = AOAT 034, 015), BMS 08 + Iraq 76, 108-109 (K.9083)</designation>
+<accession_no>K 02396 + K 03893 + K 06019 + K 07243 + K 08116 + K 09083</accession_no>
+<author>King, Leonard W.; Geers, F. W.; Loretz, Oswald &amp; Mayer, Walter; Jiménez, Enrique</author>
 <collection>British Museum, London, UK</collection>
 <material>clay</material>
 <museum_no>BM —</museum_no>
 <object_type>tablet</object_type>
 <period>Neo-Assyrian (ca. 911-612 BC)</period>
-<primary_publication>BMS 48</primary_publication>
+<primary_publication>BMS 48 + ZA 042, 221-222 = BMS 05 (K.6019 + K.7243 = AOAT 034, 015), BMS 08 + Iraq 76, 108-109 (K.9083)</primary_publication>
 <provenience>Nineveh (mod. Kuyunjik)</provenience>
-<publication_date>1896</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P397497</CDLI_url>
-<q_numbers>Q006099, Q006184, Q006058</q_numbers>
-<outline_of_contents>SB Šuʾilla Prayer to Madanu 1 (o1-14), SB Šuʾilla Prayer to Zappu 1 (r1ˊ-2ˊ), catchline to Anu 1 (r3ˊ), and Ashurbanipal colophon type c (r4ˊ-14ˊ)</outline_of_contents>
-<transliterations>Ambos 2013: 198, 200; Ebeling 1953: 144; Mayer 1976: 460-461 (obv. only)</transliterations>
-<further_literature>See P397901 and P394400</further_literature>
+<q_numbers>Q006099, Q006184, Q006058, Q006075</q_numbers>
+<outline_of_contents>SB Šuʾilla Prayer to Madanu 1 (o1-26), rubric (o27), SB Šuʾilla Prayer to Ishtar 1 (o28-46, r1-19), rubric (r20a), with ritual instructions (r20b-21), SB Šuʾilla Prayer to Zappu 1 (r22-31), rubric (r32), catchline to SB Šuʾilla Prayer to Anu 1 (r33), Bit Sala&apos; Me series information (r34a), and Ashurbanipal colophon type c (r34b-44)</outline_of_contents>
+<transliterations>Ambos 2013: 198-202; Zgoll 2003: 192-197 (Ishtar 1 only); Ebeling 1953: 60-62, 144; Mayer 1976: 460-461 (Madanu 1 only); King 1896: 29 (K.6019 only), 41-42 (K.2396 + K.3893 only), 112 (K.8116 only); Jiménez 2014: 108-109 (K.9083 and proximate joins)</transliterations>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
 <ID>50</ID>
-<id_text>P394400</id_text>
-<designation>ZA 042, 221-222 = BMS 05 (K.6019 + K.7243 = AOAT 034, 015), BMS 08</designation>
-<accession_no>K 02396 + K 03893 + K 06019 + K 07243</accession_no>
-<author>Geers, F. W.</author>
-<collection>British Museum, London, UK</collection>
-<material>clay</material>
-<museum_no>BM —</museum_no>
-<object_type>tablet</object_type>
-<period>Neo-Assyrian (ca. 911-612 BC)</period>
-<primary_publication>ZA 042, 221-222</primary_publication>
-<provenience>Nineveh (mod. Kuyunjik)</provenience>
-<publication_date>1934</publication_date>
-<CDLI_url>www.cdli.ucla.edu/P394400</CDLI_url>
-<q_numbers>Q006075, Q006099, Q006184</q_numbers>
-</cdliclone>
-<cdliclone>
-<ID>51</ID>
-<id_text>P397901</id_text>
-<designation>Iraq 76, 108-109</designation>
-<_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_> = K.9083</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
-<accession_no>K 09083</accession_no>
-<author>nn</author>
-<collection>British Museum, London, UK</collection>
-<material>clay</material>
-<museum_no>BM —</museum_no>
-<object_type>tablet</object_type>
-<period>Neo-Assyrian (ca. 911-612 BC)</period>
-<primary_publication>unpublished unassigned ?</primary_publication>
-<provenience>Nineveh (mod. Kuyunjik)</provenience>
-<CDLI_url>www.cdli.ucla.edu/P397901</CDLI_url>
-<q_numbers>Q006184, Q006184</q_numbers>
-</cdliclone>
-<cdliclone>
-<ID>52</ID>
 <id_text>P369214</id_text>
 <designation>KAR 250</designation>
 <author>Ebeling, Erich</author>
@@ -1060,7 +1023,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>53</ID>
+<ID>51</ID>
 <id_text>P237223</id_text>
 <designation>AOAT 034, 014</designation>
 <accession_no>K 06179 + 1882-05-22, 0496</accession_no>
@@ -1081,7 +1044,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>54</ID>
+<ID>52</ID>
 <id_text>P480768</id_text>
 <designation>OrNS 59, 488 (= BM 57532)</designation>
 <accession_no>AH 1882-07-14, 1943</accession_no>
@@ -1101,7 +1064,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>55</ID>
+<ID>53</ID>
 <id_text>P480769</id_text>
 <designation>OrNS 59, 489 </designation>
 <accession_no>1882-07-14, 4326 + 1882-09-18, 11656 + 1882-09-18, 13437</accession_no>
@@ -1122,7 +1085,7 @@
 <Field69>No picture is available. Needs collation.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>56</ID>
+<ID>54</ID>
 <id_text>P394701</id_text>
 <designation>AOAT 034, 001 + Or 59, 486 (= K.17283)</designation>
 <accession_no>K 02823 + K 03332 + K 11347 + K 11722 + K 15427 + K 17283</accession_no>
@@ -1137,12 +1100,12 @@
 <CDLI_url>www.cdli.ucla.edu/P394701</CDLI_url>
 <q_numbers>Q006075, Q006153</q_numbers>
 <outline_of_contents> SB Šuʾilla Prayer to Sin 1 (o1-29, r1-8); catchline to  SB Šuʾilla Prayer to Ištar 1 (r9)</outline_of_contents>
-<transliterations>King 1896, no. 1A (K.3332 only)</transliterations>
+<transliterations>King 1896: 3 (BMS 1a = K.3332 only); Ebeling 1953: 6 (BMS 1a only); Mayer 1976: 490-494 (without K. 17283); Butler 1998: 381-389</transliterations>
 <further_literature>Loretz and Mayer 1978: IX</further_literature>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>57</ID>
+<ID>55</ID>
 <id_text>P208501</id_text>
 <designation>JCS 21, 255-262</designation>
 <accession_no>1898-05-14, 0005</accession_no>
@@ -1157,9 +1120,12 @@
 <publication_date>1967</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P208501</CDLI_url>
 <q_numbers>Q006076, Q006077</q_numbers>
+<outline_of_contents> SB Šuʾilla Prayer to Ištar 2 (o1-56, r1-49), rubric (r50), with ritual instructions (r51-54), catchline to SB Šuʾilla Prayer to Ištar 3 (r55), and colophon (r56-57)</outline_of_contents>
+<transliterations>Ebeling 1953: 130-137; Reiner and Güterbock 1967: 257-262 (obv.); Zgoll 2003: 42-54; Zernecke 2011: 82-149</transliterations>
+<collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>58</ID>
+<ID>56</ID>
 <id_text>P395002</id_text>
 <designation>AOAT 034, 078</designation>
 <accession_no>K 03417</accession_no>
@@ -1175,12 +1141,12 @@
 <CDLI_url>www.cdli.ucla.edu/P395002</CDLI_url>
 <q_numbers>Q006076</q_numbers>
 <outline_of_contents> SB Šuʾilla Prayer to Ištar 2 (1ˊ-16ˊ)</outline_of_contents>
-<transliterations>Zgoll 2003: 47-48</transliterations>
+<transliterations>Zgoll 2003: 47-48; Reiner and Güterbock 1967: 262-263</transliterations>
 <further_literature>Loretz and Mayer 1978: XIV</further_literature>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>59</ID>
+<ID>57</ID>
 <id_text>P402979</id_text>
 <designation>OrNS 59, 487 (= K.17519)</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>This and following may (indirectly) join back to back.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -1202,7 +1168,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>60</ID>
+<ID>58</ID>
 <id_text>P402853</id_text>
 <designation>OrNS 59, 487 (= K.17668)</designation>
 <accession_no>K 17668</accession_no>
@@ -1223,7 +1189,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>61</ID>
+<ID>59</ID>
 <id_text>P480770</id_text>
 <designation>OrNS 59, 488 (= BM 34318)</designation>
 <accession_no>Sp 0432</accession_no>
@@ -1245,7 +1211,7 @@
 <Field69>No picture is available. Needs collation.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>62</ID>
+<ID>60</ID>
 <id_text>P363596</id_text>
 <designation>CTN 4, 182</designation>
 <author>Wiseman, Donald J. &amp; Black, Jeremy A.</author>
@@ -1267,21 +1233,26 @@
 <Field69>No picture is available. Needs collation.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>63</ID>
+<ID>61</ID>
 <id_text>P445792</id_text>
 <designation>KUB 37, 036 + (?) KUB 37, 037</designation>
+<author>Köcher, Franz</author>
 <collection>Anadolu Medeniyetleri Müzesi, Ankara, Turkey</collection>
 <material>clay</material>
-<museum_no>151/b + (?) 772/b + 77/c</museum_no>
+<museum_no>77/c + 151/b (+) 772/b</museum_no>
 <object_type>tablet</object_type>
 <period>Middle Hittite (ca. 1500-1100 BC)</period>
-<primary_publication>KUB 37, 036 + (?) KUB 37, 037</primary_publication>
+<primary_publication>KUB 37, 036 (+) KUB 37, 037</primary_publication>
 <provenience>Ḫattusa (mod. Boğazkale)</provenience>
+<publication_date>1953</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P445792</CDLI_url>
 <q_numbers>Q006076</q_numbers>
+<outline_of_contents>Early version of SB Šuʾilla Prayer to Ištar 2 (o ii 5ˊ-29ˊ, iii 1ˊ-12ˊ, r i 1ˊ-6ˊ), rubric (r i 7ˊ), and unidentified lines (r i 8ˊ-9ˊ)</outline_of_contents>
+<transliterations>Zgoll 2003: 55-59; Reiner and Güterbock 1967: 257-262; Zernecke 2011: 82-149</transliterations>
+<collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>64</ID>
+<ID>62</ID>
 <id_text>P480748</id_text>
 <designation>KAL 4, 55 </designation>
 <author>Maul, Stefan &amp; Strauß, Rita</author>
@@ -1300,7 +1271,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>65</ID>
+<ID>63</ID>
 <id_text>P283536</id_text>
 <designation>KAL 4, 56</designation>
 <author>Maul, Stefan &amp; Strauß, Rita</author>
@@ -1319,7 +1290,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>66</ID>
+<ID>64</ID>
 <id_text>P396808</id_text>
 <designation>AOAT 034, 079</designation>
 <accession_no>K 06800</accession_no>
@@ -1336,11 +1307,11 @@
 <q_numbers>Q000000</q_numbers>
 <outline_of_contents>Three lines of an unidentified prayer (o1ˊ-3ˊ) and then another unidentified prayer that looks a lot like SB Šuʾilla Prayer to Ištar 2 (o4ˊ-12ˊ, r1ˊ-6ˊ)</outline_of_contents>
 <transliterations>Reiner and Güterbock 1967: 263</transliterations>
-<further_literature>Mayer 1976: 389; Loretz and Mayer 1978: XV; Zgoll 2003: 41</further_literature>
+<further_literature>Mayer 1976: 389; Loretz and Mayer 1978: XV; Zgoll 2003: 41; Lambert Folio 9067</further_literature>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>67</ID>
+<ID>65</ID>
 <id_text>P348681</id_text>
 <designation>SpTU 3, 077</designation>
 <author>Von Weiher, Egbert</author>
@@ -1361,7 +1332,7 @@
 <Field69>only with copy</Field69>
 </cdliclone>
 <cdliclone>
-<ID>68</ID>
+<ID>66</ID>
 <id_text>P395021</id_text>
 <designation>BMS 30</designation>
 <accession_no>K 03448</accession_no>
@@ -1381,7 +1352,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>69</ID>
+<ID>67</ID>
 <id_text>P398458</id_text>
 <designation>AOAT 034, 064</designation>
 <accession_no>K 10037</accession_no>
@@ -1398,11 +1369,11 @@
 <q_numbers>Q006078</q_numbers>
 <outline_of_contents>SB Šuʾilla Prayer to Ištar 4 (1ˊ-14ˊ)</outline_of_contents>
 <transliterations>Mayer 1976:  458-459; Zgoll 2003: 184-185</transliterations>
-<further_literature>Loretz and Mayer 1978: XIII</further_literature>
+<further_literature>Loretz and Mayer 1978: XIII; Geers Copies N084</further_literature>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>70</ID>
+<ID>68</ID>
 <id_text>P425646</id_text>
 <designation>AOAT 034, 065</designation>
 <accession_no>Sm 0882</accession_no>
@@ -1419,11 +1390,11 @@
 <q_numbers>Q006078, Q006080</q_numbers>
 <outline_of_contents>Ritual instructions (1ˊ-4ˊ; to Ishtar 4? // BMS 30, r8-11) and then a catchline of a prayer to a goddess (5ˊ; Ishtar 6?).</outline_of_contents>
 <transliterations>None</transliterations>
-<further_literature>Loretz and Mayer 1978: XIII; Mayer 1976: 389</further_literature>
+<further_literature>Loretz and Mayer 1978: XIII; Mayer 1976: 389; Geers Copies N084</further_literature>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>71</ID>
+<ID>69</ID>
 <id_text>P397106</id_text>
 <designation>BMS 31</designation>
 <accession_no>K 07207 + K 09675 + K 13274</accession_no>
@@ -1443,7 +1414,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>72</ID>
+<ID>70</ID>
 <id_text>P394962</id_text>
 <designation>BMS 32</designation>
 <accession_no>K 03358 + K 09047</accession_no>
@@ -1464,7 +1435,7 @@
 <Field69>No picture is available. Needs collation.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>73</ID>
+<ID>71</ID>
 <id_text>P397810</id_text>
 <designation>BMS 39</designation>
 <accession_no>K 08930</accession_no>
@@ -1484,7 +1455,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>74</ID>
+<ID>72</ID>
 <id_text>P348680</id_text>
 <designation>SpTU 3, 076</designation>
 <author>Von Weiher, Egbert</author>
@@ -1505,7 +1476,7 @@
 <Field69>copy only</Field69>
 </cdliclone>
 <cdliclone>
-<ID>75</ID>
+<ID>73</ID>
 <id_text>P399537</id_text>
 <designation>OrNS 59, 486 (= K.11951)</designation>
 <accession_no>K 11951</accession_no>
@@ -1527,7 +1498,7 @@
 <Field69>copy only</Field69>
 </cdliclone>
 <cdliclone>
-<ID>76</ID>
+<ID>74</ID>
 <id_text>P480760</id_text>
 <designation>SFS Ist Si 0059</designation>
 <author>Scheil, Vincent</author>
@@ -1548,7 +1519,7 @@
 <Field69>copy only</Field69>
 </cdliclone>
 <cdliclone>
-<ID>77</ID>
+<ID>75</ID>
 <id_text>P480788</id_text>
 <designation>AOAT 308, 108</designation>
 <author>Zgoll, A.</author>
@@ -1567,7 +1538,7 @@
 <Field69>copy only</Field69>
 </cdliclone>
 <cdliclone>
-<ID>78</ID>
+<ID>76</ID>
 <id_text>P480749</id_text>
 <designation>KAL 4, 57</designation>
 <author>Maul, Stefan &amp; Strauß, Rita</author>
@@ -1587,7 +1558,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>79</ID>
+<ID>77</ID>
 <id_text>P395020</id_text>
 <designation>LSS 2/4, pl. 4</designation>
 <accession_no>K 03447 + K 11152 + K 13728</accession_no>
@@ -1609,7 +1580,7 @@
 <transliterations_x0020_are_x0020_only_x0020_references_x0020_to_x0020_places_x0020_that_x0020_actually_x0020_tra>Zgoll notes: W.R. Mayers zu diesem Text finden sich Or.58 (1989) 268 ad 50a. (2003: 277, n.546)</transliterations_x0020_are_x0020_only_x0020_references_x0020_to_x0020_places_x0020_that_x0020_actually_x0020_tra>
 </cdliclone>
 <cdliclone>
-<ID>80</ID>
+<ID>78</ID>
 <id_text>P413970</id_text>
 <designation>LKA 058</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>K534c (obv) and 533c (rev) in Ebeling 1953: 152</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -1629,7 +1600,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>81</ID>
+<ID>79</ID>
 <id_text>P393826</id_text>
 <designation>AMD 8/1, pls. 068-074</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>this and following six join directly or indirectly (see AMD 8/1, 318-319)</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -1646,7 +1617,7 @@
 <q_numbers>Q006086</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>82</ID>
+<ID>80</ID>
 <id_text>P418166</id_text>
 <designation>AMD 8/1, pls. 068-074</designation>
 <accession_no>K 06789</accession_no>
@@ -1662,7 +1633,7 @@
 <q_numbers>Q006086</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>83</ID>
+<ID>81</ID>
 <id_text>P394765</id_text>
 <designation>AMD 8/1, pls. 068-074</designation>
 <accession_no>K 03000</accession_no>
@@ -1678,7 +1649,7 @@
 <q_numbers>Q006086</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>84</ID>
+<ID>82</ID>
 <id_text>P397102</id_text>
 <designation>AMD 8/1, pls. 068-074</designation>
 <accession_no>K 07201 + K 10819</accession_no>
@@ -1694,7 +1665,7 @@
 <q_numbers>Q006086</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>85</ID>
+<ID>83</ID>
 <id_text>P397974</id_text>
 <designation>AMD 8/1, pls. 068-074</designation>
 <accession_no>K 09216 + K 17621</accession_no>
@@ -1710,7 +1681,7 @@
 <q_numbers>Q006086</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>86</ID>
+<ID>84</ID>
 <id_text>P396933</id_text>
 <designation>AMD 8/1, pls. 068-074</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Need to add to Oracc cat</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -1727,7 +1698,7 @@
 <q_numbers>Q006086</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>87</ID>
+<ID>85</ID>
 <id_text>P480789</id_text>
 <designation>KAL f.c.</designation>
 <accession_no>VAT 13960</accession_no>
@@ -1741,7 +1712,7 @@
 <q_numbers>Q006086</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>88</ID>
+<ID>86</ID>
 <id_text>P398848</id_text>
 <designation>AMD 8/1, pl. 096 (= K.10722)</designation>
 <accession_no>K 10722</accession_no>
@@ -1757,7 +1728,7 @@
 <q_numbers>Q006086</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>89</ID>
+<ID>87</ID>
 <id_text>P401364</id_text>
 <designation>AMD 8/1, pl. 096 (= K.15445)</designation>
 <accession_no>K 15445</accession_no>
@@ -1773,7 +1744,7 @@
 <q_numbers>Q006086</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>90</ID>
+<ID>88</ID>
 <id_text>P370903</id_text>
 <designation>AMD 8/1, pls. 104-105</designation>
 <accession_no>K 00066</accession_no>
@@ -1790,7 +1761,7 @@
 <transliterations>Zgoll 2003: 287-288</transliterations>
 </cdliclone>
 <cdliclone>
-<ID>91</ID>
+<ID>89</ID>
 <id_text>P480771</id_text>
 <designation>AMD 8/1, pl. 106</designation>
 <accession_no>1882-09-18, 06620 + 1882-09-18, 06651</accession_no>
@@ -1804,7 +1775,7 @@
 <q_numbers>Q006087</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>92</ID>
+<ID>90</ID>
 <id_text>P394506</id_text>
 <designation>BID, pl. 3</designation>
 <accession_no>K 02550 + K 03284 + K 11961 + K 14835 + K 07826 + K 16729 + K 04993 + K 06679 + K 07008 + K 08087</accession_no>
@@ -1821,7 +1792,7 @@
 <q_numbers>Q006089</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>93</ID>
+<ID>91</ID>
 <id_text>P369024</id_text>
 <designation>KAR 042</designation>
 <author>Ebeling, Erich</author>
@@ -1837,7 +1808,7 @@
 <q_numbers>Q006089</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>94</ID>
+<ID>92</ID>
 <id_text>P402446</id_text>
 <designation>OrNS 59, 486 (= K.17059)</designation>
 <accession_no>K 17059</accession_no>
@@ -1858,7 +1829,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>95</ID>
+<ID>93</ID>
 <id_text>P363582</id_text>
 <designation>CTN 4, 168</designation>
 <author>Wiseman, Donald J. &amp; Black, Jeremy A.</author>
@@ -1872,10 +1843,10 @@
 <provenience>Kalhu (mod. Nimrud)</provenience>
 <publication_date>1996</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P363582</CDLI_url>
-<q_numbers>Q006091, Q006127, Q006179, Q006141, Q006142, Q006177, Q006178, Q006180, Q006181, Q006182</q_numbers>
+<q_numbers>Q006091, Q006127, Q006179, Q006141, Q006142, Q006177, Q006178</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>96</ID>
+<ID>94</ID>
 <id_text>P480772</id_text>
 <designation>OrNS 59, 484</designation>
 <accession_no>Sp 0183</accession_no>
@@ -1895,7 +1866,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>97</ID>
+<ID>95</ID>
 <id_text>P480773</id_text>
 <designation>OrNS 59, 483 (= BM 34984)</designation>
 <accession_no>Sp 2, 0508</accession_no>
@@ -1915,7 +1886,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>98</ID>
+<ID>96</ID>
 <id_text>P394690</id_text>
 <designation>BMS 56</designation>
 <accession_no>K 02810</accession_no>
@@ -1935,7 +1906,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>99</ID>
+<ID>97</ID>
 <id_text>P423293</id_text>
 <designation>AOAT 034, 070</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Lambert/Millard Second Supp., p. 81, p. 82: // BM 123388 and BM 134801; also, K.21583; Third Supp. (1992), p.64</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -1956,7 +1927,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>100</ID>
+<ID>98</ID>
 <id_text>P286069</id_text>
 <designation>CT 51, 208</designation>
 <accession_no>1932-12-10, 0331</accession_no>
@@ -1977,7 +1948,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>101</ID>
+<ID>99</ID>
 <id_text>P419851</id_text>
 <designation>K 21583</designation>
 <accession_no>K 21583</accession_no>
@@ -1997,7 +1968,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>102</ID>
+<ID>100</ID>
 <id_text>P369106</id_text>
 <designation>KAR 127</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>KAR 127 (+) VAT 10778 (unp.; no entry in this catalog) + KAR 297 (= VAT 10784) + KAR 256 (= VAT 11127)</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -2018,7 +1989,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>103</ID>
+<ID>101</ID>
 <id_text>P369264</id_text>
 <designation>KAR 297</designation>
 <author>Ebeling, Erich</author>
@@ -2034,7 +2005,7 @@
 <q_numbers>Q006096, Q006138, Q006139</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>104</ID>
+<ID>102</ID>
 <id_text>P369221</id_text>
 <designation>KAR 256</designation>
 <author>Ebeling, Erich</author>
@@ -2051,7 +2022,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>105</ID>
+<ID>103</ID>
 <id_text>P259025</id_text>
 <designation>PBS 01/2, 110</designation>
 <author>Lutz, Henry F.</author>
@@ -2070,7 +2041,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>106</ID>
+<ID>104</ID>
 <id_text>P422423</id_text>
 <designation>AOAT 034, 081</designation>
 <accession_no>1930-05-08, 0035</accession_no>
@@ -2090,7 +2061,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>107</ID>
+<ID>105</ID>
 <id_text>P452956</id_text>
 <designation>BAM 5, 461</designation>
 <accession_no>1882-03-23, 0003 + 1882-05-22, 0544</accession_no>
@@ -2111,7 +2082,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>108</ID>
+<ID>106</ID>
 <id_text>P400175</id_text>
 <designation>BAM 5, 462</designation>
 <accession_no>K 13235 + K 13451</accession_no>
@@ -2131,7 +2102,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>109</ID>
+<ID>107</ID>
 <id_text>P394688</id_text>
 <designation>BMS 50</designation>
 <accession_no>K 02808 + K 09490</accession_no>
@@ -2151,7 +2122,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>110</ID>
+<ID>108</ID>
 <id_text>P394705</id_text>
 <designation>AOAT 034, 013</designation>
 <accession_no>K 02830</accession_no>
@@ -2171,7 +2142,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>111</ID>
+<ID>109</ID>
 <id_text>P345531</id_text>
 <designation>CT 44, 22</designation>
 <accession_no>1888-05-12 Bu, 0131</accession_no>
@@ -2191,7 +2162,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>112</ID>
+<ID>110</ID>
 <id_text>P413955</id_text>
 <designation>LKA 043</designation>
 <author>Ebeling, Erich</author>
@@ -2211,7 +2182,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>113</ID>
+<ID>111</ID>
 <id_text>P413956</id_text>
 <designation>LKA 044</designation>
 <author>Ebeling, Erich</author>
@@ -2231,7 +2202,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>114</ID>
+<ID>112</ID>
 <id_text>P413957</id_text>
 <designation>LKA 045</designation>
 <author>Ebeling, Erich</author>
@@ -2251,7 +2222,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>115</ID>
+<ID>113</ID>
 <id_text>P413958</id_text>
 <designation>KAL 4, 59</designation>
 <author>Maul, Stefan &amp; Strauß, Rita</author>
@@ -2271,7 +2242,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>116</ID>
+<ID>114</ID>
 <id_text>P480750</id_text>
 <designation>KAL 4, 58</designation>
 <author>Maul, Stefan &amp; Strauß, Rita</author>
@@ -2291,7 +2262,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>117</ID>
+<ID>115</ID>
 <id_text>P393771</id_text>
 <designation>BMS 01</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Of the 62 texts in King 1896, nos. 17, 35, 53, 59, 60, 61, and 62 are not in this catalog (to my knowledge). On nos. 35, 59, 60, 61, and 62, see Ebeling 1953: 4 (nos. 59-62 are namburbi&apos;s).</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -2308,12 +2279,12 @@
 <CDLI_url>www.cdli.ucla.edu/P393771</CDLI_url>
 <q_numbers>Q006075, Q006099, Q006143, Q006153, Q006177</q_numbers>
 <outline_of_contents>SB Šuʾilla Prayer to Sin 1 (o1-28), SB Šuʾilla Prayer to Ishtar 1 (o29-35), SB Šuʾilla Prayer to Tashmetu 1 (r1ˊ-17ˊ), catchline to  SB Šuʾilla Prayer to Nusku 1 / Madanu 1 (r18ˊ), Ashurbanipal colophon c (r19ˊ-26ˊ)</outline_of_contents>
-<transliterations>Combe 1908: 103-104 (Sin 1 only); Ebeling 1953: 6-8 (Sin 1), 60 (A) (Ishtar 1), 124-126 (A) (Tashmetu1 ); King 1896: 3-16</transliterations>
+<transliterations>King 1896: 3-16; Combe 1908: 103-104 (Sin 1 only); Ebeling 1953: 6-8 (Sin 1), 60 (A) (Ishtar 1), 124-126 (A) (Tashmetu 1); Mayer 1976: 491-494 (Sin 1 only); Butler 1998: 381-389</transliterations>
 <collated_x003F_>1</collated_x003F_>
 <transliterations_x0020_are_x0020_only_x0020_references_x0020_to_x0020_places_x0020_that_x0020_actually_x0020_tra>I need to go through Combe&apos;s book systematically.</transliterations_x0020_are_x0020_only_x0020_references_x0020_to_x0020_places_x0020_that_x0020_actually_x0020_tra>
 </cdliclone>
 <cdliclone>
-<ID>118</ID>
+<ID>116</ID>
 <id_text>P395051</id_text>
 <designation>BA 5, 385</designation>
 <accession_no>K 03505b</accession_no>
@@ -2333,7 +2304,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>119</ID>
+<ID>117</ID>
 <id_text>P480757</id_text>
 <designation>SFS Ist Si 0007</designation>
 <author>Scheil, Vincent</author>
@@ -2353,7 +2324,7 @@
 <transliterations_x0020_are_x0020_only_x0020_references_x0020_to_x0020_places_x0020_that_x0020_actually_x0020_tra>SB Šuʾilla Prayer to Marduk 1 (o1-29)</transliterations_x0020_are_x0020_only_x0020_references_x0020_to_x0020_places_x0020_that_x0020_actually_x0020_tra>
 </cdliclone>
 <cdliclone>
-<ID>120</ID>
+<ID>118</ID>
 <id_text>P363583</id_text>
 <designation>CTN 4, 169</designation>
 <author>Wiseman, Donald J. &amp; Black, Jeremy A.</author>
@@ -2375,10 +2346,10 @@
 <Field69>copy only</Field69>
 </cdliclone>
 <cdliclone>
-<ID>121</ID>
+<ID>119</ID>
 <id_text>P394707</id_text>
 <designation>K 02832 + K 06680</designation>
-<_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>See UFBG, 399; a catalog</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
+<_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>See UFBG, 399; a catalog; to be removed.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
 <accession_no>K 02832 + K 06680</accession_no>
 <author>nn</author>
 <collection>British Museum, London, UK</collection>
@@ -2392,7 +2363,7 @@
 <q_numbers>Q006100, Q006101, Q006113, Q006116</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>122</ID>
+<ID>120</ID>
 <id_text>P394498</id_text>
 <designation>K 02538 + K 02554 + K 03188 + K 05329 + K 04936 + K 06161 + K 10150 + K 16016 + K 09379</designation>
 <accession_no>K 02538 + K 02554 + K 03188 + K 05329 + K 04936 + K 06161 + K 10150 + K 16016 + K 09379</accession_no>
@@ -2408,7 +2379,7 @@
 <q_numbers>Q006101</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>123</ID>
+<ID>121</ID>
 <id_text>P384934</id_text>
 <designation>K 04664 (= OECT 6, pl. 02) + K 05030</designation>
 <accession_no>K 04664 + K 05030</accession_no>
@@ -2425,7 +2396,7 @@
 <q_numbers>Q006101</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>124</ID>
+<ID>122</ID>
 <id_text>P424816</id_text>
 <designation>ORA 7, pl. 29 (=Rm.517)</designation>
 <accession_no>Rm 0517</accession_no>
@@ -2444,7 +2415,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>125</ID>
+<ID>123</ID>
 <id_text>P394511</id_text>
 <designation>BMS 09</designation>
 <accession_no>K 02558 + K 09152</accession_no>
@@ -2464,7 +2435,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>126</ID>
+<ID>124</ID>
 <id_text>P398574</id_text>
 <designation>AOAT 034, 027</designation>
 <accession_no>K 10243</accession_no>
@@ -2484,7 +2455,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>127</ID>
+<ID>125</ID>
 <id_text>P480774</id_text>
 <designation>AOAT 034, 026</designation>
 <author>Loretz, Oswald &amp; Mayer, Walter</author>
@@ -2502,7 +2473,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>128</ID>
+<ID>126</ID>
 <id_text>P425453</id_text>
 <designation>BMS 54</designation>
 <accession_no>Sm 0512</accession_no>
@@ -2523,7 +2494,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>129</ID>
+<ID>127</ID>
 <id_text>P338373</id_text>
 <designation>STT 1, 055</designation>
 <author>Gurney, Oliver R.</author>
@@ -2545,7 +2516,7 @@
 <Field69>Only with copy. The tablet was in the Urfa Museum when I visited Ankara in 2015.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>130</ID>
+<ID>128</ID>
 <id_text>P259033</id_text>
 <designation>PBS 01/2, 108</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Corrected here 5/24/17 from PBS 01/2, 118. Needs to be corrected on Oracc</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -2565,7 +2536,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>131</ID>
+<ID>129</ID>
 <id_text>P348616</id_text>
 <designation>SpTU 2, 011</designation>
 <author>Von Weiher, Egbert</author>
@@ -2582,7 +2553,7 @@
 <q_numbers>Q006101</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>132</ID>
+<ID>130</ID>
 <id_text>P398642</id_text>
 <designation>AOAT 034, 028</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Indirectly joins with P402158; so Mayer 1976: 395; AOAT 34, XVI.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -2604,7 +2575,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>133</ID>
+<ID>131</ID>
 <id_text>P402158</id_text>
 <designation>AOAT 034, 029</designation>
 <accession_no>K 16689 + K 16696</accession_no>
@@ -2625,7 +2596,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>134</ID>
+<ID>132</ID>
 <id_text>P401539</id_text>
 <designation>AOAT 034, 030</designation>
 <accession_no>K 15748</accession_no>
@@ -2645,7 +2616,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>135</ID>
+<ID>133</ID>
 <id_text>P393803</id_text>
 <designation>BMS 11</designation>
 <accession_no>K 00235 + K 03334</accession_no>
@@ -2662,11 +2633,11 @@
 <q_numbers>Q006103, Q006108</q_numbers>
 <outline_of_contents>SB Šuʾilla Prayer to Marduk 4 (o1-13, r1-11) with ritual (r12-15), catchline to Marduk 9 (r16), and Ashurbanipal colophon type i (r17-20)</outline_of_contents>
 <transliterations>Mayer 2004: 201-205; Ebeling 1953: 72-75; King 1896: 51-54</transliterations>
-<further_literature>Mayer 2004: 199</further_literature>
+<further_literature>Mayer 2004: 199; Geers Copies N084</further_literature>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>136</ID>
+<ID>134</ID>
 <id_text>P394918</id_text>
 <designation>AOAT 034, 035 + K.5922 + K. 15808</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>indirect join with next, presumed in Mayer 2004: 200; AOAT 34, XVI</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -2689,7 +2660,7 @@
 <Field69>collations in UF 12 (1980): 423. Need to find this article.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>137</ID>
+<ID>135</ID>
 <id_text>P396615</id_text>
 <designation>AOAT 034, 036</designation>
 <accession_no>K 06537 + K 10348</accession_no>
@@ -2711,7 +2682,7 @@
 <Field69>collations in UF 12 (1980): 423. Need to find this article.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>138</ID>
+<ID>136</ID>
 <id_text>P398438</id_text>
 <designation>AOAT 034, 037</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>indirect join with next, acc. to ORA 7, p. 111 and presumed in Mayer 2004: 200; AOAT 34, XVI</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -2733,7 +2704,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>139</ID>
+<ID>137</ID>
 <id_text>P400177</id_text>
 <designation>AOAT 034, 038</designation>
 <accession_no>K 13237</accession_no>
@@ -2754,7 +2725,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>140</ID>
+<ID>138</ID>
 <id_text>P240249</id_text>
 <designation>AOAT 034, 039</designation>
 <accession_no>Sm 0219</accession_no>
@@ -2775,7 +2746,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>141</ID>
+<ID>139</ID>
 <id_text>P413973</id_text>
 <designation>LKA 061 + KAL 4, 61</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Indirect join.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -2795,7 +2766,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>142</ID>
+<ID>140</ID>
 <id_text>P480751</id_text>
 <designation>KAL 4, 60</designation>
 <author>Maul, Stefan &amp; Strauß, Rita</author>
@@ -2818,7 +2789,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>143</ID>
+<ID>141</ID>
 <id_text>P363594</id_text>
 <designation>CTN 4, 180</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>I have only seen this tablet in CTN 4&apos;s copy.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -2839,7 +2810,7 @@
 <further_literature>Wiseman and Black 1996: 27; Oshima 2011: 122-123</further_literature>
 </cdliclone>
 <cdliclone>
-<ID>144</ID>
+<ID>142</ID>
 <id_text>P393775</id_text>
 <designation>BMS 12 + AOAT 034, 040 + OrNS 59, 487 (= K.20155) + K.15430</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>See AMT 1, 1 and BMS 12</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -2861,7 +2832,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>145</ID>
+<ID>143</ID>
 <id_text>P394839</id_text>
 <designation>AOAT 034, 042</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>this and following four indirectly join; AOAT 34, XVI</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -2883,7 +2854,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>146</ID>
+<ID>144</ID>
 <id_text>P396760</id_text>
 <designation>AOAT 034, 041</designation>
 <accession_no>K 06733</accession_no>
@@ -2904,7 +2875,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>147</ID>
+<ID>145</ID>
 <id_text>P397419</id_text>
 <designation>AOAT 034, 044</designation>
 <accession_no>K 07984</accession_no>
@@ -2925,7 +2896,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>148</ID>
+<ID>146</ID>
 <id_text>P398898</id_text>
 <designation>AOAT 034, 043</designation>
 <accession_no>K 10807</accession_no>
@@ -2946,7 +2917,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>149</ID>
+<ID>147</ID>
 <id_text>P402817</id_text>
 <designation>OrNS 59, 487 (= K.17478)</designation>
 <accession_no>K 17478</accession_no>
@@ -2967,7 +2938,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>150</ID>
+<ID>148</ID>
 <id_text>P394385</id_text>
 <designation>AOAT 034, 046</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>this and following indirectly join possibly acc. to AOAT 34, XVI</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -2989,7 +2960,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>151</ID>
+<ID>149</ID>
 <id_text>P426307</id_text>
 <designation>AOAT 034, 045</designation>
 <accession_no>Sm 2149</accession_no>
@@ -3010,7 +2981,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>152</ID>
+<ID>150</ID>
 <id_text>P480752</id_text>
 <designation>KAL 4, 62</designation>
 <author>Maul, Stefan &amp; Strauß, Rita</author>
@@ -3030,7 +3001,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>153</ID>
+<ID>151</ID>
 <id_text>P394887</id_text>
 <designation>BMS 13</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>this and following indirectly join; AOAT 34, XVI</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -3052,7 +3023,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>154</ID>
+<ID>152</ID>
 <id_text>P400171</id_text>
 <designation>AOAT 034, 047</designation>
 <accession_no>K 13231</accession_no>
@@ -3073,7 +3044,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>155</ID>
+<ID>153</ID>
 <id_text>P394675</id_text>
 <designation>BMS 14</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>this and following indirectly join; AOAT 34, XVI</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -3095,7 +3066,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>156</ID>
+<ID>154</ID>
 <id_text>P394934</id_text>
 <designation>AOAT 034, 048</designation>
 <accession_no>K 03310</accession_no>
@@ -3116,7 +3087,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>157</ID>
+<ID>155</ID>
 <id_text>P338452</id_text>
 <designation>STT 2, 132</designation>
 <author>Gurney, Oliver R. &amp; Hulin, Peter</author>
@@ -3136,142 +3107,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>158</ID>
-<id_text>P451943</id_text>
-<designation>AOAT 034, 091</designation>
-<accession_no>1879-07-08, 0332</accession_no>
-<author>Loretz, Oswald &amp; Mayer, Walter</author>
-<collection>British Museum, London, UK</collection>
-<material>clay</material>
-<museum_no>BM —</museum_no>
-<object_type>tablet</object_type>
-<period>Neo-Assyrian (ca. 911-612 BC)</period>
-<primary_publication>AOAT 034, 091</primary_publication>
-<provenience>unspecified</provenience>
-<publication_date>1978</publication_date>
-<CDLI_url>www.cdli.ucla.edu/P451943</CDLI_url>
-<q_numbers>Q000000</q_numbers>
-<outline_of_contents>Unidentified SB Šu&apos;illa Prayer (o1ˊ-4ˊ), Šu&apos;illa Prayer rubric (r1ˊ), ritual instructions (r2ˊ-4ˊ), catchline to incantation-prayer Dilbat 3 (r5ˊ), and perhaps a colophon (r6ˊ)</outline_of_contents>
-<transliterations>None</transliterations>
-<further_literature>Loretz and Mayer 1978: XVI; Mayer 1976: 429</further_literature>
-</cdliclone>
-<cdliclone>
-<ID>159</ID>
-<id_text>P452899</id_text>
-<designation>BMS 38</designation>
-<accession_no>1891-05-09 Bu, 0016</accession_no>
-<author>King, Leonard W.</author>
-<collection>British Museum, London, UK</collection>
-<material>clay</material>
-<museum_no>BM —</museum_no>
-<object_type>tablet</object_type>
-<period>Neo-Assyrian (ca. 911-612 BC)</period>
-<primary_publication>BMS 38</primary_publication>
-<provenience>Nineveh (mod. Kuyunjik)</provenience>
-<publication_date>1896</publication_date>
-<CDLI_url>www.cdli.ucla.edu/P452899</CDLI_url>
-<q_numbers>Q000000</q_numbers>
-<outline_of_contents>Unidentified SB Šu&apos;illa Prayer (r1ˊ-2ˊ), (Šu&apos;illa Prayer?) rubric (r3ˊ), ritual instructions (r4ˊ), catchline to incantation-prayer (r5ˊ), colophon (r6ˊ-7ˊ)</outline_of_contents>
-<transliterations>King 1896: 104</transliterations>
-<further_literature>Ebeling 1953: 4</further_literature>
-<collated_x003F_>1</collated_x003F_>
-</cdliclone>
-<cdliclone>
-<ID>160</ID>
-<id_text>P400689</id_text>
-<designation>BMS 44</designation>
-<accession_no>K 14210</accession_no>
-<author>King, Leonard W.</author>
-<collection>British Museum, London, UK</collection>
-<material>clay</material>
-<museum_no>BM —</museum_no>
-<object_type>tablet</object_type>
-<period>Neo-Assyrian (ca. 911-612 BC)</period>
-<primary_publication>BMS 44</primary_publication>
-<provenience>Nineveh (mod. Kuyunjik)</provenience>
-<publication_date>1896</publication_date>
-<CDLI_url>www.cdli.ucla.edu/P400689</CDLI_url>
-<q_numbers>Q000000</q_numbers>
-<outline_of_contents>Unidentified SB Šu&apos;illa Prayer (o1ˊ), Šu&apos;illa Prayer rubric (o2ˊ), ritual instructions (o3-5ˊ), one unidentified line (o6ˊ)</outline_of_contents>
-<transliterations>King 1896: 107</transliterations>
-<further_literature>Ebeling 1953: 4</further_literature>
-<collated_x003F_>1</collated_x003F_>
-</cdliclone>
-<cdliclone>
-<ID>161</ID>
-<id_text>P452504</id_text>
-<designation>BMS 45</designation>
-<accession_no>1882-03-23, 0119</accession_no>
-<author>King, Leonard W.</author>
-<collection>British Museum, London, UK</collection>
-<material>clay</material>
-<museum_no>BM —</museum_no>
-<object_type>tablet</object_type>
-<period>Neo-Assyrian (ca. 911-612 BC)</period>
-<primary_publication>BMS 45</primary_publication>
-<provenience>Nineveh (mod. Kuyunjik)</provenience>
-<publication_date>1896</publication_date>
-<CDLI_url>www.cdli.ucla.edu/P452504</CDLI_url>
-<q_numbers>Q000000</q_numbers>
-<outline_of_contents>Unidentified SB Šu&apos;illa Prayer (o1ˊ-3ˊ), Šu&apos;illa Prayer rubric (o4ˊ), ritual instructions(?) (o5ˊ), five unidentified lines (r1ˊ-5ˊ)</outline_of_contents>
-<transliterations>King 1896: 108</transliterations>
-<further_literature>Ebeling 1953: 4</further_literature>
-<collated_x003F_>1</collated_x003F_>
-</cdliclone>
-<cdliclone>
-<ID>162</ID>
-<id_text>P414169</id_text>
-<designation>LKU 027</designation>
-<author>Falkenstein, Adam</author>
-<collection>Vorderasiatisches Museum, Berlin, Germany</collection>
-<material>clay</material>
-<museum_no>VAT 14502</museum_no>
-<object_type>tablet</object_type>
-<period>Neo-Babylonian (ca. 626-539 BC) ?</period>
-<primary_publication>LKU 027</primary_publication>
-<provenience>Uruk (mod. Warka)</provenience>
-<publication_date>1931</publication_date>
-<CDLI_url>www.cdli.ucla.edu/P414169</CDLI_url>
-<q_numbers>Q000000</q_numbers>
-</cdliclone>
-<cdliclone>
-<ID>163</ID>
-<id_text>P396802</id_text>
-<designation>BMS 55</designation>
-<accession_no>K 06792</accession_no>
-<author>King, Leonard W.</author>
-<collection>British Museum, London, UK</collection>
-<material>clay</material>
-<museum_no>BM —</museum_no>
-<object_type>tablet</object_type>
-<period>Neo-Assyrian (ca. 911-612 BC)</period>
-<primary_publication>BMS 55</primary_publication>
-<provenience>Nineveh (mod. Kuyunjik)</provenience>
-<publication_date>1896</publication_date>
-<CDLI_url>www.cdli.ucla.edu/P396802</CDLI_url>
-<q_numbers>Q000000</q_numbers>
-<outline_of_contents>One unidentified line (1ˊ) and then an attalû formula with Ashurbanipal&apos;s name inserted (2ˊ-6ˊ)</outline_of_contents>
-<transliterations>King 1896: 121-122</transliterations>
-<collated_x003F_>1</collated_x003F_>
-</cdliclone>
-<cdliclone>
-<ID>164</ID>
-<id_text>P424775</id_text>
-<designation>Rm 0446</designation>
-<accession_no>Rm 0446</accession_no>
-<author>nn</author>
-<collection>British Museum, London, UK</collection>
-<material>clay</material>
-<museum_no>BM —</museum_no>
-<object_type>tablet</object_type>
-<period>Neo-Assyrian (ca. 911-612 BC)</period>
-<primary_publication>unpublished unassigned ?</primary_publication>
-<provenience>Nineveh (mod. Kuyunjik)</provenience>
-<CDLI_url>www.cdli.ucla.edu/P424775</CDLI_url>
-<q_numbers>Q000000</q_numbers>
-</cdliclone>
-<cdliclone>
-<ID>165</ID>
+<ID>156</ID>
 <id_text>P347219</id_text>
 <designation>VS 24, 100</designation>
 <author>van Dijk, Johannes J. A.</author>
@@ -3286,7 +3122,7 @@
 <q_numbers>Q006109</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>166</ID>
+<ID>157</ID>
 <id_text>P394531</id_text>
 <designation>BMS 15</designation>
 <accession_no>K 02586 + K 07185</accession_no>
@@ -3307,9 +3143,10 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>167</ID>
+<ID>158</ID>
 <id_text>P394881</id_text>
-<designation>BMS 16 + BMS 42 + AOAT 034, 066 + K 08973</designation>
+<designation>BMS 16 + BMS 42  + AOAT 034, 066 + K 08973</designation>
+<_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>BMS 16 + BMS 42 + AOAT 034, 066 + K 08973</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
 <accession_no>K 03221 + K 03250 + K 08973 + K 11681</accession_no>
 <author>King, Leonard W.</author>
 <collection>British Museum, London, UK</collection>
@@ -3321,10 +3158,15 @@
 <provenience>Nineveh (mod. Kuyunjik)</provenience>
 <publication_date>1896</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P394881</CDLI_url>
-<q_numbers>Q006110, Q006111, Q006115</q_numbers>
+<q_numbers>Q006111, Q006115</q_numbers>
+<outline_of_contents>SB Šuʾilla Prayer to Marduk 17 (o1-26, r1ˊ-4ˊ), rubric (5ˊ), with ritual instructions (r6ˊ), catchline to SB Šuʾilla Prayer to Marduk 12 (r7ˊ), and Ashurbanipal colophon c (r8ˊ-20ˊ)</outline_of_contents>
+<transliterations>King 1896: 70-72 (BMS 16 only), 106-107 (BMS 42); Ebeling 1953: 88-91 (BMS 16 + 42 only); Oshima 2011: 373-375 (BMS 16 + BMS 42 + AOAT 034, 066)</transliterations>
+<further_literature>King 1896: 196, 197; Loretz and Mayer 1978: XIII; Mayer 1976: 397</further_literature>
+<collated_x003F_>1</collated_x003F_>
+<Field69>Julian Reade made the joins, 12/10/1979 (http://www.fincke-cuneiform.com/nineveh/joins/)</Field69>
 </cdliclone>
 <cdliclone>
-<ID>168</ID>
+<ID>159</ID>
 <id_text>P397435</id_text>
 <designation>BMS 18</designation>
 <accession_no>K 08009</accession_no>
@@ -3344,7 +3186,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>169</ID>
+<ID>160</ID>
 <id_text>P396811</id_text>
 <designation>AOAT 034, 049</designation>
 <accession_no>K 06804</accession_no>
@@ -3364,7 +3206,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>170</ID>
+<ID>161</ID>
 <id_text>P400441</id_text>
 <designation>OrNS 59, 486 (= K.13740)</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Perhaps belonging to the same tablet as K.6804 (so Mayer 1990: 477).</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -3384,7 +3226,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>171</ID>
+<ID>162</ID>
 <id_text>P396937</id_text>
 <designation>AOAT 034, 050</designation>
 <accession_no>K 06975 + K 11326 + K 11975</accession_no>
@@ -3404,7 +3246,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>172</ID>
+<ID>163</ID>
 <id_text>P369314</id_text>
 <designation>KAR 347</designation>
 <author>Ebeling, Erich</author>
@@ -3423,7 +3265,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>173</ID>
+<ID>164</ID>
 <id_text>P395889</id_text>
 <designation>AOAT 034, 051</designation>
 <accession_no>K 05113</accession_no>
@@ -3444,7 +3286,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>174</ID>
+<ID>165</ID>
 <id_text>P239891</id_text>
 <designation>ORA 7, pl. 30 (= K. 19711)</designation>
 <accession_no>K 19711</accession_no>
@@ -3465,7 +3307,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>175</ID>
+<ID>166</ID>
 <id_text>P480775</id_text>
 <designation>OrNS 59, 478 </designation>
 <accession_no>1882-05-22, 0974</accession_no>
@@ -3484,7 +3326,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>176</ID>
+<ID>167</ID>
 <id_text>P396939</id_text>
 <designation>OrNS 59, 479 (= K.6977 + K.9764 + K.10740)</designation>
 <accession_no>K 06977 + K 09764 + K 10740</accession_no>
@@ -3505,7 +3347,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>177</ID>
+<ID>168</ID>
 <id_text>P397924</id_text>
 <designation>BMS 36</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>addressee uncertain</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -3521,13 +3363,13 @@
 <publication_date>1896</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P397924</CDLI_url>
 <q_numbers>Q006114, Q006115</q_numbers>
-<outline_of_contents>SB Šuʾilla Prayer to Marduk 16(?) (r1ˊ-6ˊ) with ritual instructions (r7ˊ-9ˊ); catchline to SB Šuʾilla Prayer to Marduk 17 (r10ˊ); Ashurbanipal colophon c(?) (r11ˊ-12ˊ)</outline_of_contents>
+<outline_of_contents>SB Šuʾilla Prayer to Marduk 16(?) (r1ˊ-4ˊ), rubric (r5ˊ), with ritual instructions (r6ˊ-8ˊ); catchline to SB Šuʾilla Prayer to Marduk 17 (r9ˊ); Ashurbanipal colophon c(?) (r10ˊ-12ˊ)</outline_of_contents>
 <transliterations>King 1896: 102-103</transliterations>
 <further_literature>Ebeling 1953: 158; Mayer 1976: 397</further_literature>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>178</ID>
+<ID>169</ID>
 <id_text>P397838</id_text>
 <designation>AOAT 034, 071</designation>
 <accession_no>K 08978</accession_no>
@@ -3548,7 +3390,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>179</ID>
+<ID>170</ID>
 <id_text>P425829</id_text>
 <designation>AOAT 034, 072</designation>
 <accession_no>Sm 1250</accession_no>
@@ -3569,7 +3411,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>180</ID>
+<ID>171</ID>
 <id_text>P338368</id_text>
 <designation>STT 1, 050</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>joined?</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -3588,7 +3430,7 @@
 <further_literature>Gurney and Finkelstein 1957: 5 (probably same tablet as STT 51)</further_literature>
 </cdliclone>
 <cdliclone>
-<ID>181</ID>
+<ID>172</ID>
 <id_text>P338369</id_text>
 <designation>STT 1, 051</designation>
 <author>Gurney, Oliver R.</author>
@@ -3609,7 +3451,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>182</ID>
+<ID>173</ID>
 <id_text>P338444</id_text>
 <designation>STT 2, 124</designation>
 <author>Gurney, Oliver R. &amp; Hulin, Peter</author>
@@ -3626,7 +3468,7 @@
 <q_numbers>Q006120</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>183</ID>
+<ID>174</ID>
 <id_text>P397828</id_text>
 <designation>ORA 7, pl. 30 (= K.8961)</designation>
 <accession_no>K 08961</accession_no>
@@ -3640,9 +3482,14 @@
 <provenience>Nineveh (mod. Kuyunjik)</provenience>
 <publication_date>1895</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P397828</CDLI_url>
+<q_numbers>Q000000</q_numbers>
+<outline_of_contents>(SB Šuʾilla?) Prayer to Marduk 1ˊ-13ˊ</outline_of_contents>
+<transliterations>Ebeling 1953: 95-96; Oshima 2011: 382</transliterations>
+<further_literature>Oshima 2011: 118</further_literature>
+<collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>184</ID>
+<ID>175</ID>
 <id_text>P395009</id_text>
 <designation>AOAT 034, 073</designation>
 <accession_no>K 03433</accession_no>
@@ -3663,7 +3510,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>185</ID>
+<ID>176</ID>
 <id_text>P396704</id_text>
 <designation>BMS 58</designation>
 <accession_no>K 06644</accession_no>
@@ -3683,11 +3530,12 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>186</ID>
+<ID>177</ID>
 <id_text>P413951</id_text>
 <designation>LKA 040</designation>
 <author>Ebeling, Erich</author>
 <collection>Vorderasiatisches Museum, Berlin, Germany</collection>
+<excavation_no>17721 bc</excavation_no>
 <material>clay</material>
 <museum_no>VAT 13633</museum_no>
 <object_type>tablet</object_type>
@@ -3696,17 +3544,22 @@
 <provenience>Assur (mod. Qalat Sherqat)</provenience>
 <publication_date>1953</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P413951</CDLI_url>
-<q_numbers>Q006122, Q006178, Q006180, Q006181, Q006182</q_numbers>
+<q_numbers>Q006122, Q006178</q_numbers>
+<outline_of_contents>SB Šuʾilla Prayer to Nabu 2 (o1-29); SB Šuʾilla Prayer to Tašmetu 2 (r1ˊ-11ˊ) with rubric (r12ˊ); colophon (r13ˊ-15ˊ)</outline_of_contents>
+<transliterations>Ebeling 1953: 14-16 (c), 24; Abusch and Schwemer 2016: 342-346 (obv. only); Hunger 1968, no. 199 (colophon)</transliterations>
+<further_literature>Ebeling 1953a: IX; Abusch and Schwemer 2016, pls. 73 for a new copy of the obv.</further_literature>
+<collated_x003F_>1</collated_x003F_>
+<Field69>new copy of obv. in Abusch/Schwemer</Field69>
 </cdliclone>
 <cdliclone>
-<ID>187</ID>
+<ID>178</ID>
 <id_text>P413969</id_text>
 <designation>LKA 057</designation>
 <author>Ebeling, Erich</author>
 <collection>Arkeoloji Müzeleri, Istanbul, Turkey ?</collection>
 <excavation_no>13955 kl</excavation_no>
 <material>clay</material>
-<museum_no>Ist A — ?</museum_no>
+<museum_no>Ist A 172</museum_no>
 <object_type>tablet</object_type>
 <period>Neo-Assyrian (ca. 911-612 BC)</period>
 <primary_publication>LKA 057</primary_publication>
@@ -3714,26 +3567,36 @@
 <publication_date>1953</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P413969</CDLI_url>
 <q_numbers>Q006122</q_numbers>
+<outline_of_contents>SB Šuʾilla Prayer to Nabu 2 (o1-25, r1-6) and rubric (r7)</outline_of_contents>
+<transliterations>Ebeling 1953: 14-18 (D); Abusch and Schwemer 2016: 342-346</transliterations>
+<further_literature>Ebeling 1953a: X</further_literature>
+<collated_x003F_>0</collated_x003F_>
+<Field69>Only used Ebeling&apos;s copy and Abusch/Schwemer transliteration</Field69>
 </cdliclone>
 <cdliclone>
-<ID>188</ID>
+<ID>179</ID>
 <id_text>P413952</id_text>
 <designation>LKA 040a</designation>
 <author>Ebeling, Erich</author>
 <collection>Arkeoloji Müzeleri, Istanbul, Turkey ?</collection>
-<excavation_no>Ass 13955 (sic)</excavation_no>
+<excavation_no>13955 (sic)</excavation_no>
 <material>clay</material>
-<museum_no>Ist A — ?</museum_no>
+<museum_no>Ist A 138</museum_no>
 <object_type>tablet</object_type>
 <period>Neo-Assyrian (ca. 911-612 BC)</period>
 <primary_publication>LKA 040a</primary_publication>
 <provenience>Assur (mod. Qalat Sherqat)</provenience>
 <publication_date>1953</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P413952</CDLI_url>
-<q_numbers>Q006122, Q006178, Q006180, Q006181, Q006182</q_numbers>
+<q_numbers>Q006122, Q006178</q_numbers>
+<outline_of_contents>SB Šuʾilla Prayer to Nabu 2 (o1-23, r1-14), rubric (r15), and catchline to SB Šuʾilla Prayer to Tašmetu 2 (r16)</outline_of_contents>
+<transliterations>Ebeling 1953: 14-18 (E); Abusch and Schwemer 2016: 342-346</transliterations>
+<further_literature>Ebeling 1953a: IX; Abusch and Schwemer 2016, pls. 74-75 for a copy</further_literature>
+<collated_x003F_>1</collated_x003F_>
+<Field69>Used Schwemer&apos;s copy and Abusch/Schwemer transliteration and then checked these with photos from Crisostomo</Field69>
 </cdliclone>
 <cdliclone>
-<ID>189</ID>
+<ID>180</ID>
 <id_text>P393765</id_text>
 <designation>AOAT 034, 054</designation>
 <accession_no>K 00140 + K 03352 + K 08751 + K 10285 + Sm 1359</accession_no>
@@ -3754,7 +3617,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>190</ID>
+<ID>181</ID>
 <id_text>P396461</id_text>
 <designation>AOAT 034, 055</designation>
 <accession_no>K 06334</accession_no>
@@ -3775,7 +3638,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>191</ID>
+<ID>182</ID>
 <id_text>P396845</id_text>
 <designation>AOAT 034, 056</designation>
 <accession_no>K 06853</accession_no>
@@ -3796,7 +3659,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>192</ID>
+<ID>183</ID>
 <id_text>P397764</id_text>
 <designation>AOAT 034, 057</designation>
 <accession_no>K 08803</accession_no>
@@ -3817,7 +3680,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>193</ID>
+<ID>184</ID>
 <id_text>P413968</id_text>
 <designation>KAL 4, 64</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>An unnumbered fragment was placed in the same box as the three joined pieces when I photographed the tablet in March 2013. So far, I do not see a correspondence with the text of Nabu 3.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -3836,7 +3699,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>194</ID>
+<ID>185</ID>
 <id_text>P397840</id_text>
 <designation>AOAT 034, 058</designation>
 <accession_no>K 08982</accession_no>
@@ -3856,7 +3719,7 @@
 <further_literature>Loretz and Mayer 1978: XII</further_literature>
 </cdliclone>
 <cdliclone>
-<ID>195</ID>
+<ID>186</ID>
 <id_text>P413954</id_text>
 <designation>LKA 042</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Why does Mayer mention K.2132 with Nabu 6 in Or 59, 460?</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -3877,7 +3740,7 @@
 <Field69>Only VAT 13649 is available in photographs to collate. The others must be collated from Ebeling&apos;s copy in LKA.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>196</ID>
+<ID>187</ID>
 <id_text>P452611</id_text>
 <designation>AOAT 034, 074</designation>
 <accession_no>1882-05-22, 0515</accession_no>
@@ -3898,7 +3761,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>197</ID>
+<ID>188</ID>
 <id_text>P452366</id_text>
 <designation>OrNS 59, 479 (= 81-2-4, 471)</designation>
 <accession_no>1881-02-04, 0471</accession_no>
@@ -3918,7 +3781,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>198</ID>
+<ID>189</ID>
 <id_text>P257782</id_text>
 <designation>PBS 01/1, 18</designation>
 <author>Myhrman, David W.</author>
@@ -3937,7 +3800,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>199</ID>
+<ID>190</ID>
 <id_text>P480776</id_text>
 <designation>OrNS 59, 480</designation>
 <accession_no>Sp 2, 0493</accession_no>
@@ -3951,9 +3814,13 @@
 <publication_date>1990</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P480776</CDLI_url>
 <q_numbers>Q006126</q_numbers>
+<outline_of_contents>SB Šuʾilla Prayer to Nabu 6 (2ˊ-16ˊ); ornamentations on the cylinder spell out mu-sa-ru-[u₂], &quot;inscription&quot;</outline_of_contents>
+<transliterations>Mayer 1990: 461-462</transliterations>
+<further_literature>Mayer 1990: 460</further_literature>
+<collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>200</ID>
+<ID>191</ID>
 <id_text>P480777</id_text>
 <designation>OrNS 59, 481</designation>
 <accession_no>1882-09-18, 8834</accession_no>
@@ -3967,9 +3834,13 @@
 <publication_date>1990</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P480777</CDLI_url>
 <q_numbers>Q006126</q_numbers>
+<outline_of_contents>SB Šuʾilla Prayer to Nabu 6 (3ˊ-35ˊ); ornamentations on the cylinder spell out [mu]-sa-[ru]-u₂, &quot;inscription&quot;</outline_of_contents>
+<transliterations>Mayer 1990: 461-463</transliterations>
+<further_literature>Mayer 1990: 460</further_literature>
+<collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>201</ID>
+<ID>192</ID>
 <id_text>P480778</id_text>
 <designation>OrNS 59, 482</designation>
 <accession_no>1918-07-12, 0001</accession_no>
@@ -3985,7 +3856,7 @@
 <q_numbers>Q006126</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>202</ID>
+<ID>193</ID>
 <id_text>P349478</id_text>
 <designation>OrNS 59, 483 (= BM 37658)</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>I had this under P480779, but that is now a defunct P-number.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -4005,7 +3876,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>203</ID>
+<ID>194</ID>
 <id_text>P394464</id_text>
 <designation>BMS 02</designation>
 <accession_no>K 02487 + K 02502 + K 02591</accession_no>
@@ -4019,13 +3890,13 @@
 <provenience>Nineveh (mod. Kuyunjik)</provenience>
 <publication_date>1896</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P394464</CDLI_url>
-<q_numbers>Q006178, Q006135, Q006179, Q006127 (Q006180, Q006181, Q006182)</q_numbers>
+<q_numbers>Q006178, Q006135, Q006179, Q006127</q_numbers>
 <outline_of_contents>SB Šuʾilla Prayer to Tašmetu 2 (o1ˊ-10ˊ), SB Šuʾilla Prayer to Ninurta 1 (o11ˊ-23ˊ and r1-19), SB Šuʾilla Prayer to Tašmetu 3 (r20-27)</outline_of_contents>
 <transliterations>Ebeling 1953: 24-27</transliterations>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>204</ID>
+<ID>195</ID>
 <id_text>P395008</id_text>
 <designation>BMS 33</designation>
 <accession_no>K 03432 + K 08147</accession_no>
@@ -4046,7 +3917,7 @@
 <Field69>Rev. 23 still needs to be clarified.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>205</ID>
+<ID>196</ID>
 <id_text>P480755</id_text>
 <designation>SFS Ist Si 0002</designation>
 <author>Scheil, Vincent</author>
@@ -4067,7 +3938,7 @@
 <Field69>Only with the very old photo in Scheil.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>206</ID>
+<ID>197</ID>
 <id_text>P394959</id_text>
 <designation>AOAT 034, 061</designation>
 <accession_no>K 03355 + K 05873 + K 06639 + K 08953 + K 08987 + K 11549 + K 13815 + Sm 0324</accession_no>
@@ -4088,7 +3959,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>207</ID>
+<ID>198</ID>
 <id_text>P394971</id_text>
 <designation>AOAT 034, 067</designation>
 <accession_no>K 03376 + K 11153 + Rm 0582</accession_no>
@@ -4109,7 +3980,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>208</ID>
+<ID>199</ID>
 <id_text>P394381</id_text>
 <designation>BMS 27</designation>
 <accession_no>K 02371 + K 13791</accession_no>
@@ -4129,7 +4000,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>209</ID>
+<ID>200</ID>
 <id_text>P394710</id_text>
 <designation>AOAT 034, 060</designation>
 <accession_no>K 02836 + K 06593 + K 13897</accession_no>
@@ -4150,7 +4021,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>210</ID>
+<ID>201</ID>
 <id_text>P425393</id_text>
 <designation>AOAT 034, 062</designation>
 <accession_no>Sm 0398</accession_no>
@@ -4171,7 +4042,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>211</ID>
+<ID>202</ID>
 <id_text>P425007</id_text>
 <designation>AOAT 034, 063</designation>
 <accession_no>Rm 2, 232</accession_no>
@@ -4192,7 +4063,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>212</ID>
+<ID>203</ID>
 <id_text>P413943</id_text>
 <designation>LKA 030</designation>
 <author>Ebeling, Erich</author>
@@ -4212,7 +4083,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>213</ID>
+<ID>204</ID>
 <id_text>P258542</id_text>
 <designation>PBS 01/2, 119</designation>
 <author>Lutz, Henry F.</author>
@@ -4230,7 +4101,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>214</ID>
+<ID>205</ID>
 <id_text>P480753</id_text>
 <designation>KAL 4, 65 </designation>
 <author>Maul, Stefan &amp; Strauß, Rita</author>
@@ -4250,7 +4121,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>215</ID>
+<ID>206</ID>
 <id_text>P400534</id_text>
 <designation>BMS 29</designation>
 <accession_no>K 13907</accession_no>
@@ -4270,7 +4141,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>216</ID>
+<ID>207</ID>
 <id_text>P396319</id_text>
 <designation>AOAT 034, 059</designation>
 <accession_no>K 06018 + K 08958 + K 12922 + K 13296 + K 14704</accession_no>
@@ -4288,7 +4159,7 @@
 <further_literature>Ebeling 1953: 169</further_literature>
 </cdliclone>
 <cdliclone>
-<ID>217</ID>
+<ID>208</ID>
 <id_text>P397577</id_text>
 <designation>AOAT 034, 075</designation>
 <accession_no>K 08310</accession_no>
@@ -4309,7 +4180,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>218</ID>
+<ID>209</ID>
 <id_text>P480761</id_text>
 <designation>SFS Ist Si 0079 + Ist Si 0115</designation>
 <author>Scheil, Vincent</author>
@@ -4326,7 +4197,7 @@
 <transliterations>Geers Copies Heft AC, 17a</transliterations>
 </cdliclone>
 <cdliclone>
-<ID>219</ID>
+<ID>210</ID>
 <id_text>P480780</id_text>
 <designation>OrNS 40, pl. 15</designation>
 <accession_no>92-7-9, 225</accession_no>
@@ -4342,7 +4213,7 @@
 <q_numbers>Q006131, Q006173</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>220</ID>
+<ID>211</ID>
 <id_text>P394330</id_text>
 <designation>AOAT 034, 076</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>joins to RA 21, 129 = K.2495, see AOAT 34, XVI and below</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -4362,7 +4233,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>221</ID>
+<ID>212</ID>
 <id_text>P394152</id_text>
 <designation>AOAT 034, 004</designation>
 <accession_no>K 02037b</accession_no>
@@ -4382,7 +4253,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>222</ID>
+<ID>213</ID>
 <id_text>P396564</id_text>
 <designation>AOAT 034, 003</designation>
 <accession_no>K 06477 + K 09706</accession_no>
@@ -4404,7 +4275,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>223</ID>
+<ID>214</ID>
 <id_text>P413953</id_text>
 <designation>LKA 041</designation>
 <author>Ebeling, Erich</author>
@@ -4424,7 +4295,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>224</ID>
+<ID>215</ID>
 <id_text>P393796</id_text>
 <designation>OrNS 59, 486 (= K.16934) + AOAT 034, 006</designation>
 <accession_no>K 00223 + K 16934</accession_no>
@@ -4445,7 +4316,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>225</ID>
+<ID>216</ID>
 <id_text>P395147</id_text>
 <designation>AMD 8/1, pls. 084-087</designation>
 <accession_no>K 03648 + K 06196 + K 15966 + Sm 1280</accession_no>
@@ -4462,7 +4333,7 @@
 <q_numbers>Q006135</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>226</ID>
+<ID>217</ID>
 <id_text>P369064</id_text>
 <designation>KAR 083</designation>
 <author>Ebeling, Erich</author>
@@ -4479,7 +4350,7 @@
 <further_literature>Abusch and Schwemer 2016: 382</further_literature>
 </cdliclone>
 <cdliclone>
-<ID>227</ID>
+<ID>218</ID>
 <id_text>P345544</id_text>
 <designation>CT 44, 35</designation>
 <accession_no>1888-05-12 Bu, 0070</accession_no>
@@ -4500,7 +4371,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>228</ID>
+<ID>219</ID>
 <id_text>P396322</id_text>
 <designation>ORA 7, pl. 29 (= K.6028)</designation>
 <accession_no>K 06028</accession_no>
@@ -4521,7 +4392,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>229</ID>
+<ID>220</ID>
 <id_text>P394982</id_text>
 <designation>AOAT 034, 083</designation>
 <accession_no>K 03392</accession_no>
@@ -4542,7 +4413,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>230</ID>
+<ID>221</ID>
 <id_text>P395053</id_text>
 <designation>AfO 46-47, 153</designation>
 <accession_no>K 03508</accession_no>
@@ -4558,7 +4429,7 @@
 <q_numbers>Q006142</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>231</ID>
+<ID>222</ID>
 <id_text>P369040</id_text>
 <designation>KAR 058</designation>
 <author>Ebeling, Erich</author>
@@ -4574,7 +4445,7 @@
 <q_numbers>Q006144, Q006145, Q006146, Q006147, Q006148</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>232</ID>
+<ID>223</ID>
 <id_text>P397852</id_text>
 <designation>AOAT 258, pl. 18</designation>
 <accession_no>K 09000</accession_no>
@@ -4590,7 +4461,7 @@
 <q_numbers>Q006144, Q006146</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>233</ID>
+<ID>224</ID>
 <id_text>P397231</id_text>
 <designation>AOAT 258, pl. 17</designation>
 <accession_no>K 07664 + K 09302 + K 09494</accession_no>
@@ -4606,7 +4477,7 @@
 <q_numbers>Q006144, Q006146</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>234</ID>
+<ID>225</ID>
 <id_text>P286010</id_text>
 <designation>CT 51, 149</designation>
 <accession_no>1932-12-12, 0537</accession_no>
@@ -4623,7 +4494,7 @@
 <q_numbers>Q006144, Q006146</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>235</ID>
+<ID>226</ID>
 <id_text>P348615</id_text>
 <designation>SpTU 2, 010</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>indirect join?</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -4641,7 +4512,7 @@
 <q_numbers>Q006144, Q006146, Q006148</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>236</ID>
+<ID>227</ID>
 <id_text>P348614</id_text>
 <designation>SpTU 2, 009</designation>
 <author>Von Weiher, Egbert</author>
@@ -4658,7 +4529,7 @@
 <q_numbers>Q006144, Q006146, Q006148</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>237</ID>
+<ID>228</ID>
 <id_text>P413963</id_text>
 <designation>LKA 051</designation>
 <author>Ebeling, Erich</author>
@@ -4678,7 +4549,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>238</ID>
+<ID>229</ID>
 <id_text>P394919</id_text>
 <designation>AOAT 034, 016</designation>
 <accession_no>K 03285</accession_no>
@@ -4699,7 +4570,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>239</ID>
+<ID>230</ID>
 <id_text>P348613</id_text>
 <designation>SpTU 2, 008</designation>
 <author>Von Weiher, Egbert</author>
@@ -4716,7 +4587,7 @@
 <q_numbers>Q006146</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>240</ID>
+<ID>231</ID>
 <id_text>P399407</id_text>
 <designation>AOAT 258, pl. 20</designation>
 <accession_no>K 11706 + K 13288</accession_no>
@@ -4732,7 +4603,7 @@
 <q_numbers>Q006146</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>241</ID>
+<ID>232</ID>
 <id_text>P414042</id_text>
 <designation>LKA 132</designation>
 <author>Ebeling, Erich</author>
@@ -4748,7 +4619,7 @@
 <q_numbers>Q006146</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>242</ID>
+<ID>233</ID>
 <id_text>P394517</id_text>
 <designation>BMS 40</designation>
 <accession_no>K 02567</accession_no>
@@ -4765,7 +4636,7 @@
 <q_numbers>Q006149</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>243</ID>
+<ID>234</ID>
 <id_text>P238182</id_text>
 <designation>OrNS 36, pl. 60</designation>
 <accession_no>K 02782</accession_no>
@@ -4782,7 +4653,7 @@
 <q_numbers>Q006151</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>244</ID>
+<ID>235</ID>
 <id_text>P374899</id_text>
 <designation>BaF 18, 527-528</designation>
 <accession_no>1901-10-12, nn</accession_no>
@@ -4797,7 +4668,7 @@
 <q_numbers>Q006151</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>245</ID>
+<ID>236</ID>
 <id_text>P480758</id_text>
 <designation>SFS Ist Si 0011 + Ist Si 0107</designation>
 <author>Scheil, Vincent</author>
@@ -4813,7 +4684,7 @@
 <q_numbers>Q006151</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>246</ID>
+<ID>237</ID>
 <id_text>P369259</id_text>
 <designation>KAR 293</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Maul, BaF 18, 535 copies these together, with VAT 10570e. Photos from VAM show more joins. See KAL 4, no. 10 (VAT 10570e + VAT 10798 + VAT 10799 + VAT 10799a + VAT 11028 + VAT 11929)</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -4830,7 +4701,7 @@
 <q_numbers>Q006151</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>247</ID>
+<ID>238</ID>
 <id_text>P369260</id_text>
 <designation>KAR 294</designation>
 <author>Ebeling, Erich</author>
@@ -4846,7 +4717,7 @@
 <q_numbers>Q006151</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>248</ID>
+<ID>239</ID>
 <id_text>P369219</id_text>
 <designation>KAR 254</designation>
 <author>Ebeling, Erich</author>
@@ -4862,7 +4733,7 @@
 <q_numbers>Q006151</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>249</ID>
+<ID>240</ID>
 <id_text>P369082</id_text>
 <designation>KAR 101</designation>
 <author>Ebeling, Erich</author>
@@ -4878,7 +4749,7 @@
 <q_numbers>Q006151</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>250</ID>
+<ID>241</ID>
 <id_text>P369103</id_text>
 <designation>KAR 124</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>KAR 124 and 241 may belong to the same tablet as KAR 254, 293, 294; see KAL 4, p. 11. Maul 1994: 536 copies these tablets (KAR 124,241) as directly joining.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -4895,7 +4766,7 @@
 <q_numbers>Q006151</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>251</ID>
+<ID>242</ID>
 <id_text>P480787</id_text>
 <designation>RA 024, 31</designation>
 <author>Scheil, Vincent</author>
@@ -4913,7 +4784,7 @@
 <Field69>with copy only</Field69>
 </cdliclone>
 <cdliclone>
-<ID>252</ID>
+<ID>243</ID>
 <id_text>P395001</id_text>
 <designation>AOAT 034, 024</designation>
 <accession_no>K 03416 + K 09069</accession_no>
@@ -4933,7 +4804,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>253</ID>
+<ID>244</ID>
 <id_text>P425889</id_text>
 <designation>AOAT 034, 002</designation>
 <accession_no>Sm 1382</accession_no>
@@ -4949,11 +4820,12 @@
 <CDLI_url>www.cdli.ucla.edu/P425889</CDLI_url>
 <q_numbers>Q006153</q_numbers>
 <outline_of_contents>SB Šuʾilla Prayer to Sin 1 (1ˊ-5ˊ)</outline_of_contents>
+<transliterations>King 1896: 3 (BMS 1b); Ebeling 1953: 6; Mayer 1976: 491; Butler 1998: 382-383</transliterations>
 <further_literature>Loretz and Mayer 1978: IX</further_literature>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>254</ID>
+<ID>245</ID>
 <id_text>P480781</id_text>
 <designation>AOAT 258, pls. 1-2</designation>
 <accession_no>1888-05-12 Bu, 0335</accession_no>
@@ -4967,7 +4839,7 @@
 <q_numbers>Q006153</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>255</ID>
+<ID>246</ID>
 <id_text>P413950</id_text>
 <designation>LKA 039 + KAL 4, 66</designation>
 <author>Ebeling, Erich / Maul, Stefan &amp; Strauß, Rita</author>
@@ -4982,7 +4854,7 @@
 <q_numbers>Q006153</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>256</ID>
+<ID>247</ID>
 <id_text>P480759</id_text>
 <designation>SFS Ist Si 0018</designation>
 <accession_no>Ist Si 0018</accession_no>
@@ -5004,7 +4876,7 @@
 <Field69>I could only base my transliteration off of the editions of Sin 1 in Mayer 1976 and Butler 1998. The ritual instructions are not transliterated in Mayer; Butler does not attempt to give a sign-by-sign transliteration, only what Combe provided in 1908. Req</Field69>
 </cdliclone>
 <cdliclone>
-<ID>257</ID>
+<ID>248</ID>
 <id_text>P480762</id_text>
 <designation>AOAT 258, pl. 15 Ist Si 0884</designation>
 <accession_no>Ist Si 0884</accession_no>
@@ -5020,12 +4892,13 @@
 <CDLI_url>www.cdli.ucla.edu/P480762</CDLI_url>
 <q_numbers>Q006153</q_numbers>
 <outline_of_contents>SB Šuʾilla Prayer to Sin 1 (o1-7), r1ˊ-3ˊ contains ritual instructions (probably belonging with Sin 1)</outline_of_contents>
+<transliterations>Mayer 1976: 491; Butler 1998: 381-383</transliterations>
 <further_literature>Geers Copy Ac p. 36</further_literature>
 <collated_x003F_>1</collated_x003F_>
 <Field69>with Geers copy</Field69>
 </cdliclone>
 <cdliclone>
-<ID>258</ID>
+<ID>249</ID>
 <id_text>P480763</id_text>
 <designation>AOAT 258, pl. 15 Ist Si 0904</designation>
 <accession_no>Ist Si 0904</accession_no>
@@ -5041,12 +4914,13 @@
 <CDLI_url>www.cdli.ucla.edu/P480763</CDLI_url>
 <q_numbers>Q006153</q_numbers>
 <outline_of_contents>SB Šuʾilla Prayer to Sin 1 (o1ˊ, r1-4) with ritual instructions (r5-7)</outline_of_contents>
+<transliterations>Mayer 1976: 394; Butler 1998: 388-390</transliterations>
 <further_literature>Geers Copy Ac p. 36</further_literature>
 <collated_x003F_>1</collated_x003F_>
 <Field69>with Geers copy</Field69>
 </cdliclone>
 <cdliclone>
-<ID>259</ID>
+<ID>250</ID>
 <id_text>P401954</id_text>
 <designation>AOAT 034, 017</designation>
 <accession_no>K 16342</accession_no>
@@ -5067,7 +4941,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>260</ID>
+<ID>251</ID>
 <id_text>P413964</id_text>
 <designation>LKA 052</designation>
 <author>Ebeling, Erich</author>
@@ -5087,7 +4961,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>261</ID>
+<ID>252</ID>
 <id_text>P338375</id_text>
 <designation>STT 1, 057 + STT 2, 263</designation>
 <author>Gurney, Oliver R.: Gurney, Oliver R. &amp; Hulin, Peter</author>
@@ -5103,7 +4977,7 @@
 <q_numbers>Q006156</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>262</ID>
+<ID>253</ID>
 <id_text>P338376</id_text>
 <designation>STT 1, 058</designation>
 <author>Gurney, Oliver R.</author>
@@ -5120,7 +4994,7 @@
 <q_numbers>Q006156</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>263</ID>
+<ID>254</ID>
 <id_text>P400203</id_text>
 <designation>BMS 23</designation>
 <accession_no>K 13277</accession_no>
@@ -5141,7 +5015,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>264</ID>
+<ID>255</ID>
 <id_text>P413928</id_text>
 <designation>LKA 025</designation>
 <author>Ebeling, Erich</author>
@@ -5157,7 +5031,7 @@
 <q_numbers>Q006159</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>265</ID>
+<ID>256</ID>
 <id_text>P281823</id_text>
 <designation>BAM 3, 316</designation>
 <author>Köcher, Franz</author>
@@ -5174,7 +5048,7 @@
 <q_numbers>Q006160</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>266</ID>
+<ID>257</ID>
 <id_text>P397530</id_text>
 <designation>K 08183</designation>
 <accession_no>K 08183</accession_no>
@@ -5190,7 +5064,7 @@
 <q_numbers>Q006160</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>267</ID>
+<ID>258</ID>
 <id_text>P398750</id_text>
 <designation>BMS 26</designation>
 <accession_no>K 10550</accession_no>
@@ -5211,7 +5085,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>268</ID>
+<ID>259</ID>
 <id_text>P413967</id_text>
 <designation>LKA 055</designation>
 <author>Ebeling, Erich</author>
@@ -5225,13 +5099,13 @@
 <publication_date>1953</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P413967</CDLI_url>
 <q_numbers>Q006163</q_numbers>
-<outline_of_contents>SB Šu&apos;illa Prayer to Sin 0 (1ˊ-6ˊ), rubric (6ˊ), with ritual instructions (8ˊ)</outline_of_contents>
+<outline_of_contents>SB Šu&apos;illa Prayer to Sin 9 (1ˊ-6ˊ), rubric (6ˊ), with ritual instructions (8ˊ)</outline_of_contents>
 <transliterations>Ebeling 1953: 18</transliterations>
 <further_literature>Ebeling 1953a: XI</further_literature>
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>269</ID>
+<ID>260</ID>
 <id_text>P400144</id_text>
 <designation>AOAT 034, 068</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Abusch and Schwemer 2016: 350 have suggested these three pieces indirectly join.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -5253,7 +5127,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>270</ID>
+<ID>261</ID>
 <id_text>P452711</id_text>
 <designation>AOAT 034, 069</designation>
 <accession_no>1883-01-18, 0500</accession_no>
@@ -5274,7 +5148,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>271</ID>
+<ID>262</ID>
 <id_text>P397532</id_text>
 <designation>BMS 51</designation>
 <accession_no>K 08190</accession_no>
@@ -5294,7 +5168,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>272</ID>
+<ID>263</ID>
 <id_text>P395010</id_text>
 <designation>BAM 5, 502 + OrNS 59, 485</designation>
 <accession_no>K 03434 + K 09251 + Sm 0529</accession_no>
@@ -5314,7 +5188,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>273</ID>
+<ID>264</ID>
 <id_text>P396503</id_text>
 <designation>BMS 52</designation>
 <accession_no>K 06395 + K 10138</accession_no>
@@ -5335,7 +5209,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>274</ID>
+<ID>265</ID>
 <id_text>P369223</id_text>
 <designation>KAR 258</designation>
 <author>Ebeling, Erich</author>
@@ -5351,7 +5225,7 @@
 <q_numbers>Q006166, Q006172, Q006186</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>275</ID>
+<ID>266</ID>
 <id_text>P384982</id_text>
 <designation>OECT 06, pl. 30, K 02824</designation>
 <accession_no>K 02824</accession_no>
@@ -5371,7 +5245,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>276</ID>
+<ID>267</ID>
 <id_text>P426430</id_text>
 <designation>AOAT 034, 023</designation>
 <accession_no>Sm 0336 + Sm 1385</accession_no>
@@ -5392,7 +5266,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>277</ID>
+<ID>268</ID>
 <id_text>P451877</id_text>
 <designation>AOAT 034, 022</designation>
 <accession_no>1879-07-08, 0184</accession_no>
@@ -5413,7 +5287,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>278</ID>
+<ID>269</ID>
 <id_text>P338378</id_text>
 <designation>STT 1, 060 + STT  2, 233</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>joins with next (Gurney 1981-82). It seems that Cunningham&apos;s edition would indicate another fragment (flake) is joined on the reverse from lines 16-21. See Gurney 1981-82: 93 for the unnumbered flake that fills in the last several lines on the reverse.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -5435,7 +5309,7 @@
 <Field69>Copy only. The tablet itself was not in Ankara in the summer of 2015 when I visited. Rather, it was in a small museum in Urfa.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>279</ID>
+<ID>270</ID>
 <id_text>P338552</id_text>
 <designation>STT 2, 233</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>To be deleted eventually.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -5458,7 +5332,7 @@
 <Field69>Copy only.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>280</ID>
+<ID>271</ID>
 <id_text>P338379</id_text>
 <designation>STT 1, 061</designation>
 <author>Gurney, Oliver R.</author>
@@ -5480,7 +5354,7 @@
 <Field69>With tablet in Ankara, summer 2015</Field69>
 </cdliclone>
 <cdliclone>
-<ID>281</ID>
+<ID>272</ID>
 <id_text>P338442</id_text>
 <designation>STT 2, 122</designation>
 <author>Gurney, Oliver R. &amp; Hulin, Peter</author>
@@ -5501,7 +5375,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>282</ID>
+<ID>273</ID>
 <id_text>P258853</id_text>
 <designation>PBS 01/1, 12</designation>
 <author>Myhrman, David W.</author>
@@ -5521,7 +5395,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>283</ID>
+<ID>274</ID>
 <id_text>P402403</id_text>
 <designation>AOAT 034, 021</designation>
 <accession_no>K 17009</accession_no>
@@ -5542,7 +5416,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>284</ID>
+<ID>275</ID>
 <id_text>P369037</id_text>
 <designation>KAR 055</designation>
 <author>Ebeling, Erich</author>
@@ -5562,7 +5436,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>285</ID>
+<ID>276</ID>
 <id_text>P413962</id_text>
 <designation>LKA 049</designation>
 <author>Ebeling, Erich</author>
@@ -5578,7 +5452,7 @@
 <q_numbers>Q006171</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>286</ID>
+<ID>277</ID>
 <id_text>P400603</id_text>
 <designation>AOAT 034, 077</designation>
 <accession_no>K 14045</accession_no>
@@ -5599,7 +5473,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>287</ID>
+<ID>278</ID>
 <id_text>P363722</id_text>
 <designation>TCL 06, 50</designation>
 <author>Thureau-Dangin, François</author>
@@ -5615,7 +5489,7 @@
 <q_numbers>Q006173</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>288</ID>
+<ID>279</ID>
 <id_text>P402733</id_text>
 <designation>OrNS 59, 486 (= K.17386) = BaF 18, 549</designation>
 <accession_no>K 17386</accession_no>
@@ -5632,7 +5506,7 @@
 <q_numbers>Q006173</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>289</ID>
+<ID>280</ID>
 <id_text>P369192</id_text>
 <designation>KAR 228</designation>
 <author>Ebeling, Erich</author>
@@ -5648,7 +5522,7 @@
 <q_numbers>Q006174</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>290</ID>
+<ID>281</ID>
 <id_text>P425779</id_text>
 <designation>Sm 1155</designation>
 <accession_no>Sm 1155</accession_no>
@@ -5664,7 +5538,7 @@
 <q_numbers>Q006174</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>291</ID>
+<ID>282</ID>
 <id_text>P369216</id_text>
 <designation>KAR 252</designation>
 <author>Ebeling, Erich</author>
@@ -5680,7 +5554,7 @@
 <q_numbers>Q006175</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>292</ID>
+<ID>283</ID>
 <id_text>P395923</id_text>
 <designation>AOAT 258, pl. 8</designation>
 <accession_no>K 05175 + K 06001</accession_no>
@@ -5697,7 +5571,7 @@
 <q_numbers>Q006175</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>293</ID>
+<ID>284</ID>
 <id_text>P394947</id_text>
 <designation>AOAT 258, pls. 3-4</designation>
 <accession_no>K 03333 + K 08583 + Sm 1069</accession_no>
@@ -5714,7 +5588,7 @@
 <q_numbers>Q006175</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>294</ID>
+<ID>285</ID>
 <id_text>P395221</id_text>
 <designation>AOAT 258, pl. 5</designation>
 <accession_no>K 03758</accession_no>
@@ -5731,7 +5605,7 @@
 <q_numbers>Q006175</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>295</ID>
+<ID>286</ID>
 <id_text>P404498</id_text>
 <designation>OrNS 59, 487 (= K.19713)</designation>
 <accession_no>K 19713</accession_no>
@@ -5750,7 +5624,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>296</ID>
+<ID>287</ID>
 <id_text>P413966</id_text>
 <designation>LKA 054</designation>
 <author>Ebeling, Erich</author>
@@ -5763,10 +5637,14 @@
 <provenience>Assur (mod. Qalat Sherqat)</provenience>
 <publication_date>1953</publication_date>
 <CDLI_url>www.cdli.ucla.edu/P413966</CDLI_url>
-<q_numbers>Q006178, Q006180, Q006181, Q006182</q_numbers>
+<q_numbers>Q006178</q_numbers>
+<outline_of_contents>SB Šu&apos;illa Prayer to Tasmetu (1ˊ-4ˊ)</outline_of_contents>
+<transliterations>None</transliterations>
+<further_literature>Mayer 1976: 424</further_literature>
+<collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>297</ID>
+<ID>288</ID>
 <id_text>P363580</id_text>
 <designation>CTN 4, 166</designation>
 <author>Wiseman, Donald J. &amp; Black, Jeremy A.</author>
@@ -5783,7 +5661,7 @@
 <q_numbers>Q006183</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>298</ID>
+<ID>289</ID>
 <id_text>P398200</id_text>
 <designation>K 09578</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Ambos has given me a file on this fragment</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -5800,7 +5678,7 @@
 <q_numbers>Q006184</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>299</ID>
+<ID>290</ID>
 <id_text>P397768</id_text>
 <designation>BMS 47</designation>
 <accession_no>K 08808</accession_no>
@@ -5822,7 +5700,7 @@
 <transliterations_x0020_are_x0020_only_x0020_references_x0020_to_x0020_places_x0020_that_x0020_actually_x0020_tra>Will be published by Abusch and Schwemer in AMD 8/4</transliterations_x0020_are_x0020_only_x0020_references_x0020_to_x0020_places_x0020_that_x0020_actually_x0020_tra>
 </cdliclone>
 <cdliclone>
-<ID>300</ID>
+<ID>291</ID>
 <id_text>P425716</id_text>
 <designation>AOAT 034, 082</designation>
 <accession_no>Sm 1025</accession_no>
@@ -5843,7 +5721,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>301</ID>
+<ID>292</ID>
 <id_text>P338387</id_text>
 <designation>STT 1, 069</designation>
 <author>Gurney, Oliver R.</author>
@@ -5864,7 +5742,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>302</ID>
+<ID>293</ID>
 <id_text>P397923</id_text>
 <designation>AOAT 034, 032</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Possible indirect join with BMS 9, AOAT 34, XVI</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -5887,7 +5765,7 @@
 <Field69>I should go through Geers&apos; copies systematically.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>303</ID>
+<ID>294</ID>
 <id_text>P395006</id_text>
 <designation>AOAT 034, 031</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Possible indirect join, AOAT 34, XVI</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -5909,7 +5787,7 @@
 <Field69>Only with copy.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>304</ID>
+<ID>295</ID>
 <id_text>P400250</id_text>
 <designation>BMS 43</designation>
 <accession_no>K 13355</accession_no>
@@ -5930,7 +5808,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>305</ID>
+<ID>296</ID>
 <id_text>P413961</id_text>
 <designation>LKA 048</designation>
 <author>Ebeling, Erich</author>
@@ -5950,7 +5828,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>306</ID>
+<ID>297</ID>
 <id_text>P480767</id_text>
 <designation>LKA 048a</designation>
 <author>Ebeling, Erich</author>
@@ -5965,7 +5843,7 @@
 <q_numbers>Q006190</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>307</ID>
+<ID>298</ID>
 <id_text>P347218</id_text>
 <designation>VS 24, 099</designation>
 <author>van Dijk, Johannes J. A.</author>
@@ -5985,7 +5863,7 @@
 <Field69>The last three lines might be a prayer or hymn to Marduk.</Field69>
 </cdliclone>
 <cdliclone>
-<ID>308</ID>
+<ID>299</ID>
 <id_text>P413972</id_text>
 <designation>LKA 060</designation>
 <author>Ebeling, Erich</author>
@@ -6002,7 +5880,7 @@
 <q_numbers>Q006191</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>309</ID>
+<ID>300</ID>
 <id_text>P398833</id_text>
 <designation>AOAT 034, 084</designation>
 <accession_no>K 10695</accession_no>
@@ -6019,7 +5897,7 @@
 <q_numbers>Q000000</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>310</ID>
+<ID>301</ID>
 <id_text>P400938</id_text>
 <designation>AOAT 034, 085</designation>
 <accession_no>K 14705</accession_no>
@@ -6040,7 +5918,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>311</ID>
+<ID>302</ID>
 <id_text>P401350</id_text>
 <designation>AOAT 034, 087</designation>
 <accession_no>K 15429</accession_no>
@@ -6061,7 +5939,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>312</ID>
+<ID>303</ID>
 <id_text>P401368</id_text>
 <designation>AOAT 034, 088</designation>
 <accession_no>K 15449</accession_no>
@@ -6082,7 +5960,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>313</ID>
+<ID>304</ID>
 <id_text>P402140</id_text>
 <designation>AOAT 034, 089</designation>
 <accession_no>K 16668</accession_no>
@@ -6103,7 +5981,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>314</ID>
+<ID>305</ID>
 <id_text>P400939</id_text>
 <designation>AOAT 034, 086</designation>
 <accession_no>K 14707</accession_no>
@@ -6124,7 +6002,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>315</ID>
+<ID>306</ID>
 <id_text>P451942</id_text>
 <designation>AOAT 034, 090</designation>
 <accession_no>1879-07-08, 0331</accession_no>
@@ -6145,7 +6023,142 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>316</ID>
+<ID>307</ID>
+<id_text>P451943</id_text>
+<designation>AOAT 034, 091</designation>
+<accession_no>1879-07-08, 0332</accession_no>
+<author>Loretz, Oswald &amp; Mayer, Walter</author>
+<collection>British Museum, London, UK</collection>
+<material>clay</material>
+<museum_no>BM —</museum_no>
+<object_type>tablet</object_type>
+<period>Neo-Assyrian (ca. 911-612 BC)</period>
+<primary_publication>AOAT 034, 091</primary_publication>
+<provenience>unspecified</provenience>
+<publication_date>1978</publication_date>
+<CDLI_url>www.cdli.ucla.edu/P451943</CDLI_url>
+<q_numbers>Q000000</q_numbers>
+<outline_of_contents>Unidentified SB Šu&apos;illa Prayer (o1ˊ-4ˊ), Šu&apos;illa Prayer rubric (r1ˊ), ritual instructions (r2ˊ-4ˊ), catchline to incantation-prayer Dilbat 3 (r5ˊ), and perhaps a colophon (r6ˊ)</outline_of_contents>
+<transliterations>None</transliterations>
+<further_literature>Loretz and Mayer 1978: XVI; Mayer 1976: 429</further_literature>
+</cdliclone>
+<cdliclone>
+<ID>308</ID>
+<id_text>P452899</id_text>
+<designation>BMS 38</designation>
+<accession_no>1891-05-09 Bu, 0016</accession_no>
+<author>King, Leonard W.</author>
+<collection>British Museum, London, UK</collection>
+<material>clay</material>
+<museum_no>BM —</museum_no>
+<object_type>tablet</object_type>
+<period>Neo-Assyrian (ca. 911-612 BC)</period>
+<primary_publication>BMS 38</primary_publication>
+<provenience>Nineveh (mod. Kuyunjik)</provenience>
+<publication_date>1896</publication_date>
+<CDLI_url>www.cdli.ucla.edu/P452899</CDLI_url>
+<q_numbers>Q000000</q_numbers>
+<outline_of_contents>Unidentified SB Šu&apos;illa Prayer (r1ˊ-2ˊ), (Šu&apos;illa Prayer?) rubric (r3ˊ), ritual instructions (r4ˊ), catchline to incantation-prayer (r5ˊ), colophon (r6ˊ-7ˊ)</outline_of_contents>
+<transliterations>King 1896: 104</transliterations>
+<further_literature>Ebeling 1953: 4</further_literature>
+<collated_x003F_>1</collated_x003F_>
+</cdliclone>
+<cdliclone>
+<ID>309</ID>
+<id_text>P400689</id_text>
+<designation>BMS 44</designation>
+<accession_no>K 14210</accession_no>
+<author>King, Leonard W.</author>
+<collection>British Museum, London, UK</collection>
+<material>clay</material>
+<museum_no>BM —</museum_no>
+<object_type>tablet</object_type>
+<period>Neo-Assyrian (ca. 911-612 BC)</period>
+<primary_publication>BMS 44</primary_publication>
+<provenience>Nineveh (mod. Kuyunjik)</provenience>
+<publication_date>1896</publication_date>
+<CDLI_url>www.cdli.ucla.edu/P400689</CDLI_url>
+<q_numbers>Q000000</q_numbers>
+<outline_of_contents>Unidentified SB Šu&apos;illa Prayer (o1ˊ), Šu&apos;illa Prayer rubric (o2ˊ), ritual instructions (o3-5ˊ), one unidentified line (o6ˊ)</outline_of_contents>
+<transliterations>King 1896: 107</transliterations>
+<further_literature>Ebeling 1953: 4</further_literature>
+<collated_x003F_>1</collated_x003F_>
+</cdliclone>
+<cdliclone>
+<ID>310</ID>
+<id_text>P452504</id_text>
+<designation>BMS 45</designation>
+<accession_no>1882-03-23, 0119</accession_no>
+<author>King, Leonard W.</author>
+<collection>British Museum, London, UK</collection>
+<material>clay</material>
+<museum_no>BM —</museum_no>
+<object_type>tablet</object_type>
+<period>Neo-Assyrian (ca. 911-612 BC)</period>
+<primary_publication>BMS 45</primary_publication>
+<provenience>Nineveh (mod. Kuyunjik)</provenience>
+<publication_date>1896</publication_date>
+<CDLI_url>www.cdli.ucla.edu/P452504</CDLI_url>
+<q_numbers>Q000000</q_numbers>
+<outline_of_contents>Unidentified SB Šu&apos;illa Prayer (o1ˊ-3ˊ), Šu&apos;illa Prayer rubric (o4ˊ), ritual instructions(?) (o5ˊ), five unidentified lines (r1ˊ-5ˊ)</outline_of_contents>
+<transliterations>King 1896: 108</transliterations>
+<further_literature>Ebeling 1953: 4</further_literature>
+<collated_x003F_>1</collated_x003F_>
+</cdliclone>
+<cdliclone>
+<ID>311</ID>
+<id_text>P414169</id_text>
+<designation>LKU 027</designation>
+<author>Falkenstein, Adam</author>
+<collection>Vorderasiatisches Museum, Berlin, Germany</collection>
+<material>clay</material>
+<museum_no>VAT 14502</museum_no>
+<object_type>tablet</object_type>
+<period>Neo-Babylonian (ca. 626-539 BC) ?</period>
+<primary_publication>LKU 027</primary_publication>
+<provenience>Uruk (mod. Warka)</provenience>
+<publication_date>1931</publication_date>
+<CDLI_url>www.cdli.ucla.edu/P414169</CDLI_url>
+<q_numbers>Q000000</q_numbers>
+</cdliclone>
+<cdliclone>
+<ID>312</ID>
+<id_text>P396802</id_text>
+<designation>BMS 55</designation>
+<accession_no>K 06792</accession_no>
+<author>King, Leonard W.</author>
+<collection>British Museum, London, UK</collection>
+<material>clay</material>
+<museum_no>BM —</museum_no>
+<object_type>tablet</object_type>
+<period>Neo-Assyrian (ca. 911-612 BC)</period>
+<primary_publication>BMS 55</primary_publication>
+<provenience>Nineveh (mod. Kuyunjik)</provenience>
+<publication_date>1896</publication_date>
+<CDLI_url>www.cdli.ucla.edu/P396802</CDLI_url>
+<q_numbers>Q000000</q_numbers>
+<outline_of_contents>One unidentified line (1ˊ) and then an attalû formula with Ashurbanipal&apos;s name inserted (2ˊ-6ˊ)</outline_of_contents>
+<transliterations>King 1896: 121-122</transliterations>
+<collated_x003F_>1</collated_x003F_>
+</cdliclone>
+<cdliclone>
+<ID>313</ID>
+<id_text>P424775</id_text>
+<designation>Rm 0446</designation>
+<accession_no>Rm 0446</accession_no>
+<author>nn</author>
+<collection>British Museum, London, UK</collection>
+<material>clay</material>
+<museum_no>BM —</museum_no>
+<object_type>tablet</object_type>
+<period>Neo-Assyrian (ca. 911-612 BC)</period>
+<primary_publication>unpublished unassigned ?</primary_publication>
+<provenience>Nineveh (mod. Kuyunjik)</provenience>
+<CDLI_url>www.cdli.ucla.edu/P424775</CDLI_url>
+<q_numbers>Q000000</q_numbers>
+</cdliclone>
+<cdliclone>
+<ID>314</ID>
 <id_text>P398870</id_text>
 <designation>K 10757</designation>
 <accession_no>K 10757</accession_no>
@@ -6162,7 +6175,7 @@
 <further_literature>Mayer 1976: 435; Bezold 1896: 1951</further_literature>
 </cdliclone>
 <cdliclone>
-<ID>317</ID>
+<ID>315</ID>
 <id_text>P403490</id_text>
 <designation>K 18258</designation>
 <accession_no>K 18258</accession_no>
@@ -6178,7 +6191,7 @@
 <q_numbers>Q000000</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>318</ID>
+<ID>316</ID>
 <id_text>P404383</id_text>
 <designation>K 19577</designation>
 <accession_no>K 19577</accession_no>
@@ -6194,7 +6207,7 @@
 <q_numbers>Q000000</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>319</ID>
+<ID>317</ID>
 <id_text>P480782</id_text>
 <designation>BM 51402 + BM 51632 + BM 53097</designation>
 <accession_no>1882-03-23, 2436 + 1882-03-23, 2666 + 1882-03-23, 4131</accession_no>
@@ -6208,7 +6221,7 @@
 <q_numbers>Q000000</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>320</ID>
+<ID>318</ID>
 <id_text>P480783</id_text>
 <designation>BM 53363</designation>
 <accession_no>1882-03-23, 4398</accession_no>
@@ -6222,7 +6235,7 @@
 <q_numbers>Q000000</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>321</ID>
+<ID>319</ID>
 <id_text>P480784</id_text>
 <designation>BM 69302 </designation>
 <accession_no>1882-09-18, 9300</accession_no>
@@ -6236,7 +6249,7 @@
 <q_numbers>Q000000</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>322</ID>
+<ID>320</ID>
 <id_text>P480785</id_text>
 <designation>BM 40517 </designation>
 <accession_no>1880-04-28, 0058</accession_no>
@@ -6250,7 +6263,7 @@
 <q_numbers>Q000000</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>323</ID>
+<ID>321</ID>
 <id_text>P480786</id_text>
 <designation>BM 41267 </designation>
 <accession_no>1880-04-28, 0815</accession_no>
@@ -6264,7 +6277,7 @@
 <q_numbers>Q000000</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>324</ID>
+<ID>322</ID>
 <id_text>P480812</id_text>
 <designation>BM 32039</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>added July 30, 2017</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -6287,7 +6300,7 @@
 <transliterations_x0020_are_x0020_only_x0020_references_x0020_to_x0020_places_x0020_that_x0020_actually_x0020_tra>This tablet seems to leave off the ends of lines several times. Is this a scribal phenomenal more generally?</transliterations_x0020_are_x0020_only_x0020_references_x0020_to_x0020_places_x0020_that_x0020_actually_x0020_tra>
 </cdliclone>
 <cdliclone>
-<ID>325</ID>
+<ID>323</ID>
 <id_text>P369256</id_text>
 <designation>KAR 290</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>added February 13, 2019; identified via a reference in CAD T, 224; I should look through KAR 288f. Fragments; this tablet may have MA ductus, see NA, ZU, BU.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -6308,7 +6321,7 @@
 <collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>326</ID>
+<ID>324</ID>
 <id_text>P348623</id_text>
 <designation>SpTU 2, 018</designation>
 <author>Von Weiher, Egbert</author>
@@ -6325,7 +6338,7 @@
 <q_numbers>Q006169</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>327</ID>
+<ID>325</ID>
 <id_text>P259034</id_text>
 <designation>MC 24, 80</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>Copy only</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -6342,7 +6355,7 @@
 <q_numbers>Q006190</q_numbers>
 </cdliclone>
 <cdliclone>
-<ID>328</ID>
+<ID>326</ID>
 <id_text>P451904</id_text>
 <designation>1879-07-08, 0233</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>added Dec 9, 2019</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -6358,9 +6371,13 @@
 <publication_date>2016</publication_date>
 <CDLI_url>http://cdli.ucla.edu/P451904</CDLI_url>
 <q_numbers>Q006122</q_numbers>
+<outline_of_contents>Rubric to SB Šuʾilla Prayer to Nabu 2 (1ˊ-9ˊ)</outline_of_contents>
+<transliterations>Abusch and Schwemer 2016: 344-345</transliterations>
+<further_literature>Abusch and Schwemer 2016, pl. 76 (copy)</further_literature>
+<collated_x003F_>1</collated_x003F_>
 </cdliclone>
 <cdliclone>
-<ID>329</ID>
+<ID>327</ID>
 <id_text>P451804</id_text>
 <designation>1879-07-08, 0041</designation>
 <_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>added Dec 9, 2019. Obv seems to be addressed to &quot;Adad, the king&quot;. Bezold 1896: 1702 already identifies it as a Shuila. Not in AOAT 34.</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
@@ -6373,5 +6390,21 @@
 <period>Neo-Assyrian (ca. 911-612 BC)</period>
 <provenience>Nineveh (mod. Kuyunjik)</provenience>
 <CDLI_url>http://cdli.ucla.edu/P451804</CDLI_url>
+</cdliclone>
+<cdliclone>
+<ID>328</ID>
+<id_text>P402172</id_text>
+<designation>K 16711</designation>
+<_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>added Feb 12, 2020; identified by Abusch and Schwemer; will appear in vol. 3 of their Witchcraft Corpus; perhaps belongs to same tablet as 1879-07-08, 0233, though uncertain</_x0028_misc_x0020_notes_x0020_to_x0020_be_x0020_deleted_x0029_>
+<accession_no>K 16711</accession_no>
+<author>Abusch, Tzvi and Schwemer, Daniel</author>
+<collection>British Museum, London, UK</collection>
+<material>clay</material>
+<museum_no>BM</museum_no>
+<object_type>tablet</object_type>
+<period>Neo-Assyrian (ca. 911-612 BC)</period>
+<primary_publication>AMD 8/3 (forthcoming)</primary_publication>
+<provenience>Nineveh (mod. Kuyunjik)</provenience>
+<CDLI_url>http://cdli.ucla.edu/P402172</CDLI_url>
 </cdliclone>
 </dataroot>

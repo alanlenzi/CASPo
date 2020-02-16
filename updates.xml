@@ -1,7 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-08-09T16:21:26">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-02-15T22:08:29">
 <Sheet1>
 <ID>1</ID>
+<Date>February 15, 2020</Date>
+<designation>ORA 7, pl. 30 (= K 08961)</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P397828</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P397828.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>2</ID>
+<Date>February 14, 2020</Date>
+<designation>LKA 040</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P413951</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P413951.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>3</ID>
+<Date>February 14, 2020</Date>
+<designation>LKA 040a</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P413952</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P413952.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>4</ID>
+<Date>February 14, 2020</Date>
+<designation>LKA 057</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P413969</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P413969.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>5</ID>
+<Date>December 31, 2019</Date>
+<designation>BMS 48 + ZA 042, 221-222 = BMS 05 (K.6019 + K.7243 = AOAT 034, 015), BMS 08 + Iraq 76, 108-109 (K.9083)</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P397497</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P397497.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>6</ID>
+<Date>December 31, 2019</Date>
+<designation>JCS 21, 255-262</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P208501</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P208501.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>7</ID>
+<Date>December 31, 2019</Date>
+<designation>OrNS 59, 481</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P480777</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P480777.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>8</ID>
+<Date>December 31, 2019</Date>
+<designation>KUB 37, 036 + (?) KUB 37, 037</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P445792</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P445792.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>9</ID>
+<Date>December 31, 2019</Date>
+<designation>OrNS 59, 480</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P480776</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P480776.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>10</ID>
+<Date>December 31, 2019</Date>
+<designation>BMS 16 + BMS 42 + AOAT 034, 066 + K 08973</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P394881</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P394881.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>11</ID>
+<Date>December 19, 2019</Date>
+<designation>LKA 054</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P413966</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P413966.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>12</ID>
+<Date>December 11, 2019</Date>
+<designation>LKA 055</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P413967</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P413967.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>13</ID>
+<Date>December 11, 2019</Date>
+<designation>KAR 023 + 025</designation>
+<update_descript>Initial text edition.</update_descript>
+<CDLI_P>P369009</CDLI_P>
+<link>http://www1.pacific.edu/~alenzi/shuilas/P369009.html</link>
+<contrib>Alan Lenzi</contrib>
+</Sheet1>
+<Sheet1>
+<ID>14</ID>
 <Date>August 9, 2019</Date>
 <designation>BAM 5, 461</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -10,7 +127,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>2</ID>
+<ID>15</ID>
 <Date>August 8, 2019</Date>
 <designation>BAM 5, 462</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -19,7 +136,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>3</ID>
+<ID>16</ID>
 <Date>August 2, 2019</Date>
 <designation>AOAT 034, 042</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -28,7 +145,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>4</ID>
+<ID>17</ID>
 <Date>August 2, 2019</Date>
 <designation>AOAT 034, 046</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -37,7 +154,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>5</ID>
+<ID>18</ID>
 <Date>July 23, 2019</Date>
 <designation>BMS 12 + AOAT 034, 040 + OrNS 59, 487 (= K.20155) + K.15430</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -46,7 +163,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>6</ID>
+<ID>19</ID>
 <Date>July 3, 2019</Date>
 <designation>AOAT 034, 054</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -55,7 +172,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>7</ID>
+<ID>20</ID>
 <Date>June 6, 2019</Date>
 <designation>OrNS 59, 478</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -64,7 +181,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>8</ID>
+<ID>21</ID>
 <Date>June 6, 2019</Date>
 <designation>OrNS 59, 479 (K.6977 + K.9764 + K.10740)</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -73,7 +190,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>9</ID>
+<ID>22</ID>
 <Date>June 6, 2019</Date>
 <designation>CTN 4, 180</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -82,7 +199,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>10</ID>
+<ID>23</ID>
 <Date>June 6, 2019</Date>
 <designation>ORA 7, pl. 30 (K. 19711)</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -91,7 +208,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>11</ID>
+<ID>24</ID>
 <Date>June 3, 2019</Date>
 <designation>LKA 061 + KAL 4, 61</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -100,7 +217,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>12</ID>
+<ID>25</ID>
 <Date>June 3, 2019</Date>
 <designation>OrNS 59, 486 (= K.17059)</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -109,7 +226,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>13</ID>
+<ID>26</ID>
 <Date>May 24, 2019</Date>
 <designation>OECT 06, pl. 30, K 02824</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -118,7 +235,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>14</ID>
+<ID>27</ID>
 <Date>May 24, 2019</Date>
 <designation>STT 1, 061</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -127,7 +244,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>15</ID>
+<ID>28</ID>
 <Date>May 24, 2019</Date>
 <designation>STT 1, 060 + STT  2, 233</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -136,7 +253,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>16</ID>
+<ID>29</ID>
 <Date>May 24, 2019</Date>
 <designation>PBS 01/1, 12</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -145,7 +262,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>17</ID>
+<ID>30</ID>
 <Date>May 10, 2019</Date>
 <designation>STT 2, 122</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -154,7 +271,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>18</ID>
+<ID>31</ID>
 <Date>May 10, 2019</Date>
 <designation>STT 1, 051</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -163,7 +280,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>19</ID>
+<ID>32</ID>
 <Date>May 10, 2019</Date>
 <designation>KAR 055</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -172,7 +289,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>20</ID>
+<ID>33</ID>
 <Date>May 8, 2019</Date>
 <designation>CTN 4, 169</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -181,7 +298,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>21</ID>
+<ID>34</ID>
 <Date>May 8, 2019</Date>
 <designation>BA 5, 358</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -190,7 +307,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>22</ID>
+<ID>35</ID>
 <Date>May 8, 2019</Date>
 <designation>CT 44, 22</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -199,7 +316,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>23</ID>
+<ID>36</ID>
 <Date>May 8, 2019</Date>
 <designation>LKA 045</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -208,7 +325,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>24</ID>
+<ID>37</ID>
 <Date>May 8, 2019</Date>
 <designation>LKA 043</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -217,7 +334,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>25</ID>
+<ID>38</ID>
 <Date>May 8, 2019</Date>
 <designation>LKA 044</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -226,7 +343,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>26</ID>
+<ID>39</ID>
 <Date>May 8, 2019</Date>
 <designation>KAL 4, 59</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -235,7 +352,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>27</ID>
+<ID>40</ID>
 <Date>May 3, 2019</Date>
 <designation>LKA 052</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -244,7 +361,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>28</ID>
+<ID>41</ID>
 <Date>April 8, 2019</Date>
 <designation>STT 1, 069</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -253,7 +370,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>29</ID>
+<ID>42</ID>
 <Date>March 29, 2019</Date>
 <designation>BM 32039</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -262,7 +379,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>30</ID>
+<ID>43</ID>
 <Date>March 29, 2019</Date>
 <designation>CT 13, pls. 35-38 + 1882-03-23, 101</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -271,7 +388,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>31</ID>
+<ID>44</ID>
 <Date>March 27, 2019</Date>
 <designation>SpTU 3, 076</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -280,7 +397,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>32</ID>
+<ID>45</ID>
 <Date>March 26, 2019</Date>
 <designation>SFS Ist Si 0059</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -289,7 +406,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>33</ID>
+<ID>46</ID>
 <Date>March 22, 2019</Date>
 <designation>LSS 2/4, pl. 4</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -298,7 +415,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>34</ID>
+<ID>47</ID>
 <Date>March 21, 2019</Date>
 <designation>AOAT 034, 041</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -307,7 +424,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>35</ID>
+<ID>48</ID>
 <Date>March 21, 2019</Date>
 <designation>AOAT 034, 044</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -316,7 +433,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>36</ID>
+<ID>49</ID>
 <Date>March 21, 2019</Date>
 <designation>AOAT 034, 067</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -325,7 +442,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>37</ID>
+<ID>50</ID>
 <Date>March 20, 2019</Date>
 <designation>BMS 45</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -334,7 +451,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>38</ID>
+<ID>51</ID>
 <Date>March 20, 2019</Date>
 <designation>BMS 33</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -343,7 +460,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>39</ID>
+<ID>52</ID>
 <Date>March 20, 2019</Date>
 <designation>AOAT 034, 061</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -352,7 +469,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>40</ID>
+<ID>53</ID>
 <Date>March 20, 2019</Date>
 <designation>SFS Ist Si 0002</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -361,7 +478,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>41</ID>
+<ID>54</ID>
 <Date>March 20, 2019</Date>
 <designation>BMS 44</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -370,7 +487,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>42</ID>
+<ID>55</ID>
 <Date>March 20, 2019</Date>
 <designation>BMS 38</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -379,7 +496,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>43</ID>
+<ID>56</ID>
 <Date>March 20, 2019</Date>
 <designation>AOAT 034, 045</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -388,7 +505,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>44</ID>
+<ID>57</ID>
 <Date>March 20, 2019</Date>
 <designation>OrNS 59, 487</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -397,7 +514,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>45</ID>
+<ID>58</ID>
 <Date>March 20, 2019</Date>
 <designation>AOAT 034, 043</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -406,7 +523,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>46</ID>
+<ID>59</ID>
 <Date>March 20, 2019</Date>
 <designation>BMS 15</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -415,7 +532,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>47</ID>
+<ID>60</ID>
 <Date>March 20, 2019</Date>
 <designation>STT 2, 132</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -424,7 +541,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>48</ID>
+<ID>61</ID>
 <Date>March 20, 2019</Date>
 <designation>BMS 13</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -433,7 +550,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>49</ID>
+<ID>62</ID>
 <Date>March 20, 2019</Date>
 <designation>BMS 14</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -442,7 +559,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>50</ID>
+<ID>63</ID>
 <Date>March 20, 2019</Date>
 <designation>AOAT 034, 048</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -451,7 +568,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>51</ID>
+<ID>64</ID>
 <Date>March 20, 2019</Date>
 <designation>KAR 290</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -460,7 +577,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>52</ID>
+<ID>65</ID>
 <Date>March 20, 2019</Date>
 <designation>AOAT 034, 047</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -469,7 +586,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>53</ID>
+<ID>66</ID>
 <Date>March 20, 2019</Date>
 <designation>AOAT 034, 090</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -478,7 +595,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>54</ID>
+<ID>67</ID>
 <Date>March 20, 2019</Date>
 <designation>AOAT 034, 091</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -487,7 +604,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>55</ID>
+<ID>68</ID>
 <Date>March 20, 2019</Date>
 <designation>CT 51, 208</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -496,7 +613,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>56</ID>
+<ID>69</ID>
 <Date>March 19, 2019</Date>
 <designation>AOAT 034, 070</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -505,7 +622,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>57</ID>
+<ID>70</ID>
 <Date>March 19, 2019</Date>
 <designation>KAR 127</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -514,7 +631,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>58</ID>
+<ID>71</ID>
 <Date>March 19, 2019</Date>
 <designation>K 21583</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -523,7 +640,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>59</ID>
+<ID>72</ID>
 <Date>March 19, 2019</Date>
 <designation>KAR 250</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -532,7 +649,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>60</ID>
+<ID>73</ID>
 <Date>March 19, 2019</Date>
 <designation>BAM 5, 502 + OrNS 59, 485</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -541,7 +658,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>61</ID>
+<ID>74</ID>
 <Date>March 19, 2019</Date>
 <designation>BMS 51</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -550,7 +667,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>62</ID>
+<ID>75</ID>
 <Date>March 19, 2019</Date>
 <designation>BMS 50</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -559,7 +676,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>63</ID>
+<ID>76</ID>
 <Date>March 19, 2019</Date>
 <designation>AOAT 034, 081</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -568,7 +685,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>64</ID>
+<ID>77</ID>
 <Date>March 19, 2019</Date>
 <designation>PBS 01/2, 110</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -577,7 +694,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>65</ID>
+<ID>78</ID>
 <Date>January 27, 2019</Date>
 <designation>BMS 55</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -586,7 +703,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>66</ID>
+<ID>79</ID>
 <Date>January 27, 2019</Date>
 <designation>BMS 56</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -595,7 +712,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>67</ID>
+<ID>80</ID>
 <Date>January 23, 2019</Date>
 <designation>STT 1, 056</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -604,7 +721,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>68</ID>
+<ID>81</ID>
 <Date>December 16, 2018</Date>
 <designation>KAL 4, 62</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -613,7 +730,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>69</ID>
+<ID>82</ID>
 <Date>December 16, 2018</Date>
 <designation>AOAT 034, 086</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -622,7 +739,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>70</ID>
+<ID>83</ID>
 <Date>December 16, 2018</Date>
 <designation>AOAT 034, 085</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -631,7 +748,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>71</ID>
+<ID>84</ID>
 <Date>December 16, 2018</Date>
 <designation>BMS 23</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -640,7 +757,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>72</ID>
+<ID>85</ID>
 <Date>December 16, 2018</Date>
 <designation>BMS 26</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -649,7 +766,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>73</ID>
+<ID>86</ID>
 <Date>December 16, 2018</Date>
 <designation>BMS 36</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -658,7 +775,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>74</ID>
+<ID>87</ID>
 <Date>December 16, 2018</Date>
 <designation>OrNS 59, 487 (K.19713)</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -667,7 +784,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>75</ID>
+<ID>88</ID>
 <Date>December 16, 2018</Date>
 <designation>KAL 4, 58</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -676,7 +793,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>76</ID>
+<ID>89</ID>
 <Date>December 7, 2018</Date>
 <designation>KAL 4, 57</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -685,7 +802,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>77</ID>
+<ID>90</ID>
 <Date>December 6, 2018</Date>
 <designation>AOAT 308, 108</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -694,7 +811,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>78</ID>
+<ID>91</ID>
 <Date>December 3, 2018</Date>
 <designation>OrNS 59, 486 (K.11951)</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -703,7 +820,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>79</ID>
+<ID>92</ID>
 <Date>December 1, 2018</Date>
 <designation>SpTU 3, 077</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -712,7 +829,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>80</ID>
+<ID>93</ID>
 <Date>November 6, 2018</Date>
 <designation>BMS 21 + AOAT 034, 052</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -721,7 +838,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>81</ID>
+<ID>94</ID>
 <Date>October 5, 2018</Date>
 <designation>SFS Ist Si 0018</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -730,7 +847,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>82</ID>
+<ID>95</ID>
 <Date>October 5, 2018</Date>
 <designation>AOAT 034, 053</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -739,7 +856,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>83</ID>
+<ID>96</ID>
 <Date>October 5, 2018</Date>
 <designation>BMS 54</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -748,7 +865,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>84</ID>
+<ID>97</ID>
 <Date>October 5, 2018</Date>
 <designation>STT 1, 055</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -757,7 +874,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>85</ID>
+<ID>98</ID>
 <Date>September 17, 2018</Date>
 <designation> PBS 1/1, 108</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -766,7 +883,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>86</ID>
+<ID>99</ID>
 <Date>September 17, 2018</Date>
 <designation>ORA 7, pl. 29 (=Rm.517)</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -775,7 +892,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>87</ID>
+<ID>100</ID>
 <Date>September 17, 2018</Date>
 <designation>ORA 7, pl. 29 (=K.6028)</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -784,7 +901,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>88</ID>
+<ID>101</ID>
 <Date>September 17, 2018</Date>
 <designation>AOAT 034, 083</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -793,7 +910,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>89</ID>
+<ID>102</ID>
 <Date>September 2, 2018</Date>
 <designation>LKA 051</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -802,7 +919,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>90</ID>
+<ID>103</ID>
 <Date>September 2, 2018</Date>
 <designation>OrNS 59, 483 (BM 34984)</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -811,7 +928,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>91</ID>
+<ID>104</ID>
 <Date>September 2, 2018</Date>
 <designation>KAR 059</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -820,7 +937,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>92</ID>
+<ID>105</ID>
 <Date>September 2, 2018</Date>
 <designation>BMS 09</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -829,7 +946,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>93</ID>
+<ID>106</ID>
 <Date>September 2, 2018</Date>
 <designation>OrNS 59, 484</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -838,7 +955,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>94</ID>
+<ID>107</ID>
 <Date>September 2, 2018</Date>
 <designation>BMS 20 (+) 49</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -847,7 +964,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>95</ID>
+<ID>108</ID>
 <Date>September 2, 2018</Date>
 <designation>LKA 053</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -856,7 +973,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>96</ID>
+<ID>109</ID>
 <Date>July 27, 2018</Date>
 <designation>BMS 47</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -865,7 +982,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>97</ID>
+<ID>110</ID>
 <Date>July 27, 2018</Date>
 <designation>BMS 52</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -874,7 +991,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>98</ID>
+<ID>111</ID>
 <Date>July 26, 2018</Date>
 <designation>BMS 39</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -883,7 +1000,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>99</ID>
+<ID>112</ID>
 <Date>July 25, 2018</Date>
 <designation>BMS 32</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -892,7 +1009,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>100</ID>
+<ID>113</ID>
 <Date>July 25, 2018</Date>
 <designation>CTN 4, 182</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -901,7 +1018,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>101</ID>
+<ID>114</ID>
 <Date>July 25, 2018</Date>
 <designation>OrNS 59, 488 (=Sp.432)</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -910,7 +1027,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>102</ID>
+<ID>115</ID>
 <Date>July 6, 2018</Date>
 <designation>BMS 58</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -919,7 +1036,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>103</ID>
+<ID>116</ID>
 <Date>June 29, 2018</Date>
 <designation>KAL 4, 56</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -928,7 +1045,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>104</ID>
+<ID>117</ID>
 <Date>June 29, 2018</Date>
 <designation>BMS 31</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -937,7 +1054,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>105</ID>
+<ID>118</ID>
 <Date>June 27, 2018</Date>
 <designation>BMS 29</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -946,7 +1063,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>106</ID>
+<ID>119</ID>
 <Date>June 26, 2018</Date>
 <designation>KAL 4, 65</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -955,7 +1072,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>107</ID>
+<ID>120</ID>
 <Date>June 26, 2018</Date>
 <designation>LKA 30</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -964,7 +1081,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>108</ID>
+<ID>121</ID>
 <Date>June 22, 2018</Date>
 <designation>PBS 01/2, 119</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -973,7 +1090,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>109</ID>
+<ID>122</ID>
 <Date>June 21, 2018</Date>
 <designation>BMS 27</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -982,7 +1099,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>110</ID>
+<ID>123</ID>
 <Date>June 20, 2018</Date>
 <designation>BMS 30</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -991,7 +1108,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>111</ID>
+<ID>124</ID>
 <Date>June 1, 2018</Date>
 <designation>AOAT 034, 060</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1000,7 +1117,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>112</ID>
+<ID>125</ID>
 <Date>May 31, 2018</Date>
 <designation>AOAT 034, 072</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1009,7 +1126,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>113</ID>
+<ID>126</ID>
 <Date>May 31, 2018</Date>
 <designation>AOAT 034, 071</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1018,7 +1135,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>114</ID>
+<ID>127</ID>
 <Date>May 31, 2018</Date>
 <designation>AOAT 034, 069</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1027,7 +1144,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>115</ID>
+<ID>128</ID>
 <Date>May 17, 2018</Date>
 <designation>AOAT 034, 073</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1036,7 +1153,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>116</ID>
+<ID>129</ID>
 <Date>May 16, 2018</Date>
 <designation>LKA 042</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1045,7 +1162,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>117</ID>
+<ID>130</ID>
 <Date>May 14, 2018</Date>
 <designation>PBS 01/1, 18</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1054,7 +1171,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>118</ID>
+<ID>131</ID>
 <Date>May 11, 2018</Date>
 <designation>KAL 4, 60</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1063,7 +1180,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>119</ID>
+<ID>132</ID>
 <Date>May 2, 2018</Date>
 <designation>n/a</designation>
 <update_descript>Updated academic position in biography.</update_descript>
@@ -1072,7 +1189,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>120</ID>
+<ID>133</ID>
 <Date>May 1, 2018</Date>
 <designation>BMS 11</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1081,7 +1198,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>121</ID>
+<ID>134</ID>
 <Date>April 30, 2018</Date>
 <designation>AOAT 034, 035 + K.5922 + K.15808</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1090,7 +1207,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>122</ID>
+<ID>135</ID>
 <Date>April 30, 2018</Date>
 <designation>AOAT 034, 036</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1099,7 +1216,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>123</ID>
+<ID>136</ID>
 <Date>April 29. 2018</Date>
 <designation>AOAT 034, 068</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1108,7 +1225,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>124</ID>
+<ID>137</ID>
 <Date>April 26, 2018</Date>
 <designation>AOAT 034, 051</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1117,7 +1234,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>125</ID>
+<ID>138</ID>
 <Date>April 25, 2018</Date>
 <designation>n/a</designation>
 <update_descript>Added download XML links to catalog, catalog_alt, and prayer pages.</update_descript>
@@ -1125,7 +1242,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>126</ID>
+<ID>139</ID>
 <Date>April 25, 2018</Date>
 <designation>AOAT 034, 064</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1134,7 +1251,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>127</ID>
+<ID>140</ID>
 <Date>April 25, 2018</Date>
 <designation>AOAT 034, 063</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1143,7 +1260,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>128</ID>
+<ID>141</ID>
 <Date>April 16, 2018</Date>
 <designation>n/a</designation>
 <update_descript>Added sort by provenience page.</update_descript>
@@ -1152,7 +1269,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>129</ID>
+<ID>142</ID>
 <Date>March 30, 2018</Date>
 <designation>n/a</designation>
 <update_descript>Added GitHub link to catalog and catalog_alt pages.</update_descript>
@@ -1161,7 +1278,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>130</ID>
+<ID>143</ID>
 <Date>March 30, 2018</Date>
 <designation>AOAT 034, 062</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1170,7 +1287,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>131</ID>
+<ID>144</ID>
 <Date>March 30, 2018</Date>
 <designation>VS 24, 099</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1179,7 +1296,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>132</ID>
+<ID>145</ID>
 <Date>March 28, 2018</Date>
 <designation>LKA 048</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1188,7 +1305,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>133</ID>
+<ID>146</ID>
 <Date>March 26, 2018</Date>
 <designation>AOAT 034, 031</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1197,7 +1314,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>134</ID>
+<ID>147</ID>
 <Date>March 23, 2018</Date>
 <designation>BMS 43</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1206,7 +1323,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>135</ID>
+<ID>148</ID>
 <Date>March 23, 2018</Date>
 <designation>AOAT 034, 032</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1215,7 +1332,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>136</ID>
+<ID>149</ID>
 <Date>March 20, 2018</Date>
 <designation>AOAT 034, 023</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1224,7 +1341,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>137</ID>
+<ID>150</ID>
 <Date>March 6, 2018</Date>
 <designation>AOAT 034, 038 and AOAT 034, 037</designation>
 <update_descript>Editions added to each page.</update_descript>
@@ -1232,7 +1349,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>138</ID>
+<ID>151</ID>
 <Date>March 6, 2018</Date>
 <designation>AOAT 034, 037</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1241,7 +1358,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>139</ID>
+<ID>152</ID>
 <Date>March 6, 2018</Date>
 <designation>AOAT 034, 039</designation>
 <update_descript>Initial text edition.</update_descript>
@@ -1250,7 +1367,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>140</ID>
+<ID>153</ID>
 <Date>March 5, 2018</Date>
 <designation>n/a</designation>
 <update_descript>Added Updates page to menus and website.</update_descript>
@@ -1259,7 +1376,7 @@
 <contrib>Alan Lenzi</contrib>
 </Sheet1>
 <Sheet1>
-<ID>141</ID>
+<ID>154</ID>
 <Date>March 1, 2018</Date>
 <designation>AOAT 034, 038</designation>
 <update_descript>Initial text edition.</update_descript>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-07-03T14:27:11">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-02-12T15:23:42">
 <Sheet1>
 <ID>1</ID>
 <Q-Number>Q006052</Q-Number>
@@ -188,9 +188,9 @@
 <ID>25</ID>
 <Q-Number>Q006076</Q-Number>
 <Composition_x0020_Name>SB Šuʾilla Prayer to Ištar 2</Composition_x0020_Name>
-<Edition>Zgoll 2003: 41-67; Ebeling 1953: 130-137</Edition>
-<Translation_x0020_of_x0020_Prayer>Foster 2005: 601-605; Seux 1976: 186-194; von Soden 1953: 328-333; Stephens in Pritchard 1969: 383-385; Labat 1970: 253-257</Translation_x0020_of_x0020_Prayer>
-<Further_x0020_Literature>Reiner and Güterbock 1967; Mayer 1976: 389; Frechette 2012: 256; Zernecke 2011: 77-192; Zernecke in Lenzi 2011: 257-290</Further_x0020_Literature>
+<Edition>Zgoll 2003: 41-67; Reiner and Güterbock 1967; Ebeling 1953: 130-137</Edition>
+<Translation_x0020_of_x0020_Prayer>Foster 2005: 599-601 (KUB 37 36-37), 601-605 (later version); Seux 1976: 186-194;  Labat 1970: 253-257; Stephens in Pritchard 1969: 383-385; von Soden 1953: 328-333; Ungnad 1921: 217-222; Jensen 1915: 124-136</Translation_x0020_of_x0020_Prayer>
+<Further_x0020_Literature> Mayer 1976: 389; Frechette 2012: 256; Zernecke 2011: 77-192; Zernecke in Lenzi 2011: 257-290; Edzard 1991: 29</Further_x0020_Literature>
 </Sheet1>
 <Sheet1>
 <ID>26</ID>
@@ -419,6 +419,8 @@
 <ID>58</ID>
 <Q-Number>Q006110</Q-Number>
 <Composition_x0020_Name>SB Šuʾilla Prayer to Marduk 11</Composition_x0020_Name>
+<Edition>Marduk 11 has been identified with Marduk 17; see there.</Edition>
+<Further_x0020_Literature>Loretz and Mayer 1978: XIII; Mayer 1976: 397</Further_x0020_Literature>
 </Sheet1>
 <Sheet1>
 <ID>59</ID>
@@ -452,6 +454,9 @@
 <ID>63</ID>
 <Q-Number>Q006115</Q-Number>
 <Composition_x0020_Name>SB Šuʾilla Prayer to Marduk 17</Composition_x0020_Name>
+<Edition>Ebeling 1953: 88-91; Oshima 2011: 373-375; what was once identified as Marduk 11 is now properly identified with Marduk 17</Edition>
+<Translation_x0020_of_x0020_Prayer>None</Translation_x0020_of_x0020_Prayer>
+<Further_x0020_Literature>Loretz and Mayer 1978: XIII; Mayer 1976: 397</Further_x0020_Literature>
 </Sheet1>
 <Sheet1>
 <ID>64</ID>
@@ -845,7 +850,7 @@
 <ID>124</ID>
 <Q-Number>Q006178</Q-Number>
 <Composition_x0020_Name>SB Šuʾilla Prayer to Tašmetu 2</Composition_x0020_Name>
-<Edition>Ebeling 1953: 24-25</Edition>
+<Edition>Ebeling 1953: 24-25; Wiseman and Black 1996: 56-57; Van Buylaere 2010d</Edition>
 <Translation_x0020_of_x0020_Prayer>Seux 1976: 334</Translation_x0020_of_x0020_Prayer>
 <Further_x0020_Literature>Mayer 1976: 424; Frechette 2012: 273-274</Further_x0020_Literature>
 </Sheet1>
@@ -858,18 +863,27 @@
 </Sheet1>
 <Sheet1>
 <ID>126</ID>
-<Q-Number>Q006180</Q-Number>
+<Q-Number>Q006178</Q-Number>
 <Composition_x0020_Name>SB Šuʾilla Prayer to Tašmetu 4 </Composition_x0020_Name>
+<Edition>See now Tašmetu 2</Edition>
+<Further_x0020_Literature>Mayer 1976: 424; Mayer 1998: 270; Frechette 2012: 273-274</Further_x0020_Literature>
+<Field6>formerly Q006180</Field6>
 </Sheet1>
 <Sheet1>
 <ID>127</ID>
-<Q-Number>Q006181</Q-Number>
+<Q-Number>Q006178</Q-Number>
 <Composition_x0020_Name>SB Šuʾilla Prayer to Tašmetu 5 </Composition_x0020_Name>
+<Edition>See now Tašmetu 2</Edition>
+<Further_x0020_Literature>Mayer 1976: 424; Frechette 2012: 273-274</Further_x0020_Literature>
+<Field6>formerly Q006181</Field6>
 </Sheet1>
 <Sheet1>
 <ID>128</ID>
-<Q-Number>Q006182</Q-Number>
+<Q-Number>Q006178</Q-Number>
 <Composition_x0020_Name>SB Šuʾilla Prayer to Tašmetu 6</Composition_x0020_Name>
+<Edition>See now Tašmetu 2</Edition>
+<Further_x0020_Literature>Mayer 1976: 424; Frechette 2012: 273-274</Further_x0020_Literature>
+<Field6>formerly Q006182</Field6>
 </Sheet1>
 <Sheet1>
 <ID>129</ID>
@@ -880,8 +894,8 @@
 <ID>130</ID>
 <Q-Number>Q006184</Q-Number>
 <Composition_x0020_Name>SB Šuʾilla Prayer to Zappu 1</Composition_x0020_Name>
-<Edition>Ebeling 1953: 62-63; Ambos 2013: 200</Edition>
-<Translation_x0020_of_x0020_Prayer>Ambos 2013: 199</Translation_x0020_of_x0020_Prayer>
+<Edition>Ebeling 1953: 62-63; Ambos 2013: 200; Jiménez 2014: 108-109</Edition>
+<Translation_x0020_of_x0020_Prayer>Ambos 2013: 199; Jiménez 2014: 109</Translation_x0020_of_x0020_Prayer>
 <Further_x0020_Literature>Mayer 1976: 431-432; Frechette 2012: 274</Further_x0020_Literature>
 </Sheet1>
 <Sheet1>
