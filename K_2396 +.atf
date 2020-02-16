@@ -1,0 +1,310 @@
+&P397497 = BMS 48 + ZA 042, 221-222,BMS 05 (K.6019 + K.7243 is AOAT 034, 015), BMS 08 + Iraq 76, 108-109 (K.9083)
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: K 02396 + K 03893 + K 06019 + K 07243 + 08116 + 09083 are all now joined.
+
+@tablet
+
+@obverse
+
+1. [... nab]-ni-ti
+#tr.en: [. . . cre]ation
+#note: Restorations are based on duplicates. This is the first line on the obverse of BMS 48.
+
+2. [... kib]-ra#-a-ti
+#tr.en: [. . . the wo]rld
+
+3. [...] en#-ši
+#tr.en: [. . .] the weak
+
+4. [...] šag#-ša₂
+#tr.en: [. . .] the oppressed
+
+5. [... e]-ka#-a-ti
+#tr.en: [. . . the or]phan-girls
+
+6. [...] mil#-ku
+#tr.en: [. . .] counsel
+
+7. [... {d}]i₂#-gi₃-gi₃
+#tr.en: [. . .] the Igigi
+
+8. [...] x# ri
+#tr.en: [. . .] . . . 
+
+9. [... kal mim-ma] šum#-šu₂
+#tr.en: [. . . everything, whatever] there is,
+
+10. [... i-ram]-mu
+#tr.en: [. . . who lov]es [. . .]
+
+11. [... {lu₂}]UŠ₂
+#tr.en: [. . . the] dead
+
+12. [... i-ram]-mu#
+#tr.en: [. . . who lov]es [. . .]
+
+13. [... {lu₂}]UŠ₂#
+#tr.en: [. . . the] dead
+
+14. [... tes₂-li]-ti#
+#tr.en: [. . .] my [pray]er
+
+15. [...]
+#tr.en: [. . .]
+#note: There is a lacuna of about three lines between BMS 48 obv. and AOAT 34, 15 (= BMS 5 + K.7243). See Ambos 2013: 198.
+
+16. [...]
+#tr.en: [. . .]
+
+17. [...]
+#tr.en: [. . .]
+
+18. [as-hur]-ka# ina# DINGIR#-MEŠ# ri#-ša₂#-a# re#-e#-[mu]
+#tr.en: [I hereby turn] to you among the gods. Have mer[cy]!
+#note: This is the first line of BMS 5 + K.7243 (= AOAT 34, no. 15).
+
+19. [aṣ-bat] TUG₂.SIK₂-ka TI qi₂-šam#
+#tr.en: [I seize] your hem. Grant me life!
+
+20. [i]-bi# šu-mi šu-ri-ka U₄-MEŠ-ia#
+#tr.en: [Ca]ll my name! Lengthen my days!
+
+21. [su]-pu-ri ru-up-piš li-im-id lil-li-di#
+#tr.en: Broaden my [shee]pfold. May my offspring be numerous!
+#note: The offspring may refer to the flock's not the supplicant's. See CAD L, 188.
+
+22. [hul]-liq GIG.MU qi₂-bi ba-la₂-ṭi#
+#tr.en: [Erad]icate my illness. Order well-being (for me).
+
+23. [an]-ni# lip-pa-ṭir lit-ta-bil a-di-ri#
+#tr.en: May my [gui]lt be release. May my fear be carried off.
+
+24. [lim]-ma-ši gil₂-la-ti su-pu-uh ta-ne₂-[hi]
+#tr.en: [May] my sin be forgotten. Disperse [my] distres[s],
+
+25. lu#-ša₂-pi nar-bi-ka lut-ta-id zi-kir-ka#
+#tr.en: That I may proclaim your greatness and praise your name,
+
+26. [ud]-da-kam* la pa-da-a qu-ru-ud-ka lud-lul#
+#tr.en: (And) [fo]rever without ceasing may I sing your heroism.
+
+$ single ruling
+
+27. KA#-INIM-MA ŠU.IL₂.LA₂ {d}DI.KUD-[KAM*]
+#note: [It is] the wording of a lifted-hand prayer to Madanu.
+
+$ single ruling
+
+28. EN₂ qa₂-rit-tu₄ {d}iš-tar ka-nu-ut i-la₂-a-ti#
+#tr.en: Incantation: O heroic Ishtar, cherished one among the goddesses,
+
+29. [di]-par AN+e u KI+ti₃ ša₂-ru-ur kib-ra-a-ti#
+#tr.en: [To]rch of the heavens and earth, brilliance of the world,
+#note: Restorations from here to the end of the obverse follow Ambose 2013: 198, 200.
+
+30. [{d}]in#-nin-ni bu-uk-rat {d}3(u) i-lit-ti {d}nin-gal#
+#tr.en: Innini, firstborn of Sin, offspring of Ningal,
+
+31. [tu]-am#-ti ṭar₃-ri šu-pe-e qu-ra-du {d}UTU+{ši#}
+#tr.en: Twin sister to the bearded, resplendent one of the warrior Shamash,
+
+32. [{d}]iš#-tar a-na-ti-ma AN+{e} ta-be₂-el-li#
+#tr.en: Ishtar, you are (like?) Anu, you rule the heavens.
+
+33. [GIM] {d#}+EN.LIL₂ ma-li-ki ta-ṭe-em-me da-ad₂-mi
+#tr.en: Like Enlil, the counsellor, you command the habitations.
+#note: The restoration is now attested in a duplicate (OrNS 59, 488 = P480768). The previously suggested itti, "with" (see, e.g., Ebeling 1953: 60 and CAD Ṭ, 97) should be abandoned.
+
+34. [{d}mu]-um#-mu ba-an par-ṣi u šu-luh-hi
+#tr.en: [Mu]mmu, creator of the rites and lustrations,
+#note: The ṢI is malformed.
+
+35. [tak]-lim#-tu₄ {d}e₂-a ina ABZU tu#-kal-li rik-si
+#tr.en: At the [ins]truction of Ea, you hold the bonds in the Apsu.
+#note: For taklimtu as an adverbial locative here, see Zgoll 2003: 201.
+
+36. [e-ma] ba#-aš#-mu# ki#-sur#-ru-u₂# ŠUB{+at} SIG₄#
+#tr.en: [Wherever] ground plans are formed, brickwork laid out,
+
+37. [... ta-paq]-qi₂-di ki-ma {d}UTU{+ši#}
+#tr.en: (There) [you ap]point [. . .] like Shamash.
+
+38. [... a-a]-u₂# ma-hir-ki#
+#tr.en: [. . . wh]o (is) your equal?
+
+39. [...] a#-li ša₂-nin-ki#
+#tr.en: [. . .] where (is) your rival?
+
+40. [...] iš-di-ha tu-kan-ni
+#tr.en: [. . .] you establish [. . .] (and) profit.
+
+41. [... ši-ma]-tam-ma i-dam-mi-iq lem-nu#
+#tr.en: [. . . fa]te so that the unfortunate thrive.
+
+42. [... šar-ku]-ki as-hur-ma ina {d}1(u) 5(diš)-MEŠ ka-ši-ma ša₂ ba#-[a-li]
+#tr.en: [. . . were presented] to you. (When) I turned to the goddesses, you were the one to bes[eech].
+#note: The translation is indebted to CAD B, 2. Literally, "to you (was) the bese[eching]."
+
+43. [...] ar#-ka-tuk {d}[LAMMA]
+#tr.en: [. . . a divine guardian] behind you.
+
+44. [...] šu#-me₂-lu-uk-ki dum-qu#
+#tr.en: [. . .] favor at your left.
+
+45. [... taš-mu]-u₂# u ma-ga-ru sa-li-mu#
+#tr.en: [Accep]tance and consent (and) peace [. . .]
+
+46. [i-ta-tu-ki šu-tas-hu]-ra# TI.LA šul-mu#
+#tr.en: #tr.en: Life (and) wholeness [revo]lve [around you].
+#note: Lit. "[all around you] life and wholeness stand in a circle." BMS 5 + K.7243 ends here.
+
+@reverse
+
+1. [ki] ṭa-a-bu su-up-pu-u₂-ki ki-i qe₂-ru-ub neš-mu-ki
+#tr.en: [How] sweet (it is) to pray to you; how near (is) your hearing.
+
+2. nap#-lu-us-ki taš-mu-u₂ qi₂-bit-ki nu-u₂-ra
+#tr.en: Your seeing (is) acceptance, your command light.
+
+3. re-min₄-ni-ma {d}iš-tar qi₂-bi-i na-ha-ši
+#tr.en: Have mercy on me, O Ishtar, command my prosperity.
+
+4. ki-niš nap#-li-si-in-ni-ma le-qe₂-e un-ni-ni-ia
+#tr.en: Look upon me in earnest and accept my prayers.
+
+5. er-de us-ki iš-di-hu li-ku#-na
+#tr.en: I have pursued your course; let prosperity remain with me.
+#note: The translation is indebted to CAD U/W, 283.
+
+6. ser₃-da-a-ki a-hu-zu lu-be₂-el ṭu-ub lib₃#-[bi]
+#tr.en: I have seized your carrying pole; let me lay claim to goodness of he[art]. 
+
+7. u₂-bil ab-ša₂-na-ki pa-ša₂-ha šuk-[ni]
+#tr.en: I have carried your yoke; implem[ent] the releasing (of anger).
+
+8. u₂-qe₂-ʾ reš-ki li-ši-ra sa-li-mu#
+#tr.en: I have waited on you; let peace come to me straight away.
+
+9. aṣ-ṣur ša₂-ru-ra-ki lu-u₂ taš-mu-u₂ u₃ ma-ga-ru
+#tr.en: I have kept watch of your radiance; may there be acceptance and consent.
+
+10. eš-te-ʾ-u₂ nam#-ri#-ir#-ri-ki lim-mi-ru zi-mu-u₂-a
+#tr.en: I have sought out your splendor; may my countenance shine (with joy).
+
+11. as-hur be-lut-ki lu-u₂ TI.LA u₃ šul-mu
+#tr.en: I have turned to your sovereignty; may there be life and wholeness.
+
+12. lu-ur-ši {d}ALAD SIG₅ ša₂ pa-ni-ki : ša₂ ar₂-ki-ki a-li-kat₃ {d}LAMA₃ lu-ur-ši
+#tr.en: May I acquire a favorable protective spirit who (is) before you. May I acquire the divine guardian who follows after you.
+
+13. ša₂ im-nu-uk-ki meš-ra-a lu-uṣ-ṣip dum-qa lu-uk-šu-da ša₂ šu-me-lu-uk#-[ki]
+#tr.en: May I add the wealth that (is) at your right (side). May I achieve the favor that (is) at [your] left.
+
+14. qi₂-bi-ma liš-še-me₂ zik-ri#
+#tr.en: Command that my utterance be heard.
+
+15. a-mat a-qab-bu-u₂ ki-ma a-qab-bu-u₂ lu-u₂ ma-ag-rat
+#tr.en: May the word that I speak be accepted when I speak (it).
+
+16. ina ṭu-ub UZU u hu-ud lib₃-bi i-tar-ri-in-ni u₄-me-šam
+#tr.en: Guide me every day in a sound body and gladness of heart.
+
+17. U₄-MEŠ-ia ur-ri-ki ba-la-ṭa šur-ki : lu-ub₂-luṭ lu-uš-lim-ma lu-uš-tam-mar DINGIR[{+ut}-ki]
+#tr.en: Lengthen my days. Grant (me) well-being. Let me be healthy; let me be whole, so that I may continually praise [your] divini[ty].
+
+18. e-ma u₂-ṣa-am-ma-ru lu-uk-šu-ud : AN{+u₂} HUL₂-ki ABZU li-riš-[ki]
+#tr.en: Whatever I strive for, let me achieve. May the heavens rejoice over you. May the Apsu be glad [on your account].
+
+19. DINGIR-MEŠ ša₂ kiš-ša₂-ti lik-ru-bu-ki : DINGIR-MEŠ GAL-MEŠ lib₃-ba-ki li-ṭib-[bu]
+#tr.en: May the gods of the world (lit. everything) great you. May the great gods make your heart gl[ad].
+
+$ single ruling
+
+20. KA.INIM.MA ŠU.IL₂.LA₂ {d}+INANA.KAM* ana IGI {d}1(u) 5(diš) NIG₂.NA ŠIM.LI GAR#[{+an}]
+#tr.en: It is the wording of a lifted-hand prayer to Ishtar. In front of Ishtar, you set up a censer of juniper,
+#note: K.9083 begins to restore the ends of the lines until the rubric below (line 30). See Jiménez 2014: 108 and fig. 7 (p. 106).
+
+21. mi-ih-ha BAL{+qi₂}-ma ŠU.IL₂.LA₂ 3(diš)-šu₂ ŠID#-[nu]
+#tr.en: You libate miḫḫû-beer, and you recit[e] (this) lifted-hand prayer three times.
+
+$ single ruling
+
+22. EN₂ at-tu-nu {mul}MUL šar-hu-tu₄ ša₂ mu-ši#-ti#
+#tr.en: Incantation: You, O Zappu (Pleiades), (are) the splendid ones of the night,
+
+23. nam-ru-ti ša₂ DINGIR-MEŠ GAL-MEŠ {mul#}MUL#
+#tr.en: The brilliant ones of the great gods, O Pleiades!
+
+24. a#-na hul-lu-qu lem-nu-ti ib-nu-ku-nu-ši {d}a-num : ina ša₂-ma-me MU#-ku-nu {d}IMIN-BI {mul#}[MUL]
+#tr.en: Anu created you to destroy the wicked. In the heavens your name (is) Sebettu (i.e., the Seven).
+
+25. [...]-nu# ki-li-lu {na₄}MUŠ.GIR₃ ra-ki-su me-ser₂-ri#
+#tr.en: [. . .] . . a headband of serpentine, the ones girded with a belt.
+#note: Ambose 2013: 200, line 71=A₃25 suggests we restore [{na₄}ša₂-da-n]u, "haemetite," at the head of the line; Jiménez 2014: 108 prefers to restore [za-ʾ-n]u, "[the ones who are adorn]ed." In light of ra-ki-su in the second half of the line, we expect a participle at its head. The reading at the end of this line and the several up to the ruling by and large follows Jiménez's (2014: 108).
+
+26. [...] SU TI ša₂ til-le-e mu-šam-qi₂-tu₄ bu-lim
+#tr.en: [. . .] . . of the weapons, who strike down the beasts.
+#note: Note that til-le-e EDIN-ni occurs in Erra I 88 (see Cagni 1969: 66), where it refers to armor, "weapons of campaign" (lit. "weapons of the steppe").
+
+27. [mu-sa]-ah#-hu EDIN da-li-hu A.AB.BA-MEŠ#
+#tr.en: [Who throw] the steppe [into con]fusion, who roil the sea,
+#note: Ambose (2013: 200) and Jiménez (2014: 108) prefer to restore [mu-pa-aš₂-š]i-ḫu, "[who pacif]y the steppe," but I think the parallel participle in the second cola suggests a more violent verb, such as seḫû, at the head of the line. The scant traces of the sign before ḪU will support either reading. CT 41 33: 5 explains a form of saḫû with one from dalāḫu (cited in CAD S, 208), suggesting their semantic overlap.
+
+28. [x x x] x#-x#-tu₄ ga#-ru#-tu₄# DUMU-MEŠ {d}a-nim
+#tr.en: [. . .] . . . mighty sons of Anu.
+
+29. [...]-x#-ku-nu-ši
+#tr.en: [. . .] to you.
+
+30. [... da₃]-li₂#-li₂#-ku-nu lud-lul#
+#tr.en: [. . .] I may sing your [pr]aises!
+#note: Jiménez 2014: 108 suggests we restore [... a-na da-ra-a-ti] in the break. The parallel cited in the next note might suggest instead [bu-ul-li-ṭa-an-ni-ma] (line 26). There is easily room for eight (or more) signs.
+
+31. ki-[ma A-MEŠ ID₂] eš#-šu#-ti# iṭ#-ru#-du# la#-bi#-ru#-ti TU₆.EN₂#
+#tr.en: Jus[t as] the fresh [water of the river] expelled the old. Closing Incantation Formula.
+#note: This is the first line in BMS 48, now joined to K.9083. Jiménez (2014: 108), citing Mayer 1990: 471, lines 24-25 as a parallel, suggests the above restoration. However, if it is correct, it must be a stub since the phrase restored here ought to rely on an imperative that occurred previously (it occurs in line 24 of the cited parallel, ina šīrīya ṭurud, "remove from my body" . . .) to set up the analogy. Moreover, the cited parallel shows the line occuring before the final praise. In the present case the line occurs after the final praise (in line 30), which is highly unusual. Perhaps the required imperative stood in line 29 and the scribe transposed lines 30 and 31.
+
+$ single ruling
+
+32. KA-INIM-MA ŠU-IL₂-LA₂ {mul}MUL-KAM*
+#tr.en: It is the wording of a lifted-hand prayer to Zappu (Pleiades).
+
+$ single ruling
+
+33. EN₂ EN šur-bu-u ša₂ ina AN{+e} šu-luh-hu-šu₂ KU₃
+#tr.en: Incantation: O greatest lord, whose lustrations (are) pure in the heavens.
+
+34. 8(diš)-u₂ pir-su E₂ sa-la me-e E₂.GAL {m}AN-ŠAR₂-DU₃-A LUGAL# ŠU₂# LUGAL KUR AN.ŠAR₂{ki}
+#tr.en: Eighth pirsu of (the ritual) Bit Sala' Me. Palace of Ashurbanipal, king of the world, king of the land of Ashur,
+
+35. ša a-na AN.ŠAR₂ u₃ {d}nin-lil₂ tak-lu
+#tr.en: who trusts in Ashur and Ninlil,
+
+36. ša {d}NA₃ {d}taš-me-tu₄ GEŠTU-2(diš) DAGAL{+tu₄} iš-ru-ku-uš
+#tr.en: to whom Nabu (and) Tashmetu gave wide understanding,
+
+37. i-hu-uz-zu IGI-2(diš) na-mir-tu ni-siq ṭup-šar-ru-ti
+#tr.en: (who) has achieved enlightened eyes with regard to the highest level of the scribal art,
+
+38. ša# ina# LUGAL#-MEŠ# a-lik mah-ri-ia mim-ma šip-ru šu-a-tu₂ la i-hu-uz-zu
+#tr.en: which art none of the kings who came before me had learned,
+
+39. [ne₂-me-eq {d}NA₃ ti]-kip# sa#-an-tak-ki ma-la ba-aš₂-mu
+#tr.en: [the wisdom of Nabu, cuneiform] signs, as many as there are.
+
+40. [ina ṭup-pa-a-ni aš₂]-ṭur# as-niq ab-re-e-ma
+#tr.en: [I w]rote, collated, and checked (the present text) [on tablets].
+
+41. [a-na ta-mar-ti u ši-ta-as-si]-ia# qe₂#-reb E₂.GAL-ia u₂-kin
+#tr.en: I deposited (it) in my palace [for m]y reading and studying].
+
+42. [NIR.GAL₂.ZU NU UR] LUGAL# DINGIR-MEŠ AN#.ŠAR₂
+#tr.en: [The one who trusts in you will not be put to shame], O king of the gods, Ashur.
+
+43. [man-nu ša TUM₃ u₃ lu-u MU-šu₂ it-ti MU]-ia# i-šaṭ-ṭa-ru
+#tr.en: [Whoever carries (this tablet) off or] writes [his name alongside] my [name],
+
+44. [AN.ŠAR₂ u₃ {d}nin-lil₂ ag-giš ez-zi-iš lis-ki-pu-šu₂-ma MU-šu₂] NUMUN#-šu₂ ina KUR li-hal-li-qu
+#tr.en: [may Ashur and Ninlil overthrow him in fierce rage. May his name (and)] his seed disappear from the land.

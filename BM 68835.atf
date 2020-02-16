@@ -1,0 +1,142 @@
+&P480777 = OrNS 59, 481
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: BM 68835 attests part of Nabu 6.
+
+@tablet
+
+@left
+
+1. [...] MU# MU# [...]
+#tr.en: (The first syllable of the word musarû, "inscription.")
+#note: A series of MU signs on the left edge of the cylinder is inscribed at 90° to the main text. The only two signs still on the cylinder occur to the left of lines  28 and 29.
+
+@right
+
+1. U₂ U₂ U₂ U₂ U₂ U₂ U₂ U₂ U₂ U₂ U₂ U₂ U₂ U₂ U₂ U₂ U₂ U₂ U₂
+#tr.en: (The final long vowel of the word musarû, "inscription.")
+#note: The series of U₂ signs on the right edge is inscribed at 90° to the main text on the cylinder. 
+
+@surface a
+
+1. [...] SA# SA# SA SA SA SA SA SA SA# SA SA
+#tr.en: (The second syllable of the word musarû, "inscription.")
+#note: The line is part of the ornamentation of the cylinder. The series of SA signs is inscribed on this line to designate the beginning of the main text, the prayer to Nabu that follows.
+
+2. [... {d}]1(u) 5(diš) lis-lim
+#tr.en: [. . .] may the goddess be at peace.
+#note: I'm not sure about the reading of this line.
+
+3. [EN₂ ... da-pi]-nu# bu-kur₂ {d}bi-in#-DU₆#.KU₃#.GA#
+#tr.en: [Incantation:] O mighty [lord], son of Bindukuga,
+
+4. [...] na-aš SU.LIM u me-lam-nu
+#tr.en: [. . .], who bears radiance and brilliance,
+
+5. [...] {d}bi₂#-in-DU₆.KU₃.GA#?
+#tr.en: [...] Bindukuga,
+#note: Although not on Mayer's copy, it looks to me like there may be traces of a final GA, which has been written over by the series of U₂ signs on the right edge.
+
+6. [...] na#-aš SU.LIM u me-lam-mu
+#tr.en: [. . .], who bears radiance and brilliance,
+
+7. [...] le#-ʾ#-u₂ qar-du
+#tr.en: [. . .], capable hero,
+
+8. [... ha]-mi#-im šu-ki-am-mu
+#tr.en: [. . . , who em]bodies (lit. [co]llects) the scribal art,
+
+9. [...] lal₃#-gar pa-qid# DU₆.KU₃!.GA
+#tr.en: [. . .] of the Lalgar and looks after the Dukuga.
+#note: The KU₃ has an extra Winkelhaken.
+
+10. [...] gi#-im-ri {d}a-nun-na-ki
+#tr.en: [. . .] of all the Anunnaki,
+
+11. [... šip]-ṭi# u EŠ.BAR{+e} bu-ru-u₂ KI.UR₃.RA#
+#tr.en: [. . . judg]ment and decisions [. . .] in the firmament (and) terrestrial foundation. 
+#note: On the construct chain and the phonetics of bu-ru-u₂ for burūmû, see Mayer 1990: 465-466.
+
+12. [ša₂ ... {d}EN].LIL₂ u {d}IDIM še-mu-u₂ zi-kir-šu₂
+#tr.en: [Who]se command [. . . En]lil, and Ea hears,
+
+13. [...] za#-ri#-šu₂# a#-mat#-su ma-ag-rat
+#tr.en: Whose progenitor [. . .], whose word is accepted.
+
+14. [... la iš]-šim#-me la i-nam-din tak-lim
+#tr.en: [. . . are not de]creed, offerings are not given.
+
+15. [...] e₂-sag-il₂
+#tr.en: [. . .] Esagil,
+
+16. [... e₂]-zi#-da
+#tr.en: [. . . E]zida,
+
+17. [...] ZI#{+ti₃}
+#tr.en: [. . .] lives,
+
+18. [...] TIN
+#tr.en: [. . .] the living,
+
+19. [...] {lu₂}UŠ₂
+#tr.en: [. . .] the dead,
+
+20. [... ta-a-a]-ri# ga-mil ZI{+ti₃}
+#tr.en: [. . . relenti]ng one, who spares life,
+
+21. [... šu]-nu#-hu# ša₂ NIG₂.GIG mah-ra-tan-nu
+#tr.en: [. . . the exh]austed one, on whom illness has fallen,
+
+22. [...] qu#-lu# u ta-ni-hi il-ʾ!(EŠ)-bu meš-re-ti-ia# 
+#tr.en: [. . .] silence and distress have afflicted my limbs.
+#note: I follow Mayer 1990: 462 in thinking the EŠ is a mistake for an alef.
+
+23. [...] x# GAL!{+tu₄} at-ta-bal ZI{+ti₃}
+#tr.en: [. . .] great [. . .] I present myself.
+#note: Mayer 1990: 462 provides a full reconstruction of the line's head. The translation here follows CAD A/2, 18.
+
+24. [...] qu!-lam-ma ši-me qa-ba-a-a
+#tr.en: [. . .] pay attention and hear my speaking.
+
+25. [...]-u₂# qi₂-bi ba-la-ṭu! : ur-ru-uk! U₄-MEŠ-ia₂# liš-ša₂-kin# šap#-tuk!#-ka
+#tr.en: [. . .], . . command life. Lengthen my days. May it be established with your word (lit. lips). 
+#note: Mayer 1990: 462 restores [{d}Nabû, re-me-nu]-u₂ at the head of the line.
+
+26. [...] x# x# GIG#? ta-ni-hu# šu#-us-su :  x x ŠA₃ x [(x?)] x RI RU x# [(x?)]
+#tr.en: [. . .] illness(?) (and) distress drive away. . . . 
+#note: The second half of the line is Mayer's reading (1990: 463). I wonder if the first several signs might be read i-na! or UK! (see previous line). Perhaps i-na! <erasure?>/SU#? ŠA₃ x# šu#-ri-<iq> ru-x#? My best image of this line is in IMG_2804.
+
+27. [...] x# x# x# x# x# lil#?-li#-du šul-li-mu : lu!-ub-luṭ lu-uš-tam₂-ma#-ar#? 
+#tr.en: [. . .] preserve (my) offspring. Let me be whole that I may me praise (your divinity).
+#note: Mayer's copy shows BI and PI clearly as the second and third sign in the line (1990: 481); the area is very abraded and the reading seems uncertain to me. At the other end of the line, the scribe ran out of room, leaving off DINGIR-ut-ka, which is attested at the end of the next line, after the last two signs comprising the verb are repeated using more typical orthography: tam-mar.
+
+28. nar-bi-ka# lu#-ta#-ma#-a ana UN-MEŠ DAGAL-MEŠ ILIMMU₄ ILIMMU₄ tam-mar DINGIR{+ut}-ka
+#tr.en: Let me announce your great deeds to the wide peoples. 
+#note: The second part of the line after the two ILIMMU₄ signs (which are placed together as one sign), concludes the previous line. See note above.
+
+29. E₂.SAG.IL₂#! lih-du-ka E{+ki} li-riš-ka : E₂.ZI.DA ku-um-<ma?>-ka#? 
+#tr.en: May Esagil rejoice over you; may Babylon be glad on your account. (May) Ezida, your shrine, rejoice before you.
+#note: The scribe ran out of room, leaving off pa-nu-ka li-ir-tiš₂, which is attested at the end of the next line. The final KA seems to have been partly erased by the inscribing of the series of U₂ signs on the right edge. Perhaps the MA is there, too.
+
+30. [DINGIR-MEŠ] AN#{+e} u KI{+ti₃} lib₃-ba-ka li-ṭib-bu ILIMMU₄ ILIMMU₄ pa-nu-ka li-ir-tiš₂
+#tr.en: : May [the gods of the heaven]s and earth please you (lit. your heart).
+#note: The second part of the line after the two ILIMMU₄ signs (which are placed together as one sign), concludes the previous line. See note above. The (formulaic) restoration at the head of the line follows Mayer 1990: 463.
+
+31. [{d}a]-num# {d}+EN.LIL₂ u {d}IDIM li-šar-bu-u₂ be-lut-ka 
+#tr.en: May [A]nu, Enlil, and Ea magnify your lordship.
+
+32. [(RU) RU] RU# RU RU RU RU RU RU RU RU RU RU RU RU RU
+#tr.en: (The third syllable of the word musarû, "inscription.")
+#note: The line is part of the ornamentation of the cylinder. The series of RU signs is inscribed on this line to designate the end of the main text.
+
+33. [...] x# x# DU ŠI KIL {d}+AG ša₂ ana {d}+EN ana u? AMAR ŠU₂
+#tr.en: . . . 
+
+34. [lu]-ub#?-luṭ A SUR ana {d}+EN 
+#tr.en: . . . 
+
+35. [...] x# GEŠTU.MIN ip-qid ana nap-šat-su
+#tr.en: [. . .] intelligence, he entrusted to his life.
+
+$ 1 line blank

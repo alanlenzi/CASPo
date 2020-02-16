@@ -1,4 +1,4 @@
-﻿&P369009 = KAR 023 + KAR 025
+&P369009 = KAR 023 + KAR 025
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -26,7 +26,7 @@
 #note: The restoration follows Mayer 1976: 469.
 #tr.en: [Foremost of the gods], honored [na]me,
 
-6. zi#-kir#-šu₂# [x] x# [x] zi#?-kir#!(HA#) AD ba-nu-šu
+6. zi#-kir#-šu₂# [x] x# [x] zi#?-kir#!(HA) AD ba-nu-šu
 #tr.en: His command, [. . .], the command of (his) father, 
 #note: Mayer 1976: 469 reasonably suggests reading [NU B]A[L?-ni] in the gap. There is a trace of a sign in the middle of the line, but not enough to identify it. He also wanders if . . . Z]I-ḪA should be emended to zi-kir!, which seems quite reasonable, especially in light of the next line's phrasing. 
  
@@ -85,7 +85,7 @@ $ single ruling
 21. DU₃.DU₃.BI KI SAR A-MEŠ KU₃-MEŠ SUD GI.DU₈ DU{+an}
 #tr.en: Its ritual: You sweep the ground, sprinkle pure water, (and) set up a portable altar.
 
-22. 2(diš) NIG₂.NA 1(diš){+en#) a#-na# {d#}UTU#.È# 2{+tu₂} a-na {d}UTU.ŠU₂.A GAR{+an}
+22. 2(diš) NIG₂.NA 1(diš)-en# a#-na# {d#}UTU#.È# 2(diš)-tu₂ a-na {d}UTU.ŠU₂.A GAR{+an}
 #tr.en: You set up two censers: the first to the east, the second to the west.
 
 23. ina [U₄] ša {d#}[NA₃? ...] {giš}EREN
@@ -94,18 +94,18 @@ $ single ruling
 24. [...] x# [... {giš}]ŠIM#.LI ina ki-la₂-ta-an!(ni)
 #tr.en: [. . .] . . . [. . . ju]niper in both.
 
-25.[...] ta#-sar₂-raq mi-ha GEŠTIN-MEŠ BAL{+qi₂} 
+25. [...] ta#-sar₂-raq mi-ha GEŠTIN-MEŠ BAL{+qi₂} 
 #tr.en: [. . .] you scatter. You libate mihhu-beer (and) wine.
 
-26.[{d}NA₃? SAG.KAL DINGIR]-MEŠ# MU DUGUD
+26. [{d}NA₃? SAG.KAL DINGIR]-MEŠ# MU DUGUD
 #tr.en: [O Nabu, foremost of the god]s, honored name,
 #note: My restoration assumes this line is essentially repeating line 5 above (restored). For a different restoration, see Ebeling 1953: 12.
 
-27.[aṣ-bat si-pe-ka] kul-li-ma#-an#-ni ZALAG₂
+27. [aṣ-bat si-pe-ka] kul-li-ma#-an#-ni ZALAG₂
 #tr.en: [I seize your hem], show me the light!
 #note: My restoration assumes this line is repeating line 18 above, which is the only ritual action and petition in the entire prayer. There may be a trace of the BAT in the abraded part of the line.
 
-28. [ki?-am? DU]₁₁#.GA#-ma# uš#-kin#
+28. [ki?-am?] DU₁₁#.GA#-ma# uš#-kin#
 #tr.en: [Thus, he s]ays and prostrates himself.
 #note: The restoration follows Ebeling 1953: 12.
 
@@ -139,7 +139,7 @@ $ double ruling
 
 37. [šum-ka] ka-liš i-na KA# UN#-MEŠ# ṭa-a-bu
 #tr.en: [Your name] everywhere (is) sweet in the mouth of the people.
-#note: KA UN-MEŠ are nearly broken off the tablet now. Compare Ebelings copy.
+#note: KA UN-MEŠ are nearly broken off the tablet now. Compare Ebeling's copy.
 
 38. [...] EN# GAL#{+u₂#} [...]
 #tr.en: [. . .] great lord [. . .]
@@ -160,7 +160,7 @@ $ double ruling
 43. šub-ši INIM SIG₅{+ti₃} ina lib₃-bi-ia
 #tr.en: Create a favorable word in my heart.
 
-44.ti-ru u man-za-zu liq-bu-u ŠAL.SIG₅{+ti₃}
+44. ti-ru u man-za-zu liq-bu-u ŠAL.SIG₅{+ti₃}
 #tr.en: May courtier and attendant speak favor.
 
 45. DINGIR-MU li-iz-ziz i-na ZAG-ia : {d}iš₈-tar₂-MU li-iz-ziz 
@@ -259,8 +259,6 @@ $ end of column missing
 
 @column 2
 
-$ beginning of column missing
-
 1. da-lil DINGIR{+ti}-ka# [GAL{+ti₃} lud-lul]
 #tr.en: [Let me resound] the praise of your [great] divinity!
 #note: This is the first line of KAR 25 ii 1ˊ. The tablet no longer has GAL, TI₃, or LUD, which are in Ebeling's copy. (The LUL was already gone at the time.) The corner of the tablet has broken off since 1953, affecting the endings of lines 1-9.
@@ -310,9 +308,9 @@ $ double ruling
 13. a#-lik# A₂-MEŠ-ka {mul}MUL DI.KUD kit#-ti# mi#-ša₂-ri
 #tr.en: The Pleiades goes alongside you, O judge of truth (and) justice
 
-14. DINGIR-MEŠ 1(u) 5#(diš)-MEŠ#
-#tr.en: (among the) gods (and) goddesses.
-#note: The line begins half way across the column. Ebeling's collation (1919: 325) confirmed his copy, which shows a ŠA₂ = the number 4 instead of the number 5. There is, however, a crack that runs through the sign now. It seems to me impossible to know which number was actually written.
+14. DINGIR-MEŠ 1(u) 5(diš)#-MEŠ#
+#tr.en: of the gods (and) goddesses.
+#note: The line begins half way across the column. Ebeling's collation (1919: 325) confirmed his copy, which shows a ŠA₂ = the number 4 instead of the number 5. There is, however, a crack that runs through the sign now. It seems to me impossible to know which number was actually written. For the unusal construct chain, see Mayer 1990: 466. 
 
 15. šur-bu-ut#-ka {d}i₃-gi₂-gi₂ ma-šu-ta-ka qa-rit#-tu₂ {d}ir-ni-ni
 #tr.en: The Igigi (are) your greatness, valiant Irnini (is) your . . .
@@ -583,14 +581,14 @@ $ double ruling
 #tr.en: And the utterance of [whose] lips [no god can reject].
 #note: The restoration is based on Ebeling's (1919: 325) reading of the traces at the end of the line, now gone. See likewise Seux 1976: 272, n.6 and line 31 below.
 
-27'. EN# šur-bu-u KUR{+u₂} {d}[NUN!(E₂).GAL-MEŠ mal-ku!(EN) {d}a-nun-na-ki],
+27'. EN# šur-bu-u KUR{+u₂} {d}[NUN!(E₂).GAL-MEŠ mal-ku!(EN) {d}a-nun-na-ki]
 #tr.en: Most high lord, mountain of [the Igigi, ruler of the Anunnaki],
 #note: Ebeling's copy shows most of the restored text here, which he reads: {d}NUN!(E₂).GAL-[MEŠ] mal-ku!(EN) {d}a-nun-na-ki, as well as the text in the following line. See his collations in 1919: 326.
 
 28'. {d#}IDIM EN šur-bu-u KUR{+u₂#} [{d}NUN.GAL-MEŠ]
 #tr.en: Enlil, the most high lord, mountain of [the Igigi],
 
-29'. mal-ku {d}a-nun-na-ki [GAL{+u₂} muš-ta#-lu₄]
+29'. mal-ku {d}a-nun-na-ki [GAL{+u₂} muš-ta-lu₄]
 #tr.en: Ruler of the Anunnaki, [considerate, great one].
 #note: Ebeling's copy shows the entire restoration. It seems that we have here again GAL for NUN, i.e., rabû for rubû.
 
@@ -606,7 +604,7 @@ $ double ruling
 #tr.en: Lord of lords, [lord of the lands, father, progenitor of the great gods].
 #note: Ebeling's copy shows the entire line except for the third EN sign and the last three signs in the line. He wants to read KUR.KUR-MEŠ as šar₄! šar₄!-MEŠ to follow the parallel in KAR 68:13, which has LUGAL LUGAL-MEŠ. Seux 1976: 272, n.11 simply states that the present text is incorrect. 
 
-33'. [... GIŠ#.HUR-MEŠ]
+33'. [... GIŠ.HUR-MEŠ]
 #tr.en: [. . . plans]
 #note: Ebeling's copy shows these signs on the tablet, but they are completely broken away now.
 
@@ -643,10 +641,10 @@ $ double ruling
 #tr.en: Son of [. . .]-shuma-eresh, ditto (i.e., having the same profession), and
 #note: Ebeling's copy reads AB.MA, but note Hunger's improved reading (1968: 79, n.1), adopted here.
 
-8'. A# {m} x# [...] A {lu₂}KI.MIN-ma 
+8'. A# {m}x# [...] A {lu₂}KI.MIN-ma 
 #tr.en: Son of [. . .] . . ., ditto (i.e., having the same profession), and
 
-9'. MA {m} Da#-[di]-iu#-u₂#
+9'. MA {m}da#-[di]-iu#-u₂#
 #tr.en: Son of Da[di]yu,
 #note: Ebeling's copy shows part of the DI and all of the IA. A mere trace is all that is left of the IA.
 

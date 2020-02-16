@@ -1,0 +1,23 @@
+&P413966 = LKA 054
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: VAT 13945 contains a prayer to Tashmetu (5?).
+
+@tablet
+
+@surface a
+
+1. EN₂ {d}taš-me-tu₄# [...]
+#tr.en: Incantation: O Tashmetu [. . .]
+
+2. ka-bit-ti AN [...]
+#tr.en: Honored one . . . [. . .]
+
+3. kal#-lat# E₂.SAG.GIL₂# [...]
+#tr.en: Bride of Esagila [. . .]
+
+4. [x x] x# x# [...]
+#tr.en: [. . .] . . . [. . .]
+
+$ end of surface missing

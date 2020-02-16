@@ -1,4 +1,4 @@
-&P413954 = LKA 042
+﻿&P413954 = LKA 042
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -8,7 +8,7 @@
 
 @obverse
 
-1. EN₂ be-lu da-pi-nu bu-kur₂ bi₂-[in-du₆-ku₃]
+1. EN₂ be-lu da-pi-nu bu-kur₂ bi₂-[in-DU₆.KU₃]
 #tr.en: Incantation: O mighty lord, son of Bin[duku],
 #note: The gap at the end of the line looks to be large enough for only three signs rather than four. Thus, the line probably did not end with -ga. But see line 3. VAT 13649 obverse begins here.
 
@@ -37,7 +37,6 @@
 
 9. [...] šip#-ṭi# u EŠ#.BAR# bu-ru#-[me? ...]
 #tr.en: [. . .] judgment and cases in the firmam[ent . . .] 
-#note: VAT 13686 obverse indirectly joins VAT 13649 in this line. See Ebeling's copy. 
 
 10. [...] u? {d}e₂-a še-mu-u zi#-[kir-šu₂]
 #tr.en: [Whose] comm[and . . .] and Ea hears,
