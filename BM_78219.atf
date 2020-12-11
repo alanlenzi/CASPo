@@ -1,4 +1,4 @@
-&P345544 = CT 44, 35
+﻿&P345544 = CT 44, 35
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -8,7 +8,7 @@
 
 @surface a
 
-1. EN₂ {d}NISABA šar-ra-tu₄ hu-ma-li-ti#
+1. EN₂ {d}NISABA# šar-ra-tu₄ hu-ma-li-ti#
 #tr.en: Incantation: O Nisaba, sympathetic queen,
 
 2. DU₃{+at} DINGIR LUGAL u₃ NAM.LU₂.U₁₈.LU# 
@@ -30,22 +30,22 @@
 #tr.en: Soothe (my) angry (personal) god, my ang[ry] (personal) goddess. 
 
 8. ana-ku {m}{d}GIŠ.NU₁₁-MU-GI.NA DUMU DINGIR-šu₂#
-#tr.en: I (am) Shamash-shuma-mukin, son of his (personal) god [. . .]
+#tr.en: I (am) Shamash-shuma-mukin, son of his (personal) god,
 
 9. [ša₂] DINGIR#-šu₂# {d}AMAR.UTU {d}1(u) 5(diš)-šu₂ {d}zar-pa-ni-tu₄#
 #tr.en: [Wh]ose (personal) god (is) Marduk, (and personal) goddess (is) Zarpanitu,
 
 10. [ina] HUL# A₂-MEŠ GISKIM#-MEŠ HUL-MEŠ NU DU₁₀.GA-MEŠ#
-#tr.en: (And) the evil of portents (and) omens, unpleasant (and) unfavorable,
+#tr.en: [On account of] the evil of portents (and) omens, unpleasant (and) unfavorable,
 
 11. [ša ina] E₂#.GAL-ia u KUR-ia GAL₂-MEŠ
-#tr.en: [Which] keeps happening in my house and (throughout) my land,
+#tr.en: [Which] keeps happening [in] my house and (throughout) my land,
 
 12. [HUL-BI] ia#-ši u E₂.GAL-[ia]
 #tr.en: [Its evil], to me and [my] palace,
 
 13. [...] a#-a KU.NU a-a KUR#-[an-ni]
-#tr.en: [. . .] come close, not reach [me].
+#tr.en: [. . .] may not come close, not reach [me].
 
 14. [...] x# x# [...]
 #tr.en: [. . .] . . . [. . .]

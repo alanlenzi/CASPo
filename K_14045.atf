@@ -1,4 +1,4 @@
-&P400603 = AOAT 034, 077
+﻿&P400603 = AOAT 034, 077
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -20,10 +20,10 @@ $ beginning of obverse missing
 #tr.en: [. . .] to prosper.
 
 4'. [... li]-sa#-li-mu
-#tr.en: May they (i.e., the great gods) reconcile [. . .]
+#tr.en: [May . . .] be at peace.
 
 5'. [...] lim-hu-ru
-#tr.en: May they receive [. . .]
+#tr.en: [. . .] may they receive [. . .]
 
 6'. [... liš-mu]-u₂# tas-li-ti
 #tr.en: [. . . may] they [hear] my prayer.
@@ -47,7 +47,7 @@ $ beginning of obverse missing
 #tr.en: [. . . who does not] cease (standing) before you. 
 
 4. [...] ri-ša₂-a re-e-mu
-#tr.en: [. . .] obtain mercy for me.
+#tr.en: [. . .]. Have mercy on me.
 
 5. [...] x# SU₃-ka
 #tr.en: [. . .] may [. . ] rejoice on account of you.

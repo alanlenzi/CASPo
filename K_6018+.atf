@@ -1,0 +1,181 @@
+&P396319 = AOAT 034, 059
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: This tablet, K.6018+, attests several prayers to Sin and the catchline to Nergal 2.
+
+@tablet
+
+@obverse
+
+$ beginning of obverse missing
+1'. [...] x# TI#? ID#? x# RI# lu#-u#? im#-x#-[...]
+#tr.en: [. . .] . . . [. . .]
+#note: Restorations follow Mayer 1976: 529-531 unless otherwise noted. At the end of this first line, Mayer suggests reading ⸢LU ḪI IM⸣.
+
+2'. [ina qi₂]-bit# iq-bu-u₂ {d#?}x# [...]
+#tr.en: [According to the comm]and which [(some deity) . . .] speaks [. . .]
+
+3'. [ina] KA#? šar-ra-ti ra-bi-ti {d#}TIR.[AN.NA TU₆.EN₂]
+#tr.en: [By] the word (lit. mouth) of the great queen Man[ziat (i.e., Rainbow). Concluding Incantation Formula]
+#note: Mayer interprets the first legible sign as DU₁₁? instead of KA (1976: 529). There is only a trace of the right-most vertical wedge of the sign preserved on the tablet.
+
+$ single ruling
+
+4'. [KA].INIM ŠU.IL₂.LA₂ [{d}+EN.ZU-KAM*]
+#tr.en: [It is the wor]ding of a lifted-hand prayer [to Sin.]
+#note: I suppose a ligature of the DINGIR and EN here, as in obv. 13ˊ below.
+
+$ single ruling
+
+5'. [KID₃].KID₃-BI e-nu-ma {d}3(u) in-nam-ma-ru NIG₂.NA [ŠIM.LI GAR{+an}]
+#tr.en: Its [rit]ual: When Sin becomes visible, [set up] a censer [of juniper].
+
+6'. [KAŠ].SAG BAL{+qi₂} ana IGI {d}3(u) DUR SIK₂ x# [...]
+#tr.en: You libate [be]er in the presence of Sin. A bundle of white wool . . [. . .]
+
+7'. [x]-ma KEŠDA EN₂ ŠID{+nu} ina IZI# GAR{+an}-ma AN#? [...]
+#tr.en: [. . .] and tie (it) in a knot(?). You recite the incantation. You place (it) in the fire and . . [. . .]
+
+$ single ruling
+
+8'. EN₂# EN U₄.SAKAR kul-la-[ti bi-ni-ti]
+#tr.en: Incantation: O lord, crescent moon (over) al[l creation],
+
+9'. a#-šar U₂.HI.A er-ṣe-tu₄ a-dir#-[ti ul-du]
+#tr.en: The place where the earth [bore my] apprehension (as/with) the plants, 
+
+10'. ki#-ma hi-ri-ti ana ABZU# a-dir-ti# [liš-du-ud]
+#tr.en: [Let] (it, i.e., the earth) [draw] my apprehension to the Apsu as with/in a canal.
+#note: For an explanation of the imagery here, see Lambert 1974: 296-297 and Jaques 2015: 236. Lambert suggests this version of the line is the original; compare below, rev. 9ˊ.
+
+11'. la# eš!(ŠI)-ru-tu₄ lim-hu-ru!(RA) a-di-ra#-ti#-[ia]
+#tr.en: May unjust men receive [my] apprehension.
+#note: My translation of the line follows Jaques 2015: 234, 235 and CAD/Š, 388 (cited by Jaques); compare Lambert 1974: 297, who thinks the adjective refers to water, which has dropped out of the text. He supposes the LA is a corruption for NAR, nār (ešrēti).
+ 
+12'. ana-ku ana sul-li-ka# ak-ta-mis ma-har-ka lu-bi#-[ib]
+#note: I have bowed down to make supplication to you. May I be puri[fied] in your presence.
+
+$ single ruling
+
+13'. KA.INIM.MA ŠU.IL₂.LA₂ {d}+EN.ZU-[KAM*]
+#tr.en: [It is] the wording of a lifted-hand prayer to Sin.
+
+$ single ruling
+
+14'. DU₃#.DU₃-BI ina U₂.SAL ID₂ NIG₂.NA GAR{+an} mi-ih-ha BAL{+qi₂} IM U₂.SAL ID₂ TI#{+qe₂}
+#tr.en: Its ritual: You set up a censer in the river meadows. You libate miḫḫu-beer. You take clay from the river meadows.
+
+15'. ZA#.NA# MUNUS DU₃{+uš} ina ŠU-ka IL₂-ma EN U₄.SAKAR kul-la-ti 3(diš)-šu₂ ŠID[{+nu}-ma]
+#tr.en: You make a female doll/gamepiece(?). You lift it up in your hand. You reci[te] "O lord, crescent (over) all" three times.
+
+16'. [ZA.NA ana ID₂ ŠUB]{+di#}-ma KI.ZA.ZA-ma KEŠDA DU₈{+ar₂} šam-ša₂-ni KU₃.GI 7(diš) [...]
+#tr.en: [You thro]w [the doll/gamepiece(?) in the river]. Then you prostrate yourself and take apart the ritual assemblage. Gold disks(?) seven [. . .]
+
+17'. [...] x# x# x# ki-a-am DU₁₁.GA KID-ma x# x# [...]
+#tr.en: [. . .] . . . thus you say. You sprinkle(?) . . . [. . .]
+
+18'. [...]-u₂-ti ša₂ ŠU.TAG.GA LAL? TI [...]
+#tr.en: [. . .] . . . of . . . [. . .]
+#note: It is unclear to me what ŠU.TAG.GA stands for. Mayer 1976: 530 gives no explanation or translation.
+
+19'. [...] x# UN-MEŠ [...]
+#tr.en: [. . .] . the people [. . .]
+
+20'. [...] di-lip-ti MA [...]
+#tr.en: [. . .] my anxiety . . [. . .]
+
+21'. [...] x# ŠA IR? RU [...]
+#tr.en: [. . .] . . . [. . .]
+
+@reverse
+
+$ beginning of reverse missing
+
+1'. [...] x# x# kit#?-ti# it#-ti# x# x# la# AD# x# BU# x# x# [...]
+#tr.en: [. . .] . . . [. . .]
+
+2'. [...] x#-am-ma šu-kun za-ku-ti#
+#tr.en: [. . .] . to me. Establish my freedom! 
+
+3'. [la-le]-e ba-la-ṭi lu-uš-bi TU₆.EN₂
+#tr.en: May I be sated on the [abunda]nce of (my) well-being! Incantation Closing Formula.
+
+$ single ruling
+
+4'. [KA].INIM.MA ša₂ IGI.DU₈.A {d}3(u) HUL SIG₅.GA.KAM#
+#tr.en: It is [the wor]ding to make an evil appearance of Sin favorable.
+
+$ single ruling
+
+5'. [DU₃].DU₃#-BI U₄{+mi} {d}3(u) IGI.LA₂ SIK₂.GA.RIG₂.AK.A ta-mat-tah₂#
+#tr.en: Its [rit]ual: On the day Sin becomes visible, you collect carded wool.
+#note: SIK₂.GA.RIG₂.AK.A = pušikku, "carded wool."
+
+6'. EN₂#? 7(diš)-šu₂ ana UGU ŠID{+nu}-ma ina GU₂-šu₂ GAR{+an}-ma HUL pa-ši-ir
+#tr.en: You recite the incantation(?) seven times over it. You place (it, i.e., the wool) on his neck, and the evil will be resolved.
+
+$ single ruling
+
+7'. EN₂# na-an-na-ru kul-lat bi-ni-ti
+#tr.en: Incantation: Nannaru (over) all of creation,
+
+8'. [a]-šar it-ti U₂.HI.A KI{+ti₃} a-dir-ti ul-du
+#tr.en: [The p]lace where the earth bore my apprehension with the plants,
+
+9'. KI#{+ti₃} ma-hi-rat ana ABZU a-dir-ti liš-du-ud#
+#tr.en: Let the netherworld, which receives (it), draw my apprehension to the Apsu.
+
+10'. <la?> eš#?-ru-tu lim-hu-ru a-di-ra-ti-ia₅
+#tr.en: May <un>just men receive my fear.
+#note: The sense of the line requires a negative particle at its head (see obv. 11ˊ above). Either the LA has fallen out or, more speculatively, we have NIŠ rather than EŠ (see Lambert's reading, 1974: 295), which may preserve a vocalization of and Sandhi writing of NU eš-ru-tu. Signficant textual variation exists in the manuscripts attesting this particular prayer, and thus a corruption of some kind is likely.
+
+11'. i#-ša₂-ru-tu lim-hu-ru-in-[ni]
+#tr.en: May just men receive m[e].
+
+12'. šu#?-ša₂-ru-tu li-ten₂-nu-u₂ it-ti-ia₅
+#tr.en: May those who were made just change places with me.
+
+13'. liš#?-du#?-ud ar₂-ni la pa-li-hu ma-har-ka lil-[qe₂]
+#tr.en: May the one who does not fear (you) draw my guilt; may he ta[ke] (it) in your presence.  
+
+14'. EN [a]-na#-ku a-na sul-li-ka ak-ta-mis ma-har-ka lu-bi#-[ib]
+#tr.en: O lord, I, indeed, have bowed down to make supplication to you. May I be puri[fied] in your presence.
+
+$ single ruling
+
+15'. KA#.INIM#.MA ša₂ IGI.DU₈.A {d}3(u) HUL SIG₅.GA-[KAM*]
+#tr.en: [It is] the wording for making an evil appearance of Sin favorable.
+
+$ single ruling
+
+16'. DU₃.[DU₃]-BI# U₄{+mi} {d}3(u) IGI.DU₈ ana IGI {d}3(u) NIG₂.NA ŠIM.LI GAR{+an#}
+#tr.en: Its rit[ual]: On the day Sin becomes visible, set out a censer of juniper before Sin.
+
+17'. KAŠ.[SAG] BAL#-qi₂ IM u₂-šal-li ID₂ TI-qe₂
+#tr.en: You libate be[er]. You take clay from the river meadows.
+
+18'. ZA#?.[NA? NITA? DU₃{+uš}] EN₂ 3(diš)-šu₂ ana IGI {d}3(u) ŠID-ma
+#tr.en: [You make a male(?)] do[ll]/game[piece](?). You recite the incantation three times before Sin.
+
+19'. [ku-tal]-la#-nik-ka ana₃ ID₂ ŠUB-ma HUL BUR₂
+#tr.en: You throw (it) into the river [behin]d you, and the evil will be resolved.
+
+$ single ruling
+
+20'. [EN₂ EN] ga#-aš-ru ti-iz-qa-ru bu-kur₂ {d}nun-nam-nir#
+#tr.en: [Incantation]: O powerful [lord], exalted one, offspring of Nunnamnir.
+#note: This is the catchline to Nergal 2.
+
+$ at least 3 lines blank
+
+21'. [E₂.GAL {m}AN].ŠAR₃#.DU₃#.A LUGAL ŠU₂ LUGAL KUR AN.ŠAR₃{ki}
+#tr.en: [Palace of As]hurbanipal, king of the world, king of the land of Ashur,
+
+22'. [ša a-na AN.ŠAR₃] u₃ {d#}NIN.LIL₂ tak-lu₄
+#tr.en: [Who] trusts [in Ashur] and Ninlil,
+
+23'. [ša {d}+NA₄ u₃ {d}taš-me-tu₄ GEŠTU-MIN DAGAL]{+tu₄#} iš#-ru-ku#-uš#
+#tr.en: [To whom Nabu and Tashmetu] gave [wid]e [understanding].
+
+$ end of reverse missing
