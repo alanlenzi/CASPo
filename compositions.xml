@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-12-01T21:53:05">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-01-28T15:43:55">
 <Sheet1>
 <ID>1</ID>
 <Q-Number>Q006052</Q-Number>
@@ -9,6 +9,7 @@
 <Further_x0020_Literature>Mayer 1976: 378; Frechette 2012: 252; Lenzi 2013 (BM 38537, new witness)</Further_x0020_Literature>
 <Witnesses_x0020_Transliterated>3 of 4</Witnesses_x0020_Transliterated>
 <Field7>Frechette 2012: passim. Perhaps add more references.</Field7>
+<Field8>The tablet count below does not included material added in 2021.</Field8>
 </Sheet1>
 <Sheet1>
 <ID>2</ID>
@@ -308,7 +309,7 @@
 <Edition>Ebeling 1949: 186-190, Ebeling 1953: 142-143, Zgoll 2003: 287-288, Abusch and Schwemer 2011: 365-371</Edition>
 <Translation_x0020_of_x0020_Prayer>Abusch and Schwemer 2011: 368-370</Translation_x0020_of_x0020_Prayer>
 <Further_x0020_Literature>Mayer 1976: 338, 390; Frechette 2012: 208-212, 258</Further_x0020_Literature>
-<Witnesses_x0020_Transliterated>0 of 2</Witnesses_x0020_Transliterated>
+<Witnesses_x0020_Transliterated>2 of 2</Witnesses_x0020_Transliterated>
 <Field7>Ebeling 1949 is not in biblio yet</Field7>
 </Sheet1>
 <Sheet1>
@@ -414,7 +415,7 @@
 <Edition>Ebeling 1953: 64-65; Oshima 2011: 328-344 (distinguishes Marduk 2 from prayer in AOAT 34 28 (+) 29 and //s)</Edition>
 <Translation_x0020_of_x0020_Prayer>Foster 2005: 686-687; Castellino 1977: 717-718; Seux 1976: 290-292; von Soden 1953: 297-298; Van Buylaere 2010a; Greenwood in Lenzi 2011: 322-323</Translation_x0020_of_x0020_Prayer>
 <Further_x0020_Literature>Abusch 1983; Greenwood in Lenzi 2011: 313-324; Mayer 1976: 395; Frechette 2012: 260; Oshima 2011: 109-111</Further_x0020_Literature>
-<Witnesses_x0020_Transliterated>15 of 19</Witnesses_x0020_Transliterated>
+<Witnesses_x0020_Transliterated>16 of 18</Witnesses_x0020_Transliterated>
 </Sheet1>
 <Sheet1>
 <ID>50</ID>
@@ -668,8 +669,9 @@
 <ID>79</ID>
 <Q-Number>Q006131</Q-Number>
 <Composition_x0020_Name>SB Šuʾilla Prayer to Nergal 4</Composition_x0020_Name>
+<Edition>Mayer 1976: 519-522; Maul 1994: 393-394</Edition>
 <Further_x0020_Literature>Frechette 2012: 186-187</Further_x0020_Literature>
-<Witnesses_x0020_Transliterated>0 of 2</Witnesses_x0020_Transliterated>
+<Witnesses_x0020_Transliterated>2 of 2</Witnesses_x0020_Transliterated>
 </Sheet1>
 <Sheet1>
 <ID>80</ID>
@@ -837,7 +839,7 @@
 <Edition>Mayer 1976: 490-49; Butler 1998: 379-398</Edition>
 <Translation_x0020_of_x0020_Prayer>Foster 2005: 760-761; Seux 1976: 278-280; von Soden 1953: 316-317; Lenzi in Lenzi 2011: 399-400</Translation_x0020_of_x0020_Prayer>
 <Further_x0020_Literature>Mayer 1976: 408; Frechette 2012: 188, 201-208, 268-269; Lenzi in Lenzi 2011: 385-402; Frechette 2012: 201-208; Lenzi 2016</Further_x0020_Literature>
-<Witnesses_x0020_Transliterated>8 of 10</Witnesses_x0020_Transliterated>
+<Witnesses_x0020_Transliterated>10 of 10</Witnesses_x0020_Transliterated>
 </Sheet1>
 <Sheet1>
 <ID>101</ID>
@@ -986,15 +988,16 @@
 <ID>119</ID>
 <Q-Number>Q006173</Q-Number>
 <Composition_x0020_Name>SB Šuʾilla Prayer to Šamaš 5</Composition_x0020_Name>
+<Edition>Mayer 1976: 519-522; Maul 1994: 392-393</Edition>
 <Further_x0020_Literature>Frechette 2012: 186-187, 272; Mayer 1976: 410</Further_x0020_Literature>
-<Witnesses_x0020_Transliterated>0 of 4</Witnesses_x0020_Transliterated>
+<Witnesses_x0020_Transliterated>4 of 4</Witnesses_x0020_Transliterated>
 </Sheet1>
 <Sheet1>
 <ID>120</ID>
 <Q-Number>Q006174</Q-Number>
 <Composition_x0020_Name>SB Šuʾilla Prayer to Šamaš 6</Composition_x0020_Name>
 <Further_x0020_Literature>Frechette 2012: 189-190, 272; Mayer 1976: 411; Maul 1994: 197, n.346</Further_x0020_Literature>
-<Witnesses_x0020_Transliterated>0 of 2</Witnesses_x0020_Transliterated>
+<Witnesses_x0020_Transliterated>2 of 2</Witnesses_x0020_Transliterated>
 </Sheet1>
 <Sheet1>
 <ID>121</ID>
