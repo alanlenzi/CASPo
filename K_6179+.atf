@@ -1,4 +1,4 @@
-﻿&P237223 =  AOAT 034, 014
+&P237223 =  AOAT 034, 014
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -65,15 +65,17 @@
 18. im-nu-uk mi-ša₂-ri šu#-me-el-ki dum-qu
 #tr.en: Justice (lies) at your right hand, favor at your left.
 
-19. kun-nu ina re-ši-ki taš-mu-u u sa-li-mu 
+@bottom
+
+1. kun-nu ina re-ši-ki taš-mu-u u sa-li-mu 
 #tr.en: Acceptance and peace are confirmed in your presence.
 #note: This line and the next two are on the lower edge of the tablet.
 
-20. i-ta-tu-ki šu-tas-hu-ra# ba-la₂-ṭi u šul-mu
+2. i-ta-tu-ki šu-tas-hu-ra# ba-la₂-ṭi u šul-mu
 #tr.en: Life and wholeness revolve around you.
 #note: Lit. "all around you, life and wholeness stand in a circle."
 
-21. ki-i ṭa-a-bu su-pu-ki# ki-i qe₂-ru-ub ša₂-mu-ki
+3. ki-i ṭa-a-bu su-pu-ki# ki-i qe₂-ru-ub ša₂-mu-ki
 #tr.en: How sweet (it is) to pray to you; how near (is) your hearing. 
 #note: It may be that the ŠA₂ is a mistake for ŠE here.
 
@@ -135,7 +137,7 @@
 #tr.en: [. . .] your divinity
 
 19. [...] lu-uk-šu-ud
-#tr.en. [. . .] may I attain
+#tr.en: [. . .] may I attain
 
 20. [...] SUD-ki
 #tr.en: [. . .] rejoice on your account
@@ -147,4 +149,4 @@
 #tr.en: [. . .] you set up a censer of juniper
 
 23. [... KI].ZA.ZA
-#tr.en [. . .] you bow down
+#tr.en: [. . .] you bow down

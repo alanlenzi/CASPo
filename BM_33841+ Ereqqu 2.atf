@@ -1,0 +1,37 @@
+&P513540 = BM 33841 + BM 48068
+#project: caspo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: BM 33841 + BM 48068 contains a variation of Ereqqu 2. The ATF here comes from eBabylon.org for now. I need to collate the tablet.
+
+
+ATF adopted from eBabylon
+@obverse
+1. [...] x e-req-qu ša₂-ma-mi be-let kul-lat da-ad₂-me sa-hi-ra-at
+2. [...] AN-e KU₃-MEŠ sa-hi-rat {d}UTU.E₃.A u {d}UTU.ŠU₂.A
+3. [...] mu-ṣa-am-mi-dat AN-e KU₃-MEŠ AMA! DINGIR-MEŠ DU₃.A.BI
+4. [ki-ṣir ŠA₃-bi] {d}EN.LIL₂ ta-paṭ-ṭa-ri-ʾ at-ta a-bu-tu₂ la na-ṭi-[lu]
+5. [...] {d}EN.LIL₂ en-šu₂ tu-še-en-ṣe-e ma-la dan-nu [ia-ʾa-a tu]-ša₂-ak-[ša₂-di]
+#note: or akk@{tu-uṣ-ṣi}
+6. [ni-iz-mat-su i-n]a-an-nu NENNI A NENNI ARAD-ka [al]-si-ka {d}[GAŠAN aš₂-su₂] NENNI [A NENNI]
+7. [i-zi-ra-an]-ni-ma nu-us-sa-[ku ...] u₂-ba-an-ni [...]
+8. [... a]m-ra-an-ni [ter]-ri ki-šad-ka su-uh-hi-ra pa-nu-ka i[d-ni mi-lik-x]
+9. [ana ARAD-ki] ia-a-ši šub-[ši-i INIM SIG₅-ti₃-ia ina ŠA₃-šu₂]
+10. [... ina pi-i-šu₂] šu-uš-ki-in-ni kit-tu₂ {mul}MAR.GID₂.DA.AN.NA na-ram-mat {d}e[n-lil₂]
+11. [šar-ra]-at UN-MEŠ be-let KUR.KUR na-di-na-at ta-šim-ti AN-e ba-ni-tu₄
+12. [UN-MEŠ] ka-la-mu a-a-ba-aš₂ ina qi₂-bit DINGIR-ut-[ti-ki]
+13. [GAL-ti š]a₂ la ut-tak-ka-ru u an-nim [(x)] ki-nim ša₂ la in-nen-nu-u₂
+$ single ruling
+14. [...] A.ŠA₃ GA ana? IGI? {mul}MAR.GID₂.DA DUB-ak I₃.GIŠ BARA₂ [...]
+15. [...] 3-šu₂
+16. [...] {mul}MAR.G[ID₂.DA]
+
+@reverse
+$ (many traces)
+
+@bottom
+1'. [...] lu-u₂ ina A-MEŠ ZI qa ši? ik ud DIŠ ma
+2'. [e-ma DU-ku ta]m-ma-gar DINGIR LUGAL IDIM u NUN i-ha-du-ka
+3'. [...] GABA.RI NU TUKU-ši : te-et-ta-ku?-lu?
+4'. [...] {d}AG.MAN.IGI
+5'. [...] x x x x id ka pi ni?

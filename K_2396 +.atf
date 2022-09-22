@@ -1,4 +1,4 @@
-&P397497 = BMS 48 + ZA 042, 221-222,BMS 05 (K.6019 + K.7243 is AOAT 034, 015), BMS 08 + Iraq 76, 108-109 (K.9083)
+&P397497 = BMS 48 + ZA 042, 221-222, BMS 05 (K.6019 + K.7243 is AOAT 034, 015), BMS 08 + Iraq 76, 108-109 (K.9083)
 #project: caspo
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -97,20 +97,20 @@ $ single ruling
 
 $ single ruling
 
-28. EN₂ qa₂-rit-tu₄ {d}iš-tar ka-nu-ut i-la₂-a-ti#
+28. EN₂# qa₂-rit-tu₄ {d}iš-tar ka-nu-ut i-la₂-a-ti#
 #tr.en: Incantation: O heroic Ishtar, cherished one among the goddesses,
 
-29. [di]-par AN+e u KI+ti₃ ša₂-ru-ur kib-ra-a-ti#
+29. [di]-par AN{+e} u KI{+ti₃} ša₂-ru-ur kib-ra-a-ti#
 #tr.en: [To]rch of the heavens and earth, brilliance of the world,
 #note: Restorations from here to the end of the obverse follow Ambose 2013: 198, 200.
 
 30. [{d}]in#-nin-ni bu-uk-rat {d}3(u) i-lit-ti {d}nin-gal#
 #tr.en: Innini, firstborn of Sin, offspring of Ningal,
 
-31. [tu]-am#-ti ṭar₃-ri šu-pe-e qu-ra-du {d}UTU+{ši#}
+31. [tu]-am#-ti ṭar₃-ri šu-pe-e qu-ra-du {d}UTU{+ši#}
 #tr.en: Twin sister to the bearded, resplendent one of the warrior Shamash,
 
-32. [{d}]iš#-tar a-na-ti-ma AN+{e} ta-be₂-el-li#
+32. [{d}]iš#-tar a-na-ti-ma AN{+e} ta-be₂-el-li#
 #tr.en: Ishtar, you are (like?) Anu, you rule the heavens.
 
 33. [GIM] {d#}+EN.LIL₂ ma-li-ki ta-ṭe-em-me da-ad₂-mi
@@ -157,7 +157,7 @@ $ single ruling
 #tr.en: [Accep]tance and consent (and) peace [. . .]
 
 46. [i-ta-tu-ki šu-tas-hu]-ra# TI.LA šul-mu#
-#tr.en: #tr.en: Life (and) wholeness [revo]lve [around you].
+#tr.en: Life (and) wholeness [revo]lve [around you].
 #note: Lit. "[all around you] life and wholeness stand in a circle." BMS 5 + K.7243 ends here.
 
 @reverse
@@ -218,7 +218,7 @@ $ single ruling
 #tr.en: Whatever I strive for, let me achieve. May the heavens rejoice over you. May the Apsu be glad [on your account].
 
 19. DINGIR-MEŠ ša₂ kiš-ša₂-ti lik-ru-bu-ki : DINGIR-MEŠ GAL-MEŠ lib₃-ba-ki li-ṭib-[bu]
-#tr.en: May the gods of the world (lit. everything) great you. May the great gods make your heart gl[ad].
+#tr.en: May the gods of the world (lit. everything) greet you. May the great gods make your heart gl[ad].
 
 $ single ruling
 
